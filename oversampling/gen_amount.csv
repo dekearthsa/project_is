@@ -1,0 +1,4951 @@
+,word,Bank,label
+0,4.00,scb,Amount
+1,9.00,scb,Amount
+2,6.00,scb,Amount
+3,6.00,scb,Amount
+4,2.00,scb,Amount
+5,5.00,scb,Amount
+6,6.00,scb,Amount
+7,1.00,scb,Amount
+8,2.00,scb,Amount
+9,4.00,scb,Amount
+10,7.00,scb,Amount
+11,2.00,scb,Amount
+12,7.00,scb,Amount
+13,7.00,scb,Amount
+14,2.00,scb,Amount
+15,5.00,scb,Amount
+16,6.00,scb,Amount
+17,1.00,scb,Amount
+18,4.00,scb,Amount
+19,8.00,scb,Amount
+20,5.00,scb,Amount
+21,5.00,scb,Amount
+22,8.00,scb,Amount
+23,7.00,scb,Amount
+24,9.00,scb,Amount
+25,1.00,scb,Amount
+26,5.00,scb,Amount
+27,1.00,scb,Amount
+28,4.00,scb,Amount
+29,3.00,scb,Amount
+30,7.00,scb,Amount
+31,6.00,scb,Amount
+32,5.00,scb,Amount
+33,1.00,scb,Amount
+34,8.00,scb,Amount
+35,3.00,scb,Amount
+36,1.00,scb,Amount
+37,6.00,scb,Amount
+38,9.00,scb,Amount
+39,3.00,scb,Amount
+40,7.00,scb,Amount
+41,3.00,scb,Amount
+42,4.00,scb,Amount
+43,2.00,scb,Amount
+44,8.00,scb,Amount
+45,5.00,scb,Amount
+46,6.00,scb,Amount
+47,1.00,scb,Amount
+48,7.00,scb,Amount
+49,7.00,scb,Amount
+50,4.00,scb,Amount
+51,2.00,scb,Amount
+52,7.00,scb,Amount
+53,5.00,scb,Amount
+54,1.00,scb,Amount
+55,2.00,scb,Amount
+56,2.00,scb,Amount
+57,3.00,scb,Amount
+58,8.00,scb,Amount
+59,7.00,scb,Amount
+60,1.00,scb,Amount
+61,4.00,scb,Amount
+62,2.00,scb,Amount
+63,9.00,scb,Amount
+64,7.00,scb,Amount
+65,6.00,scb,Amount
+66,2.00,scb,Amount
+67,2.00,scb,Amount
+68,7.00,scb,Amount
+69,4.00,scb,Amount
+70,4.00,scb,Amount
+71,9.00,scb,Amount
+72,8.00,scb,Amount
+73,3.00,scb,Amount
+74,9.00,scb,Amount
+75,6.00,scb,Amount
+76,4.00,scb,Amount
+77,7.00,scb,Amount
+78,7.00,scb,Amount
+79,4.00,scb,Amount
+80,7.00,scb,Amount
+81,3.00,scb,Amount
+82,7.00,scb,Amount
+83,3.00,scb,Amount
+84,8.00,scb,Amount
+85,3.00,scb,Amount
+86,7.00,scb,Amount
+87,8.00,scb,Amount
+88,6.00,scb,Amount
+89,2.00,scb,Amount
+90,2.00,scb,Amount
+91,9.00,scb,Amount
+92,9.00,scb,Amount
+93,7.00,scb,Amount
+94,8.00,scb,Amount
+95,4.00,scb,Amount
+96,1.00,scb,Amount
+97,1.00,scb,Amount
+98,5.00,scb,Amount
+99,5.00,scb,Amount
+100,67.00,scb,Amount
+101,49.00,scb,Amount
+102,37.00,scb,Amount
+103,61.00,scb,Amount
+104,17.00,scb,Amount
+105,29.00,scb,Amount
+106,50.00,scb,Amount
+107,71.00,scb,Amount
+108,82.00,scb,Amount
+109,97.00,scb,Amount
+110,26.00,scb,Amount
+111,72.00,scb,Amount
+112,58.00,scb,Amount
+113,22.00,scb,Amount
+114,69.00,scb,Amount
+115,13.00,scb,Amount
+116,76.00,scb,Amount
+117,10.00,scb,Amount
+118,39.00,scb,Amount
+119,57.00,scb,Amount
+120,74.00,scb,Amount
+121,63.00,scb,Amount
+122,99.00,scb,Amount
+123,87.00,scb,Amount
+124,26.00,scb,Amount
+125,44.00,scb,Amount
+126,65.00,scb,Amount
+127,48.00,scb,Amount
+128,41.00,scb,Amount
+129,41.00,scb,Amount
+130,68.00,scb,Amount
+131,28.00,scb,Amount
+132,49.00,scb,Amount
+133,63.00,scb,Amount
+134,86.00,scb,Amount
+135,52.00,scb,Amount
+136,98.00,scb,Amount
+137,14.00,scb,Amount
+138,96.00,scb,Amount
+139,35.00,scb,Amount
+140,75.00,scb,Amount
+141,90.00,scb,Amount
+142,53.00,scb,Amount
+143,98.00,scb,Amount
+144,73.00,scb,Amount
+145,80.00,scb,Amount
+146,52.00,scb,Amount
+147,98.00,scb,Amount
+148,98.00,scb,Amount
+149,72.00,scb,Amount
+150,66.00,scb,Amount
+151,41.00,scb,Amount
+152,30.00,scb,Amount
+153,84.00,scb,Amount
+154,49.00,scb,Amount
+155,15.00,scb,Amount
+156,82.00,scb,Amount
+157,50.00,scb,Amount
+158,63.00,scb,Amount
+159,49.00,scb,Amount
+160,69.00,scb,Amount
+161,71.00,scb,Amount
+162,59.00,scb,Amount
+163,63.00,scb,Amount
+164,81.00,scb,Amount
+165,62.00,scb,Amount
+166,69.00,scb,Amount
+167,93.00,scb,Amount
+168,96.00,scb,Amount
+169,50.00,scb,Amount
+170,22.00,scb,Amount
+171,39.00,scb,Amount
+172,32.00,scb,Amount
+173,30.00,scb,Amount
+174,28.00,scb,Amount
+175,61.00,scb,Amount
+176,34.00,scb,Amount
+177,75.00,scb,Amount
+178,14.00,scb,Amount
+179,20.00,scb,Amount
+180,70.00,scb,Amount
+181,65.00,scb,Amount
+182,83.00,scb,Amount
+183,28.00,scb,Amount
+184,49.00,scb,Amount
+185,96.00,scb,Amount
+186,70.00,scb,Amount
+187,74.00,scb,Amount
+188,22.00,scb,Amount
+189,73.00,scb,Amount
+190,63.00,scb,Amount
+191,29.00,scb,Amount
+192,62.00,scb,Amount
+193,49.00,scb,Amount
+194,35.00,scb,Amount
+195,50.00,scb,Amount
+196,25.00,scb,Amount
+197,19.00,scb,Amount
+198,87.00,scb,Amount
+199,90.00,scb,Amount
+200,39.00,scb,Amount
+201,87.00,scb,Amount
+202,13.00,scb,Amount
+203,20.00,scb,Amount
+204,51.00,scb,Amount
+205,19.00,scb,Amount
+206,31.00,scb,Amount
+207,36.00,scb,Amount
+208,27.00,scb,Amount
+209,83.00,scb,Amount
+210,70.00,scb,Amount
+211,15.00,scb,Amount
+212,80.00,scb,Amount
+213,49.00,scb,Amount
+214,61.00,scb,Amount
+215,32.00,scb,Amount
+216,44.00,scb,Amount
+217,42.00,scb,Amount
+218,82.00,scb,Amount
+219,79.00,scb,Amount
+220,14.00,scb,Amount
+221,29.00,scb,Amount
+222,12.00,scb,Amount
+223,92.00,scb,Amount
+224,51.00,scb,Amount
+225,85.00,scb,Amount
+226,80.00,scb,Amount
+227,71.00,scb,Amount
+228,97.00,scb,Amount
+229,96.00,scb,Amount
+230,55.00,scb,Amount
+231,37.00,scb,Amount
+232,39.00,scb,Amount
+233,81.00,scb,Amount
+234,16.00,scb,Amount
+235,16.00,scb,Amount
+236,69.00,scb,Amount
+237,48.00,scb,Amount
+238,37.00,scb,Amount
+239,69.00,scb,Amount
+240,28.00,scb,Amount
+241,84.00,scb,Amount
+242,67.00,scb,Amount
+243,69.00,scb,Amount
+244,10.00,scb,Amount
+245,79.00,scb,Amount
+246,61.00,scb,Amount
+247,97.00,scb,Amount
+248,43.00,scb,Amount
+249,19.00,scb,Amount
+250,70.00,scb,Amount
+251,93.00,scb,Amount
+252,41.00,scb,Amount
+253,84.00,scb,Amount
+254,82.00,scb,Amount
+255,90.00,scb,Amount
+256,96.00,scb,Amount
+257,29.00,scb,Amount
+258,86.00,scb,Amount
+259,94.00,scb,Amount
+260,35.00,scb,Amount
+261,34.00,scb,Amount
+262,45.00,scb,Amount
+263,69.00,scb,Amount
+264,69.00,scb,Amount
+265,21.00,scb,Amount
+266,83.00,scb,Amount
+267,58.00,scb,Amount
+268,14.00,scb,Amount
+269,72.00,scb,Amount
+270,79.00,scb,Amount
+271,98.00,scb,Amount
+272,38.00,scb,Amount
+273,81.00,scb,Amount
+274,10.00,scb,Amount
+275,47.00,scb,Amount
+276,90.00,scb,Amount
+277,42.00,scb,Amount
+278,80.00,scb,Amount
+279,75.00,scb,Amount
+280,36.00,scb,Amount
+281,16.00,scb,Amount
+282,99.00,scb,Amount
+283,39.00,scb,Amount
+284,15.00,scb,Amount
+285,62.00,scb,Amount
+286,87.00,scb,Amount
+287,61.00,scb,Amount
+288,19.00,scb,Amount
+289,77.00,scb,Amount
+290,22.00,scb,Amount
+291,73.00,scb,Amount
+292,51.00,scb,Amount
+293,40.00,scb,Amount
+294,30.00,scb,Amount
+295,38.00,scb,Amount
+296,46.00,scb,Amount
+297,38.00,scb,Amount
+298,52.00,scb,Amount
+299,16.00,scb,Amount
+300,38.00,scb,Amount
+301,23.00,scb,Amount
+302,94.00,scb,Amount
+303,54.00,scb,Amount
+304,92.00,scb,Amount
+305,10.00,scb,Amount
+306,93.00,scb,Amount
+307,66.00,scb,Amount
+308,21.00,scb,Amount
+309,66.00,scb,Amount
+310,32.00,scb,Amount
+311,97.00,scb,Amount
+312,14.00,scb,Amount
+313,35.00,scb,Amount
+314,31.00,scb,Amount
+315,24.00,scb,Amount
+316,75.00,scb,Amount
+317,34.00,scb,Amount
+318,28.00,scb,Amount
+319,88.00,scb,Amount
+320,90.00,scb,Amount
+321,27.00,scb,Amount
+322,40.00,scb,Amount
+323,92.00,scb,Amount
+324,37.00,scb,Amount
+325,16.00,scb,Amount
+326,22.00,scb,Amount
+327,78.00,scb,Amount
+328,18.00,scb,Amount
+329,48.00,scb,Amount
+330,32.00,scb,Amount
+331,51.00,scb,Amount
+332,23.00,scb,Amount
+333,47.00,scb,Amount
+334,33.00,scb,Amount
+335,96.00,scb,Amount
+336,32.00,scb,Amount
+337,22.00,scb,Amount
+338,50.00,scb,Amount
+339,32.00,scb,Amount
+340,31.00,scb,Amount
+341,64.00,scb,Amount
+342,61.00,scb,Amount
+343,69.00,scb,Amount
+344,12.00,scb,Amount
+345,20.00,scb,Amount
+346,69.00,scb,Amount
+347,46.00,scb,Amount
+348,96.00,scb,Amount
+349,28.00,scb,Amount
+350,58.00,scb,Amount
+351,79.00,scb,Amount
+352,73.00,scb,Amount
+353,46.00,scb,Amount
+354,91.00,scb,Amount
+355,58.00,scb,Amount
+356,86.00,scb,Amount
+357,28.00,scb,Amount
+358,46.00,scb,Amount
+359,10.00,scb,Amount
+360,45.00,scb,Amount
+361,94.00,scb,Amount
+362,79.00,scb,Amount
+363,95.00,scb,Amount
+364,74.00,scb,Amount
+365,23.00,scb,Amount
+366,70.00,scb,Amount
+367,19.00,scb,Amount
+368,20.00,scb,Amount
+369,75.00,scb,Amount
+370,14.00,scb,Amount
+371,51.00,scb,Amount
+372,73.00,scb,Amount
+373,14.00,scb,Amount
+374,24.00,scb,Amount
+375,88.00,scb,Amount
+376,72.00,scb,Amount
+377,47.00,scb,Amount
+378,32.00,scb,Amount
+379,28.00,scb,Amount
+380,45.00,scb,Amount
+381,90.00,scb,Amount
+382,51.00,scb,Amount
+383,21.00,scb,Amount
+384,49.00,scb,Amount
+385,63.00,scb,Amount
+386,78.00,scb,Amount
+387,60.00,scb,Amount
+388,40.00,scb,Amount
+389,31.00,scb,Amount
+390,21.00,scb,Amount
+391,77.00,scb,Amount
+392,63.00,scb,Amount
+393,42.00,scb,Amount
+394,13.00,scb,Amount
+395,22.00,scb,Amount
+396,81.00,scb,Amount
+397,77.00,scb,Amount
+398,66.00,scb,Amount
+399,70.00,scb,Amount
+400,411.00,scb,Amount
+401,798.00,scb,Amount
+402,672.00,scb,Amount
+403,398.00,scb,Amount
+404,275.00,scb,Amount
+405,781.00,scb,Amount
+406,105.00,scb,Amount
+407,529.00,scb,Amount
+408,244.00,scb,Amount
+409,483.00,scb,Amount
+410,801.00,scb,Amount
+411,200.00,scb,Amount
+412,497.00,scb,Amount
+413,538.00,scb,Amount
+414,497.00,scb,Amount
+415,225.00,scb,Amount
+416,162.00,scb,Amount
+417,468.00,scb,Amount
+418,119.00,scb,Amount
+419,929.00,scb,Amount
+420,776.00,scb,Amount
+421,312.00,scb,Amount
+422,251.00,scb,Amount
+423,930.00,scb,Amount
+424,493.00,scb,Amount
+425,782.00,scb,Amount
+426,912.00,scb,Amount
+427,400.00,scb,Amount
+428,465.00,scb,Amount
+429,409.00,scb,Amount
+430,778.00,scb,Amount
+431,162.00,scb,Amount
+432,356.00,scb,Amount
+433,385.00,scb,Amount
+434,954.00,scb,Amount
+435,650.00,scb,Amount
+436,378.00,scb,Amount
+437,555.00,scb,Amount
+438,131.00,scb,Amount
+439,450.00,scb,Amount
+440,675.00,scb,Amount
+441,411.00,scb,Amount
+442,718.00,scb,Amount
+443,840.00,scb,Amount
+444,431.00,scb,Amount
+445,343.00,scb,Amount
+446,168.00,scb,Amount
+447,513.00,scb,Amount
+448,431.00,scb,Amount
+449,853.00,scb,Amount
+450,584.00,scb,Amount
+451,624.00,scb,Amount
+452,805.00,scb,Amount
+453,569.00,scb,Amount
+454,579.00,scb,Amount
+455,550.00,scb,Amount
+456,760.00,scb,Amount
+457,316.00,scb,Amount
+458,529.00,scb,Amount
+459,547.00,scb,Amount
+460,853.00,scb,Amount
+461,935.00,scb,Amount
+462,271.00,scb,Amount
+463,862.00,scb,Amount
+464,615.00,scb,Amount
+465,763.00,scb,Amount
+466,751.00,scb,Amount
+467,595.00,scb,Amount
+468,277.00,scb,Amount
+469,298.00,scb,Amount
+470,553.00,scb,Amount
+471,963.00,scb,Amount
+472,311.00,scb,Amount
+473,654.00,scb,Amount
+474,151.00,scb,Amount
+475,174.00,scb,Amount
+476,198.00,scb,Amount
+477,461.00,scb,Amount
+478,415.00,scb,Amount
+479,584.00,scb,Amount
+480,958.00,scb,Amount
+481,178.00,scb,Amount
+482,564.00,scb,Amount
+483,943.00,scb,Amount
+484,396.00,scb,Amount
+485,488.00,scb,Amount
+486,600.00,scb,Amount
+487,518.00,scb,Amount
+488,390.00,scb,Amount
+489,940.00,scb,Amount
+490,888.00,scb,Amount
+491,452.00,scb,Amount
+492,722.00,scb,Amount
+493,593.00,scb,Amount
+494,989.00,scb,Amount
+495,283.00,scb,Amount
+496,807.00,scb,Amount
+497,964.00,scb,Amount
+498,815.00,scb,Amount
+499,604.00,scb,Amount
+500,906.00,scb,Amount
+501,370.00,scb,Amount
+502,302.00,scb,Amount
+503,582.00,scb,Amount
+504,276.00,scb,Amount
+505,789.00,scb,Amount
+506,462.00,scb,Amount
+507,910.00,scb,Amount
+508,206.00,scb,Amount
+509,313.00,scb,Amount
+510,646.00,scb,Amount
+511,135.00,scb,Amount
+512,534.00,scb,Amount
+513,124.00,scb,Amount
+514,189.00,scb,Amount
+515,702.00,scb,Amount
+516,826.00,scb,Amount
+517,687.00,scb,Amount
+518,133.00,scb,Amount
+519,668.00,scb,Amount
+520,255.00,scb,Amount
+521,336.00,scb,Amount
+522,634.00,scb,Amount
+523,934.00,scb,Amount
+524,293.00,scb,Amount
+525,146.00,scb,Amount
+526,699.00,scb,Amount
+527,248.00,scb,Amount
+528,293.00,scb,Amount
+529,518.00,scb,Amount
+530,281.00,scb,Amount
+531,266.00,scb,Amount
+532,374.00,scb,Amount
+533,441.00,scb,Amount
+534,531.00,scb,Amount
+535,889.00,scb,Amount
+536,380.00,scb,Amount
+537,116.00,scb,Amount
+538,382.00,scb,Amount
+539,354.00,scb,Amount
+540,172.00,scb,Amount
+541,714.00,scb,Amount
+542,231.00,scb,Amount
+543,505.00,scb,Amount
+544,744.00,scb,Amount
+545,659.00,scb,Amount
+546,701.00,scb,Amount
+547,499.00,scb,Amount
+548,605.00,scb,Amount
+549,218.00,scb,Amount
+550,323.00,scb,Amount
+551,588.00,scb,Amount
+552,191.00,scb,Amount
+553,420.00,scb,Amount
+554,292.00,scb,Amount
+555,622.00,scb,Amount
+556,516.00,scb,Amount
+557,482.00,scb,Amount
+558,432.00,scb,Amount
+559,357.00,scb,Amount
+560,924.00,scb,Amount
+561,810.00,scb,Amount
+562,221.00,scb,Amount
+563,522.00,scb,Amount
+564,332.00,scb,Amount
+565,527.00,scb,Amount
+566,334.00,scb,Amount
+567,854.00,scb,Amount
+568,993.00,scb,Amount
+569,779.00,scb,Amount
+570,943.00,scb,Amount
+571,494.00,scb,Amount
+572,572.00,scb,Amount
+573,860.00,scb,Amount
+574,395.00,scb,Amount
+575,207.00,scb,Amount
+576,269.00,scb,Amount
+577,433.00,scb,Amount
+578,801.00,scb,Amount
+579,593.00,scb,Amount
+580,253.00,scb,Amount
+581,828.00,scb,Amount
+582,680.00,scb,Amount
+583,463.00,scb,Amount
+584,892.00,scb,Amount
+585,994.00,scb,Amount
+586,907.00,scb,Amount
+587,474.00,scb,Amount
+588,397.00,scb,Amount
+589,374.00,scb,Amount
+590,302.00,scb,Amount
+591,380.00,scb,Amount
+592,988.00,scb,Amount
+593,779.00,scb,Amount
+594,886.00,scb,Amount
+595,322.00,scb,Amount
+596,748.00,scb,Amount
+597,599.00,scb,Amount
+598,201.00,scb,Amount
+599,681.00,scb,Amount
+600,842.00,scb,Amount
+601,113.00,scb,Amount
+602,214.00,scb,Amount
+603,115.00,scb,Amount
+604,942.00,scb,Amount
+605,551.00,scb,Amount
+606,968.00,scb,Amount
+607,242.00,scb,Amount
+608,639.00,scb,Amount
+609,875.00,scb,Amount
+610,250.00,scb,Amount
+611,339.00,scb,Amount
+612,172.00,scb,Amount
+613,965.00,scb,Amount
+614,881.00,scb,Amount
+615,312.00,scb,Amount
+616,481.00,scb,Amount
+617,583.00,scb,Amount
+618,662.00,scb,Amount
+619,685.00,scb,Amount
+620,598.00,scb,Amount
+621,347.00,scb,Amount
+622,585.00,scb,Amount
+623,435.00,scb,Amount
+624,407.00,scb,Amount
+625,908.00,scb,Amount
+626,952.00,scb,Amount
+627,460.00,scb,Amount
+628,329.00,scb,Amount
+629,978.00,scb,Amount
+630,311.00,scb,Amount
+631,532.00,scb,Amount
+632,668.00,scb,Amount
+633,565.00,scb,Amount
+634,950.00,scb,Amount
+635,902.00,scb,Amount
+636,938.00,scb,Amount
+637,395.00,scb,Amount
+638,188.00,scb,Amount
+639,229.00,scb,Amount
+640,776.00,scb,Amount
+641,763.00,scb,Amount
+642,739.00,scb,Amount
+643,743.00,scb,Amount
+644,992.00,scb,Amount
+645,536.00,scb,Amount
+646,406.00,scb,Amount
+647,795.00,scb,Amount
+648,179.00,scb,Amount
+649,749.00,scb,Amount
+650,578.00,scb,Amount
+651,340.00,scb,Amount
+652,602.00,scb,Amount
+653,597.00,scb,Amount
+654,778.00,scb,Amount
+655,943.00,scb,Amount
+656,220.00,scb,Amount
+657,945.00,scb,Amount
+658,961.00,scb,Amount
+659,578.00,scb,Amount
+660,832.00,scb,Amount
+661,702.00,scb,Amount
+662,635.00,scb,Amount
+663,932.00,scb,Amount
+664,128.00,scb,Amount
+665,257.00,scb,Amount
+666,795.00,scb,Amount
+667,895.00,scb,Amount
+668,186.00,scb,Amount
+669,749.00,scb,Amount
+670,542.00,scb,Amount
+671,600.00,scb,Amount
+672,633.00,scb,Amount
+673,616.00,scb,Amount
+674,265.00,scb,Amount
+675,309.00,scb,Amount
+676,470.00,scb,Amount
+677,936.00,scb,Amount
+678,586.00,scb,Amount
+679,512.00,scb,Amount
+680,142.00,scb,Amount
+681,102.00,scb,Amount
+682,713.00,scb,Amount
+683,306.00,scb,Amount
+684,606.00,scb,Amount
+685,843.00,scb,Amount
+686,776.00,scb,Amount
+687,194.00,scb,Amount
+688,695.00,scb,Amount
+689,892.00,scb,Amount
+690,625.00,scb,Amount
+691,362.00,scb,Amount
+692,691.00,scb,Amount
+693,227.00,scb,Amount
+694,154.00,scb,Amount
+695,377.00,scb,Amount
+696,987.00,scb,Amount
+697,616.00,scb,Amount
+698,348.00,scb,Amount
+699,815.00,scb,Amount
+700,445.00,scb,Amount
+701,943.00,scb,Amount
+702,716.00,scb,Amount
+703,954.00,scb,Amount
+704,644.00,scb,Amount
+705,109.00,scb,Amount
+706,752.00,scb,Amount
+707,157.00,scb,Amount
+708,584.00,scb,Amount
+709,831.00,scb,Amount
+710,717.00,scb,Amount
+711,630.00,scb,Amount
+712,414.00,scb,Amount
+713,708.00,scb,Amount
+714,374.00,scb,Amount
+715,904.00,scb,Amount
+716,246.00,scb,Amount
+717,991.00,scb,Amount
+718,987.00,scb,Amount
+719,520.00,scb,Amount
+720,149.00,scb,Amount
+721,391.00,scb,Amount
+722,627.00,scb,Amount
+723,961.00,scb,Amount
+724,532.00,scb,Amount
+725,432.00,scb,Amount
+726,343.00,scb,Amount
+727,889.00,scb,Amount
+728,882.00,scb,Amount
+729,357.00,scb,Amount
+730,516.00,scb,Amount
+731,573.00,scb,Amount
+732,196.00,scb,Amount
+733,766.00,scb,Amount
+734,373.00,scb,Amount
+735,823.00,scb,Amount
+736,303.00,scb,Amount
+737,266.00,scb,Amount
+738,400.00,scb,Amount
+739,487.00,scb,Amount
+740,137.00,scb,Amount
+741,660.00,scb,Amount
+742,828.00,scb,Amount
+743,255.00,scb,Amount
+744,868.00,scb,Amount
+745,770.00,scb,Amount
+746,563.00,scb,Amount
+747,937.00,scb,Amount
+748,240.00,scb,Amount
+749,533.00,scb,Amount
+750,123.00,scb,Amount
+751,675.00,scb,Amount
+752,189.00,scb,Amount
+753,343.00,scb,Amount
+754,481.00,scb,Amount
+755,905.00,scb,Amount
+756,313.00,scb,Amount
+757,998.00,scb,Amount
+758,853.00,scb,Amount
+759,591.00,scb,Amount
+760,449.00,scb,Amount
+761,136.00,scb,Amount
+762,922.00,scb,Amount
+763,895.00,scb,Amount
+764,922.00,scb,Amount
+765,649.00,scb,Amount
+766,280.00,scb,Amount
+767,792.00,scb,Amount
+768,229.00,scb,Amount
+769,356.00,scb,Amount
+770,934.00,scb,Amount
+771,842.00,scb,Amount
+772,805.00,scb,Amount
+773,262.00,scb,Amount
+774,537.00,scb,Amount
+775,743.00,scb,Amount
+776,633.00,scb,Amount
+777,783.00,scb,Amount
+778,360.00,scb,Amount
+779,272.00,scb,Amount
+780,190.00,scb,Amount
+781,768.00,scb,Amount
+782,531.00,scb,Amount
+783,966.00,scb,Amount
+784,533.00,scb,Amount
+785,462.00,scb,Amount
+786,878.00,scb,Amount
+787,464.00,scb,Amount
+788,853.00,scb,Amount
+789,957.00,scb,Amount
+790,523.00,scb,Amount
+791,695.00,scb,Amount
+792,654.00,scb,Amount
+793,804.00,scb,Amount
+794,572.00,scb,Amount
+795,256.00,scb,Amount
+796,203.00,scb,Amount
+797,765.00,scb,Amount
+798,792.00,scb,Amount
+799,313.00,scb,Amount
+800,503.00,scb,Amount
+801,611.00,scb,Amount
+802,748.00,scb,Amount
+803,961.00,scb,Amount
+804,568.00,scb,Amount
+805,437.00,scb,Amount
+806,758.00,scb,Amount
+807,189.00,scb,Amount
+808,276.00,scb,Amount
+809,673.00,scb,Amount
+810,290.00,scb,Amount
+811,326.00,scb,Amount
+812,259.00,scb,Amount
+813,739.00,scb,Amount
+814,250.00,scb,Amount
+815,894.00,scb,Amount
+816,102.00,scb,Amount
+817,996.00,scb,Amount
+818,816.00,scb,Amount
+819,258.00,scb,Amount
+820,706.00,scb,Amount
+821,600.00,scb,Amount
+822,710.00,scb,Amount
+823,377.00,scb,Amount
+824,990.00,scb,Amount
+825,126.00,scb,Amount
+826,606.00,scb,Amount
+827,846.00,scb,Amount
+828,182.00,scb,Amount
+829,280.00,scb,Amount
+830,457.00,scb,Amount
+831,541.00,scb,Amount
+832,373.00,scb,Amount
+833,950.00,scb,Amount
+834,791.00,scb,Amount
+835,472.00,scb,Amount
+836,823.00,scb,Amount
+837,764.00,scb,Amount
+838,147.00,scb,Amount
+839,845.00,scb,Amount
+840,248.00,scb,Amount
+841,650.00,scb,Amount
+842,847.00,scb,Amount
+843,697.00,scb,Amount
+844,265.00,scb,Amount
+845,552.00,scb,Amount
+846,932.00,scb,Amount
+847,278.00,scb,Amount
+848,619.00,scb,Amount
+849,981.00,scb,Amount
+850,"8,093.00",scb,Amount
+851,"6,944.00",scb,Amount
+852,"7,645.00",scb,Amount
+853,"7,625.00",scb,Amount
+854,"7,826.00",scb,Amount
+855,"6,679.00",scb,Amount
+856,"2,724.00",scb,Amount
+857,"6,231.00",scb,Amount
+858,"4,810.00",scb,Amount
+859,"9,993.00",scb,Amount
+860,"7,141.00",scb,Amount
+861,"1,972.00",scb,Amount
+862,"9,685.00",scb,Amount
+863,"6,552.00",scb,Amount
+864,"1,902.00",scb,Amount
+865,"4,713.00",scb,Amount
+866,"6,955.00",scb,Amount
+867,"5,652.00",scb,Amount
+868,"4,138.00",scb,Amount
+869,"1,247.00",scb,Amount
+870,"6,481.00",scb,Amount
+871,"9,269.00",scb,Amount
+872,"9,991.00",scb,Amount
+873,"5,481.00",scb,Amount
+874,"7,641.00",scb,Amount
+875,"1,082.00",scb,Amount
+876,"4,397.00",scb,Amount
+877,"4,258.00",scb,Amount
+878,"5,630.00",scb,Amount
+879,"2,298.00",scb,Amount
+880,"3,793.00",scb,Amount
+881,"3,872.00",scb,Amount
+882,"1,071.00",scb,Amount
+883,"6,052.00",scb,Amount
+884,"2,497.00",scb,Amount
+885,"4,891.00",scb,Amount
+886,"2,521.00",scb,Amount
+887,"5,704.00",scb,Amount
+888,"7,803.00",scb,Amount
+889,"1,434.00",scb,Amount
+890,"7,951.00",scb,Amount
+891,"4,145.00",scb,Amount
+892,"5,770.00",scb,Amount
+893,"8,247.00",scb,Amount
+894,"9,727.00",scb,Amount
+895,"2,511.00",scb,Amount
+896,"1,648.00",scb,Amount
+897,"8,878.00",scb,Amount
+898,"7,634.00",scb,Amount
+899,"4,558.00",scb,Amount
+900,"6,882.00",scb,Amount
+901,"7,283.00",scb,Amount
+902,"6,641.00",scb,Amount
+903,"2,678.00",scb,Amount
+904,"1,863.00",scb,Amount
+905,"1,042.00",scb,Amount
+906,"2,530.00",scb,Amount
+907,"1,801.00",scb,Amount
+908,"7,769.00",scb,Amount
+909,"9,067.00",scb,Amount
+910,"3,127.00",scb,Amount
+911,"7,314.00",scb,Amount
+912,"5,787.00",scb,Amount
+913,"6,774.00",scb,Amount
+914,"3,758.00",scb,Amount
+915,"3,305.00",scb,Amount
+916,"3,286.00",scb,Amount
+917,"4,367.00",scb,Amount
+918,"7,323.00",scb,Amount
+919,"5,339.00",scb,Amount
+920,"5,124.00",scb,Amount
+921,"3,363.00",scb,Amount
+922,"1,341.00",scb,Amount
+923,"2,355.00",scb,Amount
+924,"6,982.00",scb,Amount
+925,"4,468.00",scb,Amount
+926,"2,803.00",scb,Amount
+927,"3,689.00",scb,Amount
+928,"1,879.00",scb,Amount
+929,"7,467.00",scb,Amount
+930,"2,812.00",scb,Amount
+931,"5,135.00",scb,Amount
+932,"4,131.00",scb,Amount
+933,"9,352.00",scb,Amount
+934,"9,534.00",scb,Amount
+935,"7,592.00",scb,Amount
+936,"3,880.00",scb,Amount
+937,"3,946.00",scb,Amount
+938,"5,306.00",scb,Amount
+939,"7,204.00",scb,Amount
+940,"2,152.00",scb,Amount
+941,"5,193.00",scb,Amount
+942,"1,387.00",scb,Amount
+943,"2,133.00",scb,Amount
+944,"8,800.00",scb,Amount
+945,"2,229.00",scb,Amount
+946,"7,231.00",scb,Amount
+947,"3,394.00",scb,Amount
+948,"1,648.00",scb,Amount
+949,"7,425.00",scb,Amount
+950,"6,367.00",scb,Amount
+951,"4,571.00",scb,Amount
+952,"9,738.00",scb,Amount
+953,"1,051.00",scb,Amount
+954,"8,305.00",scb,Amount
+955,"5,771.00",scb,Amount
+956,"9,017.00",scb,Amount
+957,"7,209.00",scb,Amount
+958,"1,322.00",scb,Amount
+959,"8,415.00",scb,Amount
+960,"3,650.00",scb,Amount
+961,"6,463.00",scb,Amount
+962,"7,601.00",scb,Amount
+963,"9,662.00",scb,Amount
+964,"4,981.00",scb,Amount
+965,"8,270.00",scb,Amount
+966,"9,206.00",scb,Amount
+967,"2,154.00",scb,Amount
+968,"6,592.00",scb,Amount
+969,"7,117.00",scb,Amount
+970,"2,111.00",scb,Amount
+971,"9,216.00",scb,Amount
+972,"9,043.00",scb,Amount
+973,"3,640.00",scb,Amount
+974,"6,298.00",scb,Amount
+975,"1,982.00",scb,Amount
+976,"6,668.00",scb,Amount
+977,"8,651.00",scb,Amount
+978,"9,044.00",scb,Amount
+979,"9,912.00",scb,Amount
+980,"2,789.00",scb,Amount
+981,"6,513.00",scb,Amount
+982,"7,910.00",scb,Amount
+983,"3,755.00",scb,Amount
+984,"5,458.00",scb,Amount
+985,"7,023.00",scb,Amount
+986,"4,927.00",scb,Amount
+987,"5,651.00",scb,Amount
+988,"6,156.00",scb,Amount
+989,"5,234.00",scb,Amount
+990,"5,030.00",scb,Amount
+991,"7,239.00",scb,Amount
+992,"6,755.00",scb,Amount
+993,"6,892.00",scb,Amount
+994,"4,207.00",scb,Amount
+995,"1,156.00",scb,Amount
+996,"6,846.00",scb,Amount
+997,"1,723.00",scb,Amount
+998,"7,858.00",scb,Amount
+999,"3,862.00",scb,Amount
+1000,"4,625.00",scb,Amount
+1001,"4,586.00",scb,Amount
+1002,"3,826.00",scb,Amount
+1003,"7,436.00",scb,Amount
+1004,"1,818.00",scb,Amount
+1005,"9,177.00",scb,Amount
+1006,"9,923.00",scb,Amount
+1007,"8,639.00",scb,Amount
+1008,"5,752.00",scb,Amount
+1009,"3,213.00",scb,Amount
+1010,"9,371.00",scb,Amount
+1011,"8,163.00",scb,Amount
+1012,"4,929.00",scb,Amount
+1013,"1,219.00",scb,Amount
+1014,"5,270.00",scb,Amount
+1015,"2,594.00",scb,Amount
+1016,"2,605.00",scb,Amount
+1017,"5,528.00",scb,Amount
+1018,"1,966.00",scb,Amount
+1019,"3,664.00",scb,Amount
+1020,"4,304.00",scb,Amount
+1021,"2,687.00",scb,Amount
+1022,"6,965.00",scb,Amount
+1023,"7,048.00",scb,Amount
+1024,"4,628.00",scb,Amount
+1025,"3,357.00",scb,Amount
+1026,"6,983.00",scb,Amount
+1027,"3,184.00",scb,Amount
+1028,"8,340.00",scb,Amount
+1029,"1,468.00",scb,Amount
+1030,"6,142.00",scb,Amount
+1031,"8,160.00",scb,Amount
+1032,"7,484.00",scb,Amount
+1033,"4,339.00",scb,Amount
+1034,"4,243.00",scb,Amount
+1035,"7,512.00",scb,Amount
+1036,"1,916.00",scb,Amount
+1037,"4,386.00",scb,Amount
+1038,"3,204.00",scb,Amount
+1039,"9,527.00",scb,Amount
+1040,"8,695.00",scb,Amount
+1041,"8,944.00",scb,Amount
+1042,"1,638.00",scb,Amount
+1043,"2,639.00",scb,Amount
+1044,"2,219.00",scb,Amount
+1045,"8,976.00",scb,Amount
+1046,"7,275.00",scb,Amount
+1047,"9,442.00",scb,Amount
+1048,"1,146.00",scb,Amount
+1049,"7,447.00",scb,Amount
+1050,"8,644.00",scb,Amount
+1051,"7,515.00",scb,Amount
+1052,"4,534.00",scb,Amount
+1053,"5,655.00",scb,Amount
+1054,"3,177.00",scb,Amount
+1055,"8,262.00",scb,Amount
+1056,"3,265.00",scb,Amount
+1057,"9,493.00",scb,Amount
+1058,"8,860.00",scb,Amount
+1059,"4,502.00",scb,Amount
+1060,"6,513.00",scb,Amount
+1061,"5,510.00",scb,Amount
+1062,"8,574.00",scb,Amount
+1063,"9,061.00",scb,Amount
+1064,"1,905.00",scb,Amount
+1065,"2,013.00",scb,Amount
+1066,"4,506.00",scb,Amount
+1067,"9,801.00",scb,Amount
+1068,"2,549.00",scb,Amount
+1069,"2,570.00",scb,Amount
+1070,"7,569.00",scb,Amount
+1071,"5,671.00",scb,Amount
+1072,"8,207.00",scb,Amount
+1073,"3,154.00",scb,Amount
+1074,"8,731.00",scb,Amount
+1075,"5,381.00",scb,Amount
+1076,"4,108.00",scb,Amount
+1077,"9,310.00",scb,Amount
+1078,"3,742.00",scb,Amount
+1079,"8,499.00",scb,Amount
+1080,"3,348.00",scb,Amount
+1081,"1,321.00",scb,Amount
+1082,"7,927.00",scb,Amount
+1083,"6,862.00",scb,Amount
+1084,"6,415.00",scb,Amount
+1085,"3,837.00",scb,Amount
+1086,"9,705.00",scb,Amount
+1087,"2,961.00",scb,Amount
+1088,"3,805.00",scb,Amount
+1089,"5,442.00",scb,Amount
+1090,"4,395.00",scb,Amount
+1091,"7,274.00",scb,Amount
+1092,"4,400.00",scb,Amount
+1093,"3,160.00",scb,Amount
+1094,"3,406.00",scb,Amount
+1095,"7,950.00",scb,Amount
+1096,"1,910.00",scb,Amount
+1097,"1,107.00",scb,Amount
+1098,"6,491.00",scb,Amount
+1099,"2,947.00",scb,Amount
+1100,"1,570.00",scb,Amount
+1101,"6,492.00",scb,Amount
+1102,"4,855.00",scb,Amount
+1103,"1,342.00",scb,Amount
+1104,"6,629.00",scb,Amount
+1105,"4,468.00",scb,Amount
+1106,"2,237.00",scb,Amount
+1107,"6,058.00",scb,Amount
+1108,"2,607.00",scb,Amount
+1109,"4,503.00",scb,Amount
+1110,"5,776.00",scb,Amount
+1111,"5,845.00",scb,Amount
+1112,"6,374.00",scb,Amount
+1113,"2,031.00",scb,Amount
+1114,"4,503.00",scb,Amount
+1115,"8,661.00",scb,Amount
+1116,"5,647.00",scb,Amount
+1117,"4,405.00",scb,Amount
+1118,"6,960.00",scb,Amount
+1119,"3,439.00",scb,Amount
+1120,"7,555.00",scb,Amount
+1121,"3,253.00",scb,Amount
+1122,"5,878.00",scb,Amount
+1123,"8,419.00",scb,Amount
+1124,"7,337.00",scb,Amount
+1125,"8,579.00",scb,Amount
+1126,"9,150.00",scb,Amount
+1127,"8,713.00",scb,Amount
+1128,"7,357.00",scb,Amount
+1129,"2,926.00",scb,Amount
+1130,"1,993.00",scb,Amount
+1131,"3,520.00",scb,Amount
+1132,"8,978.00",scb,Amount
+1133,"7,284.00",scb,Amount
+1134,"6,981.00",scb,Amount
+1135,"8,404.00",scb,Amount
+1136,"7,348.00",scb,Amount
+1137,"7,132.00",scb,Amount
+1138,"7,578.00",scb,Amount
+1139,"6,157.00",scb,Amount
+1140,"1,090.00",scb,Amount
+1141,"8,580.00",scb,Amount
+1142,"3,462.00",scb,Amount
+1143,"4,689.00",scb,Amount
+1144,"5,311.00",scb,Amount
+1145,"6,317.00",scb,Amount
+1146,"1,308.00",scb,Amount
+1147,"1,251.00",scb,Amount
+1148,"4,462.00",scb,Amount
+1149,"6,659.00",scb,Amount
+1150,"1,315.00",scb,Amount
+1151,"1,734.00",scb,Amount
+1152,"3,025.00",scb,Amount
+1153,"8,208.00",scb,Amount
+1154,"7,042.00",scb,Amount
+1155,"3,090.00",scb,Amount
+1156,"8,101.00",scb,Amount
+1157,"9,657.00",scb,Amount
+1158,"5,806.00",scb,Amount
+1159,"6,124.00",scb,Amount
+1160,"6,961.00",scb,Amount
+1161,"9,439.00",scb,Amount
+1162,"5,682.00",scb,Amount
+1163,"3,479.00",scb,Amount
+1164,"6,474.00",scb,Amount
+1165,"3,722.00",scb,Amount
+1166,"2,112.00",scb,Amount
+1167,"8,596.00",scb,Amount
+1168,"3,140.00",scb,Amount
+1169,"4,059.00",scb,Amount
+1170,"4,680.00",scb,Amount
+1171,"5,785.00",scb,Amount
+1172,"9,610.00",scb,Amount
+1173,"8,880.00",scb,Amount
+1174,"2,425.00",scb,Amount
+1175,"5,594.00",scb,Amount
+1176,"6,594.00",scb,Amount
+1177,"7,129.00",scb,Amount
+1178,"6,199.00",scb,Amount
+1179,"6,066.00",scb,Amount
+1180,"3,594.00",scb,Amount
+1181,"1,587.00",scb,Amount
+1182,"6,477.00",scb,Amount
+1183,"5,964.00",scb,Amount
+1184,"5,773.00",scb,Amount
+1185,"5,384.00",scb,Amount
+1186,"2,855.00",scb,Amount
+1187,"9,704.00",scb,Amount
+1188,"4,689.00",scb,Amount
+1189,"9,597.00",scb,Amount
+1190,"7,876.00",scb,Amount
+1191,"2,342.00",scb,Amount
+1192,"6,885.00",scb,Amount
+1193,"7,176.00",scb,Amount
+1194,"7,535.00",scb,Amount
+1195,"5,538.00",scb,Amount
+1196,"8,412.00",scb,Amount
+1197,"2,468.00",scb,Amount
+1198,"4,316.00",scb,Amount
+1199,"2,386.00",scb,Amount
+1200,"4,679.00",scb,Amount
+1201,"5,118.00",scb,Amount
+1202,"2,944.00",scb,Amount
+1203,"6,427.00",scb,Amount
+1204,"2,281.00",scb,Amount
+1205,"6,330.00",scb,Amount
+1206,"9,194.00",scb,Amount
+1207,"1,206.00",scb,Amount
+1208,"3,001.00",scb,Amount
+1209,"1,585.00",scb,Amount
+1210,"7,010.00",scb,Amount
+1211,"1,183.00",scb,Amount
+1212,"5,103.00",scb,Amount
+1213,"5,457.00",scb,Amount
+1214,"3,736.00",scb,Amount
+1215,"9,441.00",scb,Amount
+1216,"8,381.00",scb,Amount
+1217,"2,911.00",scb,Amount
+1218,"1,806.00",scb,Amount
+1219,"1,565.00",scb,Amount
+1220,"5,766.00",scb,Amount
+1221,"1,120.00",scb,Amount
+1222,"6,735.00",scb,Amount
+1223,"5,350.00",scb,Amount
+1224,"2,250.00",scb,Amount
+1225,"3,462.00",scb,Amount
+1226,"6,936.00",scb,Amount
+1227,"3,266.00",scb,Amount
+1228,"9,028.00",scb,Amount
+1229,"5,346.00",scb,Amount
+1230,"4,459.00",scb,Amount
+1231,"3,440.00",scb,Amount
+1232,"6,307.00",scb,Amount
+1233,"5,476.00",scb,Amount
+1234,"8,938.00",scb,Amount
+1235,"3,657.00",scb,Amount
+1236,"9,325.00",scb,Amount
+1237,"9,947.00",scb,Amount
+1238,"4,082.00",scb,Amount
+1239,"1,324.00",scb,Amount
+1240,"7,142.00",scb,Amount
+1241,"5,815.00",scb,Amount
+1242,"1,916.00",scb,Amount
+1243,"7,218.00",scb,Amount
+1244,"2,751.00",scb,Amount
+1245,"3,627.00",scb,Amount
+1246,"2,009.00",scb,Amount
+1247,"2,367.00",scb,Amount
+1248,"4,067.00",scb,Amount
+1249,"2,091.00",scb,Amount
+1250,"36,809.00",scb,Amount
+1251,"27,575.00",scb,Amount
+1252,"59,792.00",scb,Amount
+1253,"73,171.00",scb,Amount
+1254,"59,244.00",scb,Amount
+1255,"50,495.00",scb,Amount
+1256,"89,330.00",scb,Amount
+1257,"96,428.00",scb,Amount
+1258,"27,687.00",scb,Amount
+1259,"32,235.00",scb,Amount
+1260,"57,234.00",scb,Amount
+1261,"24,764.00",scb,Amount
+1262,"25,026.00",scb,Amount
+1263,"32,294.00",scb,Amount
+1264,"79,482.00",scb,Amount
+1265,"51,361.00",scb,Amount
+1266,"46,399.00",scb,Amount
+1267,"78,206.00",scb,Amount
+1268,"17,856.00",scb,Amount
+1269,"42,388.00",scb,Amount
+1270,"65,560.00",scb,Amount
+1271,"83,548.00",scb,Amount
+1272,"78,693.00",scb,Amount
+1273,"54,907.00",scb,Amount
+1274,"80,811.00",scb,Amount
+1275,"49,156.00",scb,Amount
+1276,"44,135.00",scb,Amount
+1277,"78,731.00",scb,Amount
+1278,"79,319.00",scb,Amount
+1279,"92,191.00",scb,Amount
+1280,"70,530.00",scb,Amount
+1281,"72,719.00",scb,Amount
+1282,"38,005.00",scb,Amount
+1283,"78,725.00",scb,Amount
+1284,"50,225.00",scb,Amount
+1285,"59,548.00",scb,Amount
+1286,"93,102.00",scb,Amount
+1287,"97,140.00",scb,Amount
+1288,"74,858.00",scb,Amount
+1289,"26,124.00",scb,Amount
+1290,"86,406.00",scb,Amount
+1291,"19,929.00",scb,Amount
+1292,"72,287.00",scb,Amount
+1293,"83,789.00",scb,Amount
+1294,"15,673.00",scb,Amount
+1295,"27,905.00",scb,Amount
+1296,"72,203.00",scb,Amount
+1297,"49,982.00",scb,Amount
+1298,"57,801.00",scb,Amount
+1299,"93,758.00",scb,Amount
+1300,"10,723.00",scb,Amount
+1301,"90,906.00",scb,Amount
+1302,"85,713.00",scb,Amount
+1303,"23,336.00",scb,Amount
+1304,"34,241.00",scb,Amount
+1305,"27,450.00",scb,Amount
+1306,"51,082.00",scb,Amount
+1307,"51,664.00",scb,Amount
+1308,"82,818.00",scb,Amount
+1309,"90,520.00",scb,Amount
+1310,"15,129.00",scb,Amount
+1311,"32,117.00",scb,Amount
+1312,"19,506.00",scb,Amount
+1313,"10,589.00",scb,Amount
+1314,"70,324.00",scb,Amount
+1315,"73,388.00",scb,Amount
+1316,"64,689.00",scb,Amount
+1317,"94,095.00",scb,Amount
+1318,"74,394.00",scb,Amount
+1319,"24,238.00",scb,Amount
+1320,"20,376.00",scb,Amount
+1321,"25,339.00",scb,Amount
+1322,"52,351.00",scb,Amount
+1323,"73,650.00",scb,Amount
+1324,"49,668.00",scb,Amount
+1325,"57,539.00",scb,Amount
+1326,"75,439.00",scb,Amount
+1327,"98,292.00",scb,Amount
+1328,"70,166.00",scb,Amount
+1329,"52,317.00",scb,Amount
+1330,"28,131.00",scb,Amount
+1331,"82,468.00",scb,Amount
+1332,"49,323.00",scb,Amount
+1333,"94,273.00",scb,Amount
+1334,"53,778.00",scb,Amount
+1335,"72,297.00",scb,Amount
+1336,"19,269.00",scb,Amount
+1337,"69,237.00",scb,Amount
+1338,"40,063.00",scb,Amount
+1339,"25,099.00",scb,Amount
+1340,"42,859.00",scb,Amount
+1341,"43,536.00",scb,Amount
+1342,"68,436.00",scb,Amount
+1343,"15,956.00",scb,Amount
+1344,"85,224.00",scb,Amount
+1345,"68,173.00",scb,Amount
+1346,"81,555.00",scb,Amount
+1347,"12,214.00",scb,Amount
+1348,"53,659.00",scb,Amount
+1349,"82,678.00",scb,Amount
+1350,"53,516.00",scb,Amount
+1351,"57,614.00",scb,Amount
+1352,"20,543.00",scb,Amount
+1353,"83,433.00",scb,Amount
+1354,"46,311.00",scb,Amount
+1355,"16,913.00",scb,Amount
+1356,"98,220.00",scb,Amount
+1357,"96,186.00",scb,Amount
+1358,"90,531.00",scb,Amount
+1359,"42,074.00",scb,Amount
+1360,"61,913.00",scb,Amount
+1361,"64,445.00",scb,Amount
+1362,"75,449.00",scb,Amount
+1363,"76,208.00",scb,Amount
+1364,"75,926.00",scb,Amount
+1365,"38,847.00",scb,Amount
+1366,"30,955.00",scb,Amount
+1367,"79,400.00",scb,Amount
+1368,"68,934.00",scb,Amount
+1369,"75,707.00",scb,Amount
+1370,"18,322.00",scb,Amount
+1371,"51,913.00",scb,Amount
+1372,"64,749.00",scb,Amount
+1373,"41,895.00",scb,Amount
+1374,"48,696.00",scb,Amount
+1375,"52,772.00",scb,Amount
+1376,"15,035.00",scb,Amount
+1377,"81,848.00",scb,Amount
+1378,"99,158.00",scb,Amount
+1379,"47,554.00",scb,Amount
+1380,"97,826.00",scb,Amount
+1381,"30,407.00",scb,Amount
+1382,"64,651.00",scb,Amount
+1383,"92,961.00",scb,Amount
+1384,"33,230.00",scb,Amount
+1385,"49,220.00",scb,Amount
+1386,"18,644.00",scb,Amount
+1387,"56,883.00",scb,Amount
+1388,"13,130.00",scb,Amount
+1389,"87,920.00",scb,Amount
+1390,"36,622.00",scb,Amount
+1391,"74,554.00",scb,Amount
+1392,"85,677.00",scb,Amount
+1393,"16,028.00",scb,Amount
+1394,"32,222.00",scb,Amount
+1395,"25,485.00",scb,Amount
+1396,"37,881.00",scb,Amount
+1397,"62,405.00",scb,Amount
+1398,"33,312.00",scb,Amount
+1399,"30,094.00",scb,Amount
+1400,"43,200.00",scb,Amount
+1401,"37,816.00",scb,Amount
+1402,"97,866.00",scb,Amount
+1403,"88,565.00",scb,Amount
+1404,"21,316.00",scb,Amount
+1405,"14,141.00",scb,Amount
+1406,"24,069.00",scb,Amount
+1407,"69,546.00",scb,Amount
+1408,"59,531.00",scb,Amount
+1409,"75,059.00",scb,Amount
+1410,"70,057.00",scb,Amount
+1411,"77,362.00",scb,Amount
+1412,"47,840.00",scb,Amount
+1413,"54,034.00",scb,Amount
+1414,"21,651.00",scb,Amount
+1415,"17,705.00",scb,Amount
+1416,"10,980.00",scb,Amount
+1417,"79,975.00",scb,Amount
+1418,"90,157.00",scb,Amount
+1419,"30,210.00",scb,Amount
+1420,"83,670.00",scb,Amount
+1421,"56,108.00",scb,Amount
+1422,"54,021.00",scb,Amount
+1423,"25,964.00",scb,Amount
+1424,"92,440.00",scb,Amount
+1425,"14,656.00",scb,Amount
+1426,"49,577.00",scb,Amount
+1427,"11,368.00",scb,Amount
+1428,"22,819.00",scb,Amount
+1429,"90,484.00",scb,Amount
+1430,"39,179.00",scb,Amount
+1431,"54,844.00",scb,Amount
+1432,"55,003.00",scb,Amount
+1433,"82,617.00",scb,Amount
+1434,"45,984.00",scb,Amount
+1435,"64,038.00",scb,Amount
+1436,"68,247.00",scb,Amount
+1437,"36,007.00",scb,Amount
+1438,"34,555.00",scb,Amount
+1439,"95,053.00",scb,Amount
+1440,"55,905.00",scb,Amount
+1441,"11,293.00",scb,Amount
+1442,"72,107.00",scb,Amount
+1443,"53,855.00",scb,Amount
+1444,"71,626.00",scb,Amount
+1445,"69,343.00",scb,Amount
+1446,"67,162.00",scb,Amount
+1447,"97,810.00",scb,Amount
+1448,"16,922.00",scb,Amount
+1449,"65,244.00",scb,Amount
+1450,"50,569.00",scb,Amount
+1451,"77,018.00",scb,Amount
+1452,"15,042.00",scb,Amount
+1453,"93,996.00",scb,Amount
+1454,"34,358.00",scb,Amount
+1455,"81,355.00",scb,Amount
+1456,"85,322.00",scb,Amount
+1457,"30,200.00",scb,Amount
+1458,"40,387.00",scb,Amount
+1459,"14,271.00",scb,Amount
+1460,"40,782.00",scb,Amount
+1461,"73,963.00",scb,Amount
+1462,"95,588.00",scb,Amount
+1463,"24,994.00",scb,Amount
+1464,"44,537.00",scb,Amount
+1465,"35,943.00",scb,Amount
+1466,"32,315.00",scb,Amount
+1467,"62,107.00",scb,Amount
+1468,"32,891.00",scb,Amount
+1469,"11,254.00",scb,Amount
+1470,"15,105.00",scb,Amount
+1471,"64,316.00",scb,Amount
+1472,"14,143.00",scb,Amount
+1473,"72,263.00",scb,Amount
+1474,"58,312.00",scb,Amount
+1475,"17,051.00",scb,Amount
+1476,"38,805.00",scb,Amount
+1477,"49,795.00",scb,Amount
+1478,"85,933.00",scb,Amount
+1479,"82,777.00",scb,Amount
+1480,"46,288.00",scb,Amount
+1481,"59,609.00",scb,Amount
+1482,"17,381.00",scb,Amount
+1483,"62,273.00",scb,Amount
+1484,"65,269.00",scb,Amount
+1485,"92,684.00",scb,Amount
+1486,"13,470.00",scb,Amount
+1487,"32,110.00",scb,Amount
+1488,"38,488.00",scb,Amount
+1489,"22,426.00",scb,Amount
+1490,"80,408.00",scb,Amount
+1491,"46,338.00",scb,Amount
+1492,"45,562.00",scb,Amount
+1493,"12,643.00",scb,Amount
+1494,"38,415.00",scb,Amount
+1495,"43,144.00",scb,Amount
+1496,"24,081.00",scb,Amount
+1497,"71,084.00",scb,Amount
+1498,"44,972.00",scb,Amount
+1499,"78,139.00",scb,Amount
+1500,"48,689.00",scb,Amount
+1501,"74,378.00",scb,Amount
+1502,"81,655.00",scb,Amount
+1503,"96,716.00",scb,Amount
+1504,"30,940.00",scb,Amount
+1505,"88,623.00",scb,Amount
+1506,"67,198.00",scb,Amount
+1507,"74,378.00",scb,Amount
+1508,"43,415.00",scb,Amount
+1509,"91,331.00",scb,Amount
+1510,"14,852.00",scb,Amount
+1511,"52,469.00",scb,Amount
+1512,"64,464.00",scb,Amount
+1513,"11,220.00",scb,Amount
+1514,"16,869.00",scb,Amount
+1515,"74,527.00",scb,Amount
+1516,"62,845.00",scb,Amount
+1517,"22,627.00",scb,Amount
+1518,"61,887.00",scb,Amount
+1519,"12,106.00",scb,Amount
+1520,"41,936.00",scb,Amount
+1521,"88,761.00",scb,Amount
+1522,"26,121.00",scb,Amount
+1523,"31,445.00",scb,Amount
+1524,"27,985.00",scb,Amount
+1525,"28,153.00",scb,Amount
+1526,"19,640.00",scb,Amount
+1527,"22,534.00",scb,Amount
+1528,"99,247.00",scb,Amount
+1529,"27,823.00",scb,Amount
+1530,"89,582.00",scb,Amount
+1531,"88,587.00",scb,Amount
+1532,"49,536.00",scb,Amount
+1533,"78,419.00",scb,Amount
+1534,"17,855.00",scb,Amount
+1535,"46,153.00",scb,Amount
+1536,"27,251.00",scb,Amount
+1537,"93,752.00",scb,Amount
+1538,"22,496.00",scb,Amount
+1539,"66,114.00",scb,Amount
+1540,"55,442.00",scb,Amount
+1541,"29,008.00",scb,Amount
+1542,"75,144.00",scb,Amount
+1543,"77,453.00",scb,Amount
+1544,"64,190.00",scb,Amount
+1545,"19,643.00",scb,Amount
+1546,"65,534.00",scb,Amount
+1547,"24,504.00",scb,Amount
+1548,"41,363.00",scb,Amount
+1549,"22,665.00",scb,Amount
+1550,"24,492.00",scb,Amount
+1551,"42,329.00",scb,Amount
+1552,"73,983.00",scb,Amount
+1553,"41,002.00",scb,Amount
+1554,"50,638.00",scb,Amount
+1555,"63,820.00",scb,Amount
+1556,"41,821.00",scb,Amount
+1557,"69,876.00",scb,Amount
+1558,"85,935.00",scb,Amount
+1559,"18,690.00",scb,Amount
+1560,"97,188.00",scb,Amount
+1561,"89,898.00",scb,Amount
+1562,"67,499.00",scb,Amount
+1563,"39,904.00",scb,Amount
+1564,"39,751.00",scb,Amount
+1565,"61,195.00",scb,Amount
+1566,"58,820.00",scb,Amount
+1567,"93,502.00",scb,Amount
+1568,"28,018.00",scb,Amount
+1569,"50,492.00",scb,Amount
+1570,"19,459.00",scb,Amount
+1571,"22,427.00",scb,Amount
+1572,"83,840.00",scb,Amount
+1573,"90,529.00",scb,Amount
+1574,"96,489.00",scb,Amount
+1575,"25,946.00",scb,Amount
+1576,"51,150.00",scb,Amount
+1577,"27,324.00",scb,Amount
+1578,"53,689.00",scb,Amount
+1579,"81,141.00",scb,Amount
+1580,"95,165.00",scb,Amount
+1581,"29,752.00",scb,Amount
+1582,"58,050.00",scb,Amount
+1583,"51,880.00",scb,Amount
+1584,"12,005.00",scb,Amount
+1585,"63,771.00",scb,Amount
+1586,"49,553.00",scb,Amount
+1587,"58,406.00",scb,Amount
+1588,"81,514.00",scb,Amount
+1589,"43,227.00",scb,Amount
+1590,"42,429.00",scb,Amount
+1591,"43,360.00",scb,Amount
+1592,"83,115.00",scb,Amount
+1593,"63,290.00",scb,Amount
+1594,"54,491.00",scb,Amount
+1595,"50,060.00",scb,Amount
+1596,"85,490.00",scb,Amount
+1597,"10,520.00",scb,Amount
+1598,"88,286.00",scb,Amount
+1599,"30,034.00",scb,Amount
+1600,"17,352.00",scb,Amount
+1601,"79,094.00",scb,Amount
+1602,"49,628.00",scb,Amount
+1603,"12,225.00",scb,Amount
+1604,"55,138.00",scb,Amount
+1605,"73,875.00",scb,Amount
+1606,"75,494.00",scb,Amount
+1607,"58,013.00",scb,Amount
+1608,"85,195.00",scb,Amount
+1609,"40,891.00",scb,Amount
+1610,"60,735.00",scb,Amount
+1611,"37,185.00",scb,Amount
+1612,"97,675.00",scb,Amount
+1613,"70,630.00",scb,Amount
+1614,"76,202.00",scb,Amount
+1615,"82,896.00",scb,Amount
+1616,"37,356.00",scb,Amount
+1617,"43,787.00",scb,Amount
+1618,"39,388.00",scb,Amount
+1619,"15,000.00",scb,Amount
+1620,"18,703.00",scb,Amount
+1621,"43,011.00",scb,Amount
+1622,"77,197.00",scb,Amount
+1623,"88,243.00",scb,Amount
+1624,"32,634.00",scb,Amount
+1625,"66,899.00",scb,Amount
+1626,"35,030.00",scb,Amount
+1627,"29,551.00",scb,Amount
+1628,"32,152.00",scb,Amount
+1629,"95,277.00",scb,Amount
+1630,"63,484.00",scb,Amount
+1631,"32,305.00",scb,Amount
+1632,"34,139.00",scb,Amount
+1633,"78,875.00",scb,Amount
+1634,"13,823.00",scb,Amount
+1635,"84,724.00",scb,Amount
+1636,"47,076.00",scb,Amount
+1637,"64,051.00",scb,Amount
+1638,"60,375.00",scb,Amount
+1639,"53,428.00",scb,Amount
+1640,"47,413.00",scb,Amount
+1641,"34,266.00",scb,Amount
+1642,"10,032.00",scb,Amount
+1643,"28,578.00",scb,Amount
+1644,"88,007.00",scb,Amount
+1645,"56,042.00",scb,Amount
+1646,"38,909.00",scb,Amount
+1647,"49,677.00",scb,Amount
+1648,"19,159.00",scb,Amount
+1649,"51,592.00",scb,Amount
+1650,5.00 THB,krungsri,Amount
+1651,1.00 THB,krungsri,Amount
+1652,9.00 THB,krungsri,Amount
+1653,1.00 THB,krungsri,Amount
+1654,5.00 THB,krungsri,Amount
+1655,4.00 THB,krungsri,Amount
+1656,1.00 THB,krungsri,Amount
+1657,2.00 THB,krungsri,Amount
+1658,5.00 THB,krungsri,Amount
+1659,9.00 THB,krungsri,Amount
+1660,7.00 THB,krungsri,Amount
+1661,2.00 THB,krungsri,Amount
+1662,3.00 THB,krungsri,Amount
+1663,4.00 THB,krungsri,Amount
+1664,5.00 THB,krungsri,Amount
+1665,9.00 THB,krungsri,Amount
+1666,9.00 THB,krungsri,Amount
+1667,9.00 THB,krungsri,Amount
+1668,9.00 THB,krungsri,Amount
+1669,8.00 THB,krungsri,Amount
+1670,8.00 THB,krungsri,Amount
+1671,4.00 THB,krungsri,Amount
+1672,6.00 THB,krungsri,Amount
+1673,2.00 THB,krungsri,Amount
+1674,6.00 THB,krungsri,Amount
+1675,6.00 THB,krungsri,Amount
+1676,9.00 THB,krungsri,Amount
+1677,8.00 THB,krungsri,Amount
+1678,2.00 THB,krungsri,Amount
+1679,7.00 THB,krungsri,Amount
+1680,4.00 THB,krungsri,Amount
+1681,5.00 THB,krungsri,Amount
+1682,6.00 THB,krungsri,Amount
+1683,2.00 THB,krungsri,Amount
+1684,8.00 THB,krungsri,Amount
+1685,2.00 THB,krungsri,Amount
+1686,3.00 THB,krungsri,Amount
+1687,2.00 THB,krungsri,Amount
+1688,5.00 THB,krungsri,Amount
+1689,8.00 THB,krungsri,Amount
+1690,3.00 THB,krungsri,Amount
+1691,6.00 THB,krungsri,Amount
+1692,8.00 THB,krungsri,Amount
+1693,8.00 THB,krungsri,Amount
+1694,2.00 THB,krungsri,Amount
+1695,4.00 THB,krungsri,Amount
+1696,5.00 THB,krungsri,Amount
+1697,5.00 THB,krungsri,Amount
+1698,2.00 THB,krungsri,Amount
+1699,7.00 THB,krungsri,Amount
+1700,8.00 THB,krungsri,Amount
+1701,5.00 THB,krungsri,Amount
+1702,4.00 THB,krungsri,Amount
+1703,5.00 THB,krungsri,Amount
+1704,2.00 THB,krungsri,Amount
+1705,5.00 THB,krungsri,Amount
+1706,6.00 THB,krungsri,Amount
+1707,9.00 THB,krungsri,Amount
+1708,3.00 THB,krungsri,Amount
+1709,5.00 THB,krungsri,Amount
+1710,7.00 THB,krungsri,Amount
+1711,7.00 THB,krungsri,Amount
+1712,6.00 THB,krungsri,Amount
+1713,3.00 THB,krungsri,Amount
+1714,5.00 THB,krungsri,Amount
+1715,3.00 THB,krungsri,Amount
+1716,1.00 THB,krungsri,Amount
+1717,4.00 THB,krungsri,Amount
+1718,3.00 THB,krungsri,Amount
+1719,1.00 THB,krungsri,Amount
+1720,9.00 THB,krungsri,Amount
+1721,4.00 THB,krungsri,Amount
+1722,7.00 THB,krungsri,Amount
+1723,2.00 THB,krungsri,Amount
+1724,6.00 THB,krungsri,Amount
+1725,2.00 THB,krungsri,Amount
+1726,9.00 THB,krungsri,Amount
+1727,6.00 THB,krungsri,Amount
+1728,4.00 THB,krungsri,Amount
+1729,1.00 THB,krungsri,Amount
+1730,9.00 THB,krungsri,Amount
+1731,9.00 THB,krungsri,Amount
+1732,6.00 THB,krungsri,Amount
+1733,2.00 THB,krungsri,Amount
+1734,6.00 THB,krungsri,Amount
+1735,7.00 THB,krungsri,Amount
+1736,5.00 THB,krungsri,Amount
+1737,7.00 THB,krungsri,Amount
+1738,6.00 THB,krungsri,Amount
+1739,6.00 THB,krungsri,Amount
+1740,6.00 THB,krungsri,Amount
+1741,2.00 THB,krungsri,Amount
+1742,5.00 THB,krungsri,Amount
+1743,1.00 THB,krungsri,Amount
+1744,1.00 THB,krungsri,Amount
+1745,7.00 THB,krungsri,Amount
+1746,1.00 THB,krungsri,Amount
+1747,7.00 THB,krungsri,Amount
+1748,7.00 THB,krungsri,Amount
+1749,6.00 THB,krungsri,Amount
+1750,99.00 THB,krungsri,Amount
+1751,57.00 THB,krungsri,Amount
+1752,44.00 THB,krungsri,Amount
+1753,86.00 THB,krungsri,Amount
+1754,43.00 THB,krungsri,Amount
+1755,14.00 THB,krungsri,Amount
+1756,84.00 THB,krungsri,Amount
+1757,38.00 THB,krungsri,Amount
+1758,50.00 THB,krungsri,Amount
+1759,34.00 THB,krungsri,Amount
+1760,40.00 THB,krungsri,Amount
+1761,68.00 THB,krungsri,Amount
+1762,23.00 THB,krungsri,Amount
+1763,49.00 THB,krungsri,Amount
+1764,59.00 THB,krungsri,Amount
+1765,22.00 THB,krungsri,Amount
+1766,25.00 THB,krungsri,Amount
+1767,70.00 THB,krungsri,Amount
+1768,24.00 THB,krungsri,Amount
+1769,35.00 THB,krungsri,Amount
+1770,35.00 THB,krungsri,Amount
+1771,99.00 THB,krungsri,Amount
+1772,20.00 THB,krungsri,Amount
+1773,96.00 THB,krungsri,Amount
+1774,94.00 THB,krungsri,Amount
+1775,78.00 THB,krungsri,Amount
+1776,56.00 THB,krungsri,Amount
+1777,58.00 THB,krungsri,Amount
+1778,79.00 THB,krungsri,Amount
+1779,46.00 THB,krungsri,Amount
+1780,25.00 THB,krungsri,Amount
+1781,48.00 THB,krungsri,Amount
+1782,14.00 THB,krungsri,Amount
+1783,96.00 THB,krungsri,Amount
+1784,78.00 THB,krungsri,Amount
+1785,22.00 THB,krungsri,Amount
+1786,29.00 THB,krungsri,Amount
+1787,47.00 THB,krungsri,Amount
+1788,15.00 THB,krungsri,Amount
+1789,72.00 THB,krungsri,Amount
+1790,46.00 THB,krungsri,Amount
+1791,20.00 THB,krungsri,Amount
+1792,59.00 THB,krungsri,Amount
+1793,81.00 THB,krungsri,Amount
+1794,28.00 THB,krungsri,Amount
+1795,69.00 THB,krungsri,Amount
+1796,83.00 THB,krungsri,Amount
+1797,82.00 THB,krungsri,Amount
+1798,36.00 THB,krungsri,Amount
+1799,59.00 THB,krungsri,Amount
+1800,77.00 THB,krungsri,Amount
+1801,45.00 THB,krungsri,Amount
+1802,60.00 THB,krungsri,Amount
+1803,45.00 THB,krungsri,Amount
+1804,65.00 THB,krungsri,Amount
+1805,36.00 THB,krungsri,Amount
+1806,85.00 THB,krungsri,Amount
+1807,71.00 THB,krungsri,Amount
+1808,76.00 THB,krungsri,Amount
+1809,35.00 THB,krungsri,Amount
+1810,86.00 THB,krungsri,Amount
+1811,47.00 THB,krungsri,Amount
+1812,17.00 THB,krungsri,Amount
+1813,45.00 THB,krungsri,Amount
+1814,15.00 THB,krungsri,Amount
+1815,47.00 THB,krungsri,Amount
+1816,63.00 THB,krungsri,Amount
+1817,36.00 THB,krungsri,Amount
+1818,74.00 THB,krungsri,Amount
+1819,77.00 THB,krungsri,Amount
+1820,59.00 THB,krungsri,Amount
+1821,95.00 THB,krungsri,Amount
+1822,28.00 THB,krungsri,Amount
+1823,13.00 THB,krungsri,Amount
+1824,18.00 THB,krungsri,Amount
+1825,19.00 THB,krungsri,Amount
+1826,58.00 THB,krungsri,Amount
+1827,84.00 THB,krungsri,Amount
+1828,61.00 THB,krungsri,Amount
+1829,17.00 THB,krungsri,Amount
+1830,56.00 THB,krungsri,Amount
+1831,13.00 THB,krungsri,Amount
+1832,20.00 THB,krungsri,Amount
+1833,38.00 THB,krungsri,Amount
+1834,18.00 THB,krungsri,Amount
+1835,13.00 THB,krungsri,Amount
+1836,30.00 THB,krungsri,Amount
+1837,94.00 THB,krungsri,Amount
+1838,89.00 THB,krungsri,Amount
+1839,69.00 THB,krungsri,Amount
+1840,30.00 THB,krungsri,Amount
+1841,40.00 THB,krungsri,Amount
+1842,60.00 THB,krungsri,Amount
+1843,84.00 THB,krungsri,Amount
+1844,95.00 THB,krungsri,Amount
+1845,80.00 THB,krungsri,Amount
+1846,60.00 THB,krungsri,Amount
+1847,69.00 THB,krungsri,Amount
+1848,37.00 THB,krungsri,Amount
+1849,86.00 THB,krungsri,Amount
+1850,18.00 THB,krungsri,Amount
+1851,58.00 THB,krungsri,Amount
+1852,86.00 THB,krungsri,Amount
+1853,23.00 THB,krungsri,Amount
+1854,93.00 THB,krungsri,Amount
+1855,20.00 THB,krungsri,Amount
+1856,35.00 THB,krungsri,Amount
+1857,76.00 THB,krungsri,Amount
+1858,31.00 THB,krungsri,Amount
+1859,68.00 THB,krungsri,Amount
+1860,10.00 THB,krungsri,Amount
+1861,93.00 THB,krungsri,Amount
+1862,18.00 THB,krungsri,Amount
+1863,87.00 THB,krungsri,Amount
+1864,51.00 THB,krungsri,Amount
+1865,13.00 THB,krungsri,Amount
+1866,18.00 THB,krungsri,Amount
+1867,13.00 THB,krungsri,Amount
+1868,22.00 THB,krungsri,Amount
+1869,29.00 THB,krungsri,Amount
+1870,59.00 THB,krungsri,Amount
+1871,93.00 THB,krungsri,Amount
+1872,62.00 THB,krungsri,Amount
+1873,88.00 THB,krungsri,Amount
+1874,20.00 THB,krungsri,Amount
+1875,41.00 THB,krungsri,Amount
+1876,95.00 THB,krungsri,Amount
+1877,48.00 THB,krungsri,Amount
+1878,99.00 THB,krungsri,Amount
+1879,92.00 THB,krungsri,Amount
+1880,32.00 THB,krungsri,Amount
+1881,53.00 THB,krungsri,Amount
+1882,37.00 THB,krungsri,Amount
+1883,54.00 THB,krungsri,Amount
+1884,17.00 THB,krungsri,Amount
+1885,10.00 THB,krungsri,Amount
+1886,30.00 THB,krungsri,Amount
+1887,52.00 THB,krungsri,Amount
+1888,18.00 THB,krungsri,Amount
+1889,55.00 THB,krungsri,Amount
+1890,24.00 THB,krungsri,Amount
+1891,10.00 THB,krungsri,Amount
+1892,90.00 THB,krungsri,Amount
+1893,91.00 THB,krungsri,Amount
+1894,46.00 THB,krungsri,Amount
+1895,17.00 THB,krungsri,Amount
+1896,81.00 THB,krungsri,Amount
+1897,68.00 THB,krungsri,Amount
+1898,77.00 THB,krungsri,Amount
+1899,54.00 THB,krungsri,Amount
+1900,93.00 THB,krungsri,Amount
+1901,71.00 THB,krungsri,Amount
+1902,35.00 THB,krungsri,Amount
+1903,12.00 THB,krungsri,Amount
+1904,61.00 THB,krungsri,Amount
+1905,26.00 THB,krungsri,Amount
+1906,74.00 THB,krungsri,Amount
+1907,53.00 THB,krungsri,Amount
+1908,33.00 THB,krungsri,Amount
+1909,75.00 THB,krungsri,Amount
+1910,16.00 THB,krungsri,Amount
+1911,50.00 THB,krungsri,Amount
+1912,22.00 THB,krungsri,Amount
+1913,30.00 THB,krungsri,Amount
+1914,83.00 THB,krungsri,Amount
+1915,45.00 THB,krungsri,Amount
+1916,43.00 THB,krungsri,Amount
+1917,74.00 THB,krungsri,Amount
+1918,25.00 THB,krungsri,Amount
+1919,18.00 THB,krungsri,Amount
+1920,20.00 THB,krungsri,Amount
+1921,93.00 THB,krungsri,Amount
+1922,23.00 THB,krungsri,Amount
+1923,71.00 THB,krungsri,Amount
+1924,45.00 THB,krungsri,Amount
+1925,87.00 THB,krungsri,Amount
+1926,50.00 THB,krungsri,Amount
+1927,63.00 THB,krungsri,Amount
+1928,46.00 THB,krungsri,Amount
+1929,80.00 THB,krungsri,Amount
+1930,27.00 THB,krungsri,Amount
+1931,98.00 THB,krungsri,Amount
+1932,54.00 THB,krungsri,Amount
+1933,82.00 THB,krungsri,Amount
+1934,36.00 THB,krungsri,Amount
+1935,11.00 THB,krungsri,Amount
+1936,47.00 THB,krungsri,Amount
+1937,50.00 THB,krungsri,Amount
+1938,34.00 THB,krungsri,Amount
+1939,29.00 THB,krungsri,Amount
+1940,83.00 THB,krungsri,Amount
+1941,74.00 THB,krungsri,Amount
+1942,49.00 THB,krungsri,Amount
+1943,19.00 THB,krungsri,Amount
+1944,64.00 THB,krungsri,Amount
+1945,84.00 THB,krungsri,Amount
+1946,84.00 THB,krungsri,Amount
+1947,18.00 THB,krungsri,Amount
+1948,39.00 THB,krungsri,Amount
+1949,54.00 THB,krungsri,Amount
+1950,15.00 THB,krungsri,Amount
+1951,45.00 THB,krungsri,Amount
+1952,32.00 THB,krungsri,Amount
+1953,18.00 THB,krungsri,Amount
+1954,12.00 THB,krungsri,Amount
+1955,24.00 THB,krungsri,Amount
+1956,31.00 THB,krungsri,Amount
+1957,99.00 THB,krungsri,Amount
+1958,45.00 THB,krungsri,Amount
+1959,54.00 THB,krungsri,Amount
+1960,83.00 THB,krungsri,Amount
+1961,86.00 THB,krungsri,Amount
+1962,38.00 THB,krungsri,Amount
+1963,14.00 THB,krungsri,Amount
+1964,35.00 THB,krungsri,Amount
+1965,57.00 THB,krungsri,Amount
+1966,35.00 THB,krungsri,Amount
+1967,14.00 THB,krungsri,Amount
+1968,15.00 THB,krungsri,Amount
+1969,48.00 THB,krungsri,Amount
+1970,24.00 THB,krungsri,Amount
+1971,69.00 THB,krungsri,Amount
+1972,43.00 THB,krungsri,Amount
+1973,48.00 THB,krungsri,Amount
+1974,63.00 THB,krungsri,Amount
+1975,58.00 THB,krungsri,Amount
+1976,14.00 THB,krungsri,Amount
+1977,51.00 THB,krungsri,Amount
+1978,29.00 THB,krungsri,Amount
+1979,73.00 THB,krungsri,Amount
+1980,28.00 THB,krungsri,Amount
+1981,97.00 THB,krungsri,Amount
+1982,12.00 THB,krungsri,Amount
+1983,66.00 THB,krungsri,Amount
+1984,64.00 THB,krungsri,Amount
+1985,64.00 THB,krungsri,Amount
+1986,43.00 THB,krungsri,Amount
+1987,88.00 THB,krungsri,Amount
+1988,37.00 THB,krungsri,Amount
+1989,20.00 THB,krungsri,Amount
+1990,44.00 THB,krungsri,Amount
+1991,57.00 THB,krungsri,Amount
+1992,61.00 THB,krungsri,Amount
+1993,49.00 THB,krungsri,Amount
+1994,77.00 THB,krungsri,Amount
+1995,56.00 THB,krungsri,Amount
+1996,32.00 THB,krungsri,Amount
+1997,30.00 THB,krungsri,Amount
+1998,77.00 THB,krungsri,Amount
+1999,25.00 THB,krungsri,Amount
+2000,45.00 THB,krungsri,Amount
+2001,43.00 THB,krungsri,Amount
+2002,24.00 THB,krungsri,Amount
+2003,98.00 THB,krungsri,Amount
+2004,38.00 THB,krungsri,Amount
+2005,82.00 THB,krungsri,Amount
+2006,90.00 THB,krungsri,Amount
+2007,10.00 THB,krungsri,Amount
+2008,68.00 THB,krungsri,Amount
+2009,95.00 THB,krungsri,Amount
+2010,80.00 THB,krungsri,Amount
+2011,94.00 THB,krungsri,Amount
+2012,56.00 THB,krungsri,Amount
+2013,36.00 THB,krungsri,Amount
+2014,16.00 THB,krungsri,Amount
+2015,10.00 THB,krungsri,Amount
+2016,16.00 THB,krungsri,Amount
+2017,25.00 THB,krungsri,Amount
+2018,66.00 THB,krungsri,Amount
+2019,66.00 THB,krungsri,Amount
+2020,94.00 THB,krungsri,Amount
+2021,23.00 THB,krungsri,Amount
+2022,89.00 THB,krungsri,Amount
+2023,82.00 THB,krungsri,Amount
+2024,64.00 THB,krungsri,Amount
+2025,35.00 THB,krungsri,Amount
+2026,14.00 THB,krungsri,Amount
+2027,85.00 THB,krungsri,Amount
+2028,57.00 THB,krungsri,Amount
+2029,30.00 THB,krungsri,Amount
+2030,61.00 THB,krungsri,Amount
+2031,11.00 THB,krungsri,Amount
+2032,58.00 THB,krungsri,Amount
+2033,54.00 THB,krungsri,Amount
+2034,61.00 THB,krungsri,Amount
+2035,35.00 THB,krungsri,Amount
+2036,38.00 THB,krungsri,Amount
+2037,60.00 THB,krungsri,Amount
+2038,59.00 THB,krungsri,Amount
+2039,72.00 THB,krungsri,Amount
+2040,17.00 THB,krungsri,Amount
+2041,91.00 THB,krungsri,Amount
+2042,54.00 THB,krungsri,Amount
+2043,81.00 THB,krungsri,Amount
+2044,45.00 THB,krungsri,Amount
+2045,98.00 THB,krungsri,Amount
+2046,44.00 THB,krungsri,Amount
+2047,49.00 THB,krungsri,Amount
+2048,70.00 THB,krungsri,Amount
+2049,88.00 THB,krungsri,Amount
+2050,832.00 THB,krungsri,Amount
+2051,589.00 THB,krungsri,Amount
+2052,587.00 THB,krungsri,Amount
+2053,958.00 THB,krungsri,Amount
+2054,309.00 THB,krungsri,Amount
+2055,121.00 THB,krungsri,Amount
+2056,349.00 THB,krungsri,Amount
+2057,173.00 THB,krungsri,Amount
+2058,724.00 THB,krungsri,Amount
+2059,369.00 THB,krungsri,Amount
+2060,566.00 THB,krungsri,Amount
+2061,662.00 THB,krungsri,Amount
+2062,459.00 THB,krungsri,Amount
+2063,561.00 THB,krungsri,Amount
+2064,119.00 THB,krungsri,Amount
+2065,409.00 THB,krungsri,Amount
+2066,986.00 THB,krungsri,Amount
+2067,462.00 THB,krungsri,Amount
+2068,850.00 THB,krungsri,Amount
+2069,410.00 THB,krungsri,Amount
+2070,580.00 THB,krungsri,Amount
+2071,939.00 THB,krungsri,Amount
+2072,732.00 THB,krungsri,Amount
+2073,800.00 THB,krungsri,Amount
+2074,699.00 THB,krungsri,Amount
+2075,626.00 THB,krungsri,Amount
+2076,683.00 THB,krungsri,Amount
+2077,454.00 THB,krungsri,Amount
+2078,637.00 THB,krungsri,Amount
+2079,444.00 THB,krungsri,Amount
+2080,147.00 THB,krungsri,Amount
+2081,795.00 THB,krungsri,Amount
+2082,724.00 THB,krungsri,Amount
+2083,693.00 THB,krungsri,Amount
+2084,858.00 THB,krungsri,Amount
+2085,429.00 THB,krungsri,Amount
+2086,797.00 THB,krungsri,Amount
+2087,835.00 THB,krungsri,Amount
+2088,961.00 THB,krungsri,Amount
+2089,772.00 THB,krungsri,Amount
+2090,418.00 THB,krungsri,Amount
+2091,198.00 THB,krungsri,Amount
+2092,127.00 THB,krungsri,Amount
+2093,977.00 THB,krungsri,Amount
+2094,644.00 THB,krungsri,Amount
+2095,703.00 THB,krungsri,Amount
+2096,532.00 THB,krungsri,Amount
+2097,820.00 THB,krungsri,Amount
+2098,842.00 THB,krungsri,Amount
+2099,317.00 THB,krungsri,Amount
+2100,377.00 THB,krungsri,Amount
+2101,787.00 THB,krungsri,Amount
+2102,851.00 THB,krungsri,Amount
+2103,947.00 THB,krungsri,Amount
+2104,740.00 THB,krungsri,Amount
+2105,501.00 THB,krungsri,Amount
+2106,823.00 THB,krungsri,Amount
+2107,808.00 THB,krungsri,Amount
+2108,724.00 THB,krungsri,Amount
+2109,624.00 THB,krungsri,Amount
+2110,492.00 THB,krungsri,Amount
+2111,736.00 THB,krungsri,Amount
+2112,949.00 THB,krungsri,Amount
+2113,551.00 THB,krungsri,Amount
+2114,969.00 THB,krungsri,Amount
+2115,847.00 THB,krungsri,Amount
+2116,407.00 THB,krungsri,Amount
+2117,334.00 THB,krungsri,Amount
+2118,922.00 THB,krungsri,Amount
+2119,214.00 THB,krungsri,Amount
+2120,613.00 THB,krungsri,Amount
+2121,464.00 THB,krungsri,Amount
+2122,715.00 THB,krungsri,Amount
+2123,190.00 THB,krungsri,Amount
+2124,892.00 THB,krungsri,Amount
+2125,854.00 THB,krungsri,Amount
+2126,917.00 THB,krungsri,Amount
+2127,492.00 THB,krungsri,Amount
+2128,914.00 THB,krungsri,Amount
+2129,447.00 THB,krungsri,Amount
+2130,130.00 THB,krungsri,Amount
+2131,263.00 THB,krungsri,Amount
+2132,773.00 THB,krungsri,Amount
+2133,657.00 THB,krungsri,Amount
+2134,214.00 THB,krungsri,Amount
+2135,151.00 THB,krungsri,Amount
+2136,938.00 THB,krungsri,Amount
+2137,683.00 THB,krungsri,Amount
+2138,353.00 THB,krungsri,Amount
+2139,476.00 THB,krungsri,Amount
+2140,730.00 THB,krungsri,Amount
+2141,149.00 THB,krungsri,Amount
+2142,655.00 THB,krungsri,Amount
+2143,298.00 THB,krungsri,Amount
+2144,825.00 THB,krungsri,Amount
+2145,921.00 THB,krungsri,Amount
+2146,110.00 THB,krungsri,Amount
+2147,921.00 THB,krungsri,Amount
+2148,104.00 THB,krungsri,Amount
+2149,109.00 THB,krungsri,Amount
+2150,352.00 THB,krungsri,Amount
+2151,259.00 THB,krungsri,Amount
+2152,665.00 THB,krungsri,Amount
+2153,259.00 THB,krungsri,Amount
+2154,611.00 THB,krungsri,Amount
+2155,138.00 THB,krungsri,Amount
+2156,798.00 THB,krungsri,Amount
+2157,997.00 THB,krungsri,Amount
+2158,541.00 THB,krungsri,Amount
+2159,185.00 THB,krungsri,Amount
+2160,647.00 THB,krungsri,Amount
+2161,525.00 THB,krungsri,Amount
+2162,368.00 THB,krungsri,Amount
+2163,457.00 THB,krungsri,Amount
+2164,604.00 THB,krungsri,Amount
+2165,209.00 THB,krungsri,Amount
+2166,193.00 THB,krungsri,Amount
+2167,767.00 THB,krungsri,Amount
+2168,180.00 THB,krungsri,Amount
+2169,203.00 THB,krungsri,Amount
+2170,453.00 THB,krungsri,Amount
+2171,588.00 THB,krungsri,Amount
+2172,739.00 THB,krungsri,Amount
+2173,822.00 THB,krungsri,Amount
+2174,464.00 THB,krungsri,Amount
+2175,235.00 THB,krungsri,Amount
+2176,799.00 THB,krungsri,Amount
+2177,926.00 THB,krungsri,Amount
+2178,263.00 THB,krungsri,Amount
+2179,482.00 THB,krungsri,Amount
+2180,812.00 THB,krungsri,Amount
+2181,377.00 THB,krungsri,Amount
+2182,579.00 THB,krungsri,Amount
+2183,519.00 THB,krungsri,Amount
+2184,377.00 THB,krungsri,Amount
+2185,849.00 THB,krungsri,Amount
+2186,637.00 THB,krungsri,Amount
+2187,626.00 THB,krungsri,Amount
+2188,836.00 THB,krungsri,Amount
+2189,495.00 THB,krungsri,Amount
+2190,893.00 THB,krungsri,Amount
+2191,547.00 THB,krungsri,Amount
+2192,967.00 THB,krungsri,Amount
+2193,858.00 THB,krungsri,Amount
+2194,365.00 THB,krungsri,Amount
+2195,603.00 THB,krungsri,Amount
+2196,165.00 THB,krungsri,Amount
+2197,765.00 THB,krungsri,Amount
+2198,379.00 THB,krungsri,Amount
+2199,165.00 THB,krungsri,Amount
+2200,568.00 THB,krungsri,Amount
+2201,916.00 THB,krungsri,Amount
+2202,140.00 THB,krungsri,Amount
+2203,652.00 THB,krungsri,Amount
+2204,344.00 THB,krungsri,Amount
+2205,659.00 THB,krungsri,Amount
+2206,574.00 THB,krungsri,Amount
+2207,183.00 THB,krungsri,Amount
+2208,722.00 THB,krungsri,Amount
+2209,454.00 THB,krungsri,Amount
+2210,826.00 THB,krungsri,Amount
+2211,931.00 THB,krungsri,Amount
+2212,410.00 THB,krungsri,Amount
+2213,117.00 THB,krungsri,Amount
+2214,739.00 THB,krungsri,Amount
+2215,363.00 THB,krungsri,Amount
+2216,850.00 THB,krungsri,Amount
+2217,999.00 THB,krungsri,Amount
+2218,367.00 THB,krungsri,Amount
+2219,946.00 THB,krungsri,Amount
+2220,970.00 THB,krungsri,Amount
+2221,911.00 THB,krungsri,Amount
+2222,301.00 THB,krungsri,Amount
+2223,552.00 THB,krungsri,Amount
+2224,384.00 THB,krungsri,Amount
+2225,245.00 THB,krungsri,Amount
+2226,265.00 THB,krungsri,Amount
+2227,266.00 THB,krungsri,Amount
+2228,435.00 THB,krungsri,Amount
+2229,993.00 THB,krungsri,Amount
+2230,268.00 THB,krungsri,Amount
+2231,605.00 THB,krungsri,Amount
+2232,649.00 THB,krungsri,Amount
+2233,236.00 THB,krungsri,Amount
+2234,893.00 THB,krungsri,Amount
+2235,337.00 THB,krungsri,Amount
+2236,157.00 THB,krungsri,Amount
+2237,363.00 THB,krungsri,Amount
+2238,316.00 THB,krungsri,Amount
+2239,445.00 THB,krungsri,Amount
+2240,982.00 THB,krungsri,Amount
+2241,345.00 THB,krungsri,Amount
+2242,836.00 THB,krungsri,Amount
+2243,502.00 THB,krungsri,Amount
+2244,339.00 THB,krungsri,Amount
+2245,147.00 THB,krungsri,Amount
+2246,570.00 THB,krungsri,Amount
+2247,890.00 THB,krungsri,Amount
+2248,490.00 THB,krungsri,Amount
+2249,187.00 THB,krungsri,Amount
+2250,922.00 THB,krungsri,Amount
+2251,120.00 THB,krungsri,Amount
+2252,264.00 THB,krungsri,Amount
+2253,732.00 THB,krungsri,Amount
+2254,166.00 THB,krungsri,Amount
+2255,824.00 THB,krungsri,Amount
+2256,814.00 THB,krungsri,Amount
+2257,811.00 THB,krungsri,Amount
+2258,231.00 THB,krungsri,Amount
+2259,874.00 THB,krungsri,Amount
+2260,220.00 THB,krungsri,Amount
+2261,933.00 THB,krungsri,Amount
+2262,789.00 THB,krungsri,Amount
+2263,916.00 THB,krungsri,Amount
+2264,568.00 THB,krungsri,Amount
+2265,526.00 THB,krungsri,Amount
+2266,574.00 THB,krungsri,Amount
+2267,550.00 THB,krungsri,Amount
+2268,209.00 THB,krungsri,Amount
+2269,498.00 THB,krungsri,Amount
+2270,117.00 THB,krungsri,Amount
+2271,704.00 THB,krungsri,Amount
+2272,215.00 THB,krungsri,Amount
+2273,989.00 THB,krungsri,Amount
+2274,530.00 THB,krungsri,Amount
+2275,709.00 THB,krungsri,Amount
+2276,875.00 THB,krungsri,Amount
+2277,278.00 THB,krungsri,Amount
+2278,796.00 THB,krungsri,Amount
+2279,815.00 THB,krungsri,Amount
+2280,556.00 THB,krungsri,Amount
+2281,797.00 THB,krungsri,Amount
+2282,331.00 THB,krungsri,Amount
+2283,356.00 THB,krungsri,Amount
+2284,211.00 THB,krungsri,Amount
+2285,697.00 THB,krungsri,Amount
+2286,402.00 THB,krungsri,Amount
+2287,710.00 THB,krungsri,Amount
+2288,676.00 THB,krungsri,Amount
+2289,544.00 THB,krungsri,Amount
+2290,958.00 THB,krungsri,Amount
+2291,722.00 THB,krungsri,Amount
+2292,102.00 THB,krungsri,Amount
+2293,502.00 THB,krungsri,Amount
+2294,988.00 THB,krungsri,Amount
+2295,301.00 THB,krungsri,Amount
+2296,250.00 THB,krungsri,Amount
+2297,340.00 THB,krungsri,Amount
+2298,307.00 THB,krungsri,Amount
+2299,278.00 THB,krungsri,Amount
+2300,646.00 THB,krungsri,Amount
+2301,422.00 THB,krungsri,Amount
+2302,410.00 THB,krungsri,Amount
+2303,554.00 THB,krungsri,Amount
+2304,762.00 THB,krungsri,Amount
+2305,568.00 THB,krungsri,Amount
+2306,839.00 THB,krungsri,Amount
+2307,212.00 THB,krungsri,Amount
+2308,771.00 THB,krungsri,Amount
+2309,448.00 THB,krungsri,Amount
+2310,669.00 THB,krungsri,Amount
+2311,668.00 THB,krungsri,Amount
+2312,686.00 THB,krungsri,Amount
+2313,534.00 THB,krungsri,Amount
+2314,133.00 THB,krungsri,Amount
+2315,273.00 THB,krungsri,Amount
+2316,173.00 THB,krungsri,Amount
+2317,483.00 THB,krungsri,Amount
+2318,361.00 THB,krungsri,Amount
+2319,569.00 THB,krungsri,Amount
+2320,517.00 THB,krungsri,Amount
+2321,968.00 THB,krungsri,Amount
+2322,309.00 THB,krungsri,Amount
+2323,545.00 THB,krungsri,Amount
+2324,957.00 THB,krungsri,Amount
+2325,891.00 THB,krungsri,Amount
+2326,463.00 THB,krungsri,Amount
+2327,226.00 THB,krungsri,Amount
+2328,635.00 THB,krungsri,Amount
+2329,509.00 THB,krungsri,Amount
+2330,450.00 THB,krungsri,Amount
+2331,428.00 THB,krungsri,Amount
+2332,308.00 THB,krungsri,Amount
+2333,707.00 THB,krungsri,Amount
+2334,675.00 THB,krungsri,Amount
+2335,231.00 THB,krungsri,Amount
+2336,101.00 THB,krungsri,Amount
+2337,384.00 THB,krungsri,Amount
+2338,501.00 THB,krungsri,Amount
+2339,485.00 THB,krungsri,Amount
+2340,865.00 THB,krungsri,Amount
+2341,830.00 THB,krungsri,Amount
+2342,656.00 THB,krungsri,Amount
+2343,433.00 THB,krungsri,Amount
+2344,389.00 THB,krungsri,Amount
+2345,425.00 THB,krungsri,Amount
+2346,639.00 THB,krungsri,Amount
+2347,984.00 THB,krungsri,Amount
+2348,572.00 THB,krungsri,Amount
+2349,195.00 THB,krungsri,Amount
+2350,562.00 THB,krungsri,Amount
+2351,822.00 THB,krungsri,Amount
+2352,461.00 THB,krungsri,Amount
+2353,147.00 THB,krungsri,Amount
+2354,550.00 THB,krungsri,Amount
+2355,586.00 THB,krungsri,Amount
+2356,847.00 THB,krungsri,Amount
+2357,953.00 THB,krungsri,Amount
+2358,282.00 THB,krungsri,Amount
+2359,725.00 THB,krungsri,Amount
+2360,701.00 THB,krungsri,Amount
+2361,982.00 THB,krungsri,Amount
+2362,584.00 THB,krungsri,Amount
+2363,489.00 THB,krungsri,Amount
+2364,278.00 THB,krungsri,Amount
+2365,257.00 THB,krungsri,Amount
+2366,449.00 THB,krungsri,Amount
+2367,396.00 THB,krungsri,Amount
+2368,431.00 THB,krungsri,Amount
+2369,393.00 THB,krungsri,Amount
+2370,998.00 THB,krungsri,Amount
+2371,980.00 THB,krungsri,Amount
+2372,970.00 THB,krungsri,Amount
+2373,800.00 THB,krungsri,Amount
+2374,109.00 THB,krungsri,Amount
+2375,741.00 THB,krungsri,Amount
+2376,698.00 THB,krungsri,Amount
+2377,992.00 THB,krungsri,Amount
+2378,172.00 THB,krungsri,Amount
+2379,653.00 THB,krungsri,Amount
+2380,482.00 THB,krungsri,Amount
+2381,908.00 THB,krungsri,Amount
+2382,153.00 THB,krungsri,Amount
+2383,168.00 THB,krungsri,Amount
+2384,847.00 THB,krungsri,Amount
+2385,747.00 THB,krungsri,Amount
+2386,992.00 THB,krungsri,Amount
+2387,156.00 THB,krungsri,Amount
+2388,609.00 THB,krungsri,Amount
+2389,368.00 THB,krungsri,Amount
+2390,618.00 THB,krungsri,Amount
+2391,324.00 THB,krungsri,Amount
+2392,755.00 THB,krungsri,Amount
+2393,856.00 THB,krungsri,Amount
+2394,536.00 THB,krungsri,Amount
+2395,241.00 THB,krungsri,Amount
+2396,871.00 THB,krungsri,Amount
+2397,828.00 THB,krungsri,Amount
+2398,428.00 THB,krungsri,Amount
+2399,779.00 THB,krungsri,Amount
+2400,442.00 THB,krungsri,Amount
+2401,392.00 THB,krungsri,Amount
+2402,871.00 THB,krungsri,Amount
+2403,488.00 THB,krungsri,Amount
+2404,679.00 THB,krungsri,Amount
+2405,335.00 THB,krungsri,Amount
+2406,285.00 THB,krungsri,Amount
+2407,926.00 THB,krungsri,Amount
+2408,776.00 THB,krungsri,Amount
+2409,558.00 THB,krungsri,Amount
+2410,945.00 THB,krungsri,Amount
+2411,972.00 THB,krungsri,Amount
+2412,773.00 THB,krungsri,Amount
+2413,857.00 THB,krungsri,Amount
+2414,486.00 THB,krungsri,Amount
+2415,993.00 THB,krungsri,Amount
+2416,109.00 THB,krungsri,Amount
+2417,947.00 THB,krungsri,Amount
+2418,517.00 THB,krungsri,Amount
+2419,552.00 THB,krungsri,Amount
+2420,522.00 THB,krungsri,Amount
+2421,970.00 THB,krungsri,Amount
+2422,596.00 THB,krungsri,Amount
+2423,134.00 THB,krungsri,Amount
+2424,421.00 THB,krungsri,Amount
+2425,834.00 THB,krungsri,Amount
+2426,687.00 THB,krungsri,Amount
+2427,220.00 THB,krungsri,Amount
+2428,998.00 THB,krungsri,Amount
+2429,703.00 THB,krungsri,Amount
+2430,620.00 THB,krungsri,Amount
+2431,468.00 THB,krungsri,Amount
+2432,382.00 THB,krungsri,Amount
+2433,971.00 THB,krungsri,Amount
+2434,729.00 THB,krungsri,Amount
+2435,394.00 THB,krungsri,Amount
+2436,497.00 THB,krungsri,Amount
+2437,678.00 THB,krungsri,Amount
+2438,554.00 THB,krungsri,Amount
+2439,178.00 THB,krungsri,Amount
+2440,205.00 THB,krungsri,Amount
+2441,635.00 THB,krungsri,Amount
+2442,703.00 THB,krungsri,Amount
+2443,496.00 THB,krungsri,Amount
+2444,804.00 THB,krungsri,Amount
+2445,119.00 THB,krungsri,Amount
+2446,640.00 THB,krungsri,Amount
+2447,497.00 THB,krungsri,Amount
+2448,920.00 THB,krungsri,Amount
+2449,117.00 THB,krungsri,Amount
+2450,839.00 THB,krungsri,Amount
+2451,217.00 THB,krungsri,Amount
+2452,571.00 THB,krungsri,Amount
+2453,100.00 THB,krungsri,Amount
+2454,170.00 THB,krungsri,Amount
+2455,527.00 THB,krungsri,Amount
+2456,658.00 THB,krungsri,Amount
+2457,564.00 THB,krungsri,Amount
+2458,401.00 THB,krungsri,Amount
+2459,179.00 THB,krungsri,Amount
+2460,678.00 THB,krungsri,Amount
+2461,619.00 THB,krungsri,Amount
+2462,748.00 THB,krungsri,Amount
+2463,146.00 THB,krungsri,Amount
+2464,123.00 THB,krungsri,Amount
+2465,795.00 THB,krungsri,Amount
+2466,329.00 THB,krungsri,Amount
+2467,858.00 THB,krungsri,Amount
+2468,369.00 THB,krungsri,Amount
+2469,615.00 THB,krungsri,Amount
+2470,869.00 THB,krungsri,Amount
+2471,809.00 THB,krungsri,Amount
+2472,212.00 THB,krungsri,Amount
+2473,419.00 THB,krungsri,Amount
+2474,436.00 THB,krungsri,Amount
+2475,477.00 THB,krungsri,Amount
+2476,208.00 THB,krungsri,Amount
+2477,382.00 THB,krungsri,Amount
+2478,531.00 THB,krungsri,Amount
+2479,846.00 THB,krungsri,Amount
+2480,565.00 THB,krungsri,Amount
+2481,900.00 THB,krungsri,Amount
+2482,722.00 THB,krungsri,Amount
+2483,680.00 THB,krungsri,Amount
+2484,457.00 THB,krungsri,Amount
+2485,202.00 THB,krungsri,Amount
+2486,895.00 THB,krungsri,Amount
+2487,742.00 THB,krungsri,Amount
+2488,771.00 THB,krungsri,Amount
+2489,236.00 THB,krungsri,Amount
+2490,951.00 THB,krungsri,Amount
+2491,412.00 THB,krungsri,Amount
+2492,468.00 THB,krungsri,Amount
+2493,350.00 THB,krungsri,Amount
+2494,463.00 THB,krungsri,Amount
+2495,794.00 THB,krungsri,Amount
+2496,712.00 THB,krungsri,Amount
+2497,330.00 THB,krungsri,Amount
+2498,452.00 THB,krungsri,Amount
+2499,950.00 THB,krungsri,Amount
+2500,8326.00 THB,krungsri,Amount
+2501,4479.00 THB,krungsri,Amount
+2502,3050.00 THB,krungsri,Amount
+2503,4229.00 THB,krungsri,Amount
+2504,5679.00 THB,krungsri,Amount
+2505,8504.00 THB,krungsri,Amount
+2506,1022.00 THB,krungsri,Amount
+2507,7757.00 THB,krungsri,Amount
+2508,5939.00 THB,krungsri,Amount
+2509,8422.00 THB,krungsri,Amount
+2510,6305.00 THB,krungsri,Amount
+2511,5401.00 THB,krungsri,Amount
+2512,3506.00 THB,krungsri,Amount
+2513,3789.00 THB,krungsri,Amount
+2514,6610.00 THB,krungsri,Amount
+2515,7403.00 THB,krungsri,Amount
+2516,7440.00 THB,krungsri,Amount
+2517,6420.00 THB,krungsri,Amount
+2518,5533.00 THB,krungsri,Amount
+2519,1589.00 THB,krungsri,Amount
+2520,1552.00 THB,krungsri,Amount
+2521,6646.00 THB,krungsri,Amount
+2522,7642.00 THB,krungsri,Amount
+2523,5761.00 THB,krungsri,Amount
+2524,2649.00 THB,krungsri,Amount
+2525,5225.00 THB,krungsri,Amount
+2526,7500.00 THB,krungsri,Amount
+2527,2550.00 THB,krungsri,Amount
+2528,2216.00 THB,krungsri,Amount
+2529,7463.00 THB,krungsri,Amount
+2530,2802.00 THB,krungsri,Amount
+2531,8834.00 THB,krungsri,Amount
+2532,3965.00 THB,krungsri,Amount
+2533,8763.00 THB,krungsri,Amount
+2534,2304.00 THB,krungsri,Amount
+2535,9381.00 THB,krungsri,Amount
+2536,5740.00 THB,krungsri,Amount
+2537,9272.00 THB,krungsri,Amount
+2538,4146.00 THB,krungsri,Amount
+2539,5844.00 THB,krungsri,Amount
+2540,9029.00 THB,krungsri,Amount
+2541,6851.00 THB,krungsri,Amount
+2542,6308.00 THB,krungsri,Amount
+2543,7469.00 THB,krungsri,Amount
+2544,5746.00 THB,krungsri,Amount
+2545,1924.00 THB,krungsri,Amount
+2546,1745.00 THB,krungsri,Amount
+2547,3242.00 THB,krungsri,Amount
+2548,6875.00 THB,krungsri,Amount
+2549,3501.00 THB,krungsri,Amount
+2550,8673.00 THB,krungsri,Amount
+2551,2458.00 THB,krungsri,Amount
+2552,8183.00 THB,krungsri,Amount
+2553,7154.00 THB,krungsri,Amount
+2554,9472.00 THB,krungsri,Amount
+2555,9374.00 THB,krungsri,Amount
+2556,9410.00 THB,krungsri,Amount
+2557,5262.00 THB,krungsri,Amount
+2558,8735.00 THB,krungsri,Amount
+2559,5103.00 THB,krungsri,Amount
+2560,7141.00 THB,krungsri,Amount
+2561,9364.00 THB,krungsri,Amount
+2562,7542.00 THB,krungsri,Amount
+2563,9656.00 THB,krungsri,Amount
+2564,5357.00 THB,krungsri,Amount
+2565,3564.00 THB,krungsri,Amount
+2566,5510.00 THB,krungsri,Amount
+2567,8692.00 THB,krungsri,Amount
+2568,6009.00 THB,krungsri,Amount
+2569,8458.00 THB,krungsri,Amount
+2570,3460.00 THB,krungsri,Amount
+2571,2066.00 THB,krungsri,Amount
+2572,3365.00 THB,krungsri,Amount
+2573,5278.00 THB,krungsri,Amount
+2574,6883.00 THB,krungsri,Amount
+2575,5923.00 THB,krungsri,Amount
+2576,3910.00 THB,krungsri,Amount
+2577,4193.00 THB,krungsri,Amount
+2578,3040.00 THB,krungsri,Amount
+2579,6067.00 THB,krungsri,Amount
+2580,3866.00 THB,krungsri,Amount
+2581,4210.00 THB,krungsri,Amount
+2582,8549.00 THB,krungsri,Amount
+2583,1546.00 THB,krungsri,Amount
+2584,2575.00 THB,krungsri,Amount
+2585,1217.00 THB,krungsri,Amount
+2586,4032.00 THB,krungsri,Amount
+2587,5051.00 THB,krungsri,Amount
+2588,3544.00 THB,krungsri,Amount
+2589,1867.00 THB,krungsri,Amount
+2590,9351.00 THB,krungsri,Amount
+2591,6517.00 THB,krungsri,Amount
+2592,4359.00 THB,krungsri,Amount
+2593,2543.00 THB,krungsri,Amount
+2594,5322.00 THB,krungsri,Amount
+2595,9061.00 THB,krungsri,Amount
+2596,1759.00 THB,krungsri,Amount
+2597,5131.00 THB,krungsri,Amount
+2598,9569.00 THB,krungsri,Amount
+2599,4753.00 THB,krungsri,Amount
+2600,9339.00 THB,krungsri,Amount
+2601,1556.00 THB,krungsri,Amount
+2602,7196.00 THB,krungsri,Amount
+2603,2770.00 THB,krungsri,Amount
+2604,1643.00 THB,krungsri,Amount
+2605,6294.00 THB,krungsri,Amount
+2606,2445.00 THB,krungsri,Amount
+2607,5599.00 THB,krungsri,Amount
+2608,8439.00 THB,krungsri,Amount
+2609,9641.00 THB,krungsri,Amount
+2610,5731.00 THB,krungsri,Amount
+2611,3467.00 THB,krungsri,Amount
+2612,6872.00 THB,krungsri,Amount
+2613,2151.00 THB,krungsri,Amount
+2614,8050.00 THB,krungsri,Amount
+2615,2600.00 THB,krungsri,Amount
+2616,7920.00 THB,krungsri,Amount
+2617,3825.00 THB,krungsri,Amount
+2618,8793.00 THB,krungsri,Amount
+2619,2303.00 THB,krungsri,Amount
+2620,4434.00 THB,krungsri,Amount
+2621,5257.00 THB,krungsri,Amount
+2622,3447.00 THB,krungsri,Amount
+2623,1577.00 THB,krungsri,Amount
+2624,4539.00 THB,krungsri,Amount
+2625,3937.00 THB,krungsri,Amount
+2626,1964.00 THB,krungsri,Amount
+2627,3522.00 THB,krungsri,Amount
+2628,4026.00 THB,krungsri,Amount
+2629,3637.00 THB,krungsri,Amount
+2630,8545.00 THB,krungsri,Amount
+2631,1323.00 THB,krungsri,Amount
+2632,2387.00 THB,krungsri,Amount
+2633,1015.00 THB,krungsri,Amount
+2634,8244.00 THB,krungsri,Amount
+2635,7144.00 THB,krungsri,Amount
+2636,4926.00 THB,krungsri,Amount
+2637,6600.00 THB,krungsri,Amount
+2638,5350.00 THB,krungsri,Amount
+2639,4193.00 THB,krungsri,Amount
+2640,2934.00 THB,krungsri,Amount
+2641,2789.00 THB,krungsri,Amount
+2642,1836.00 THB,krungsri,Amount
+2643,3234.00 THB,krungsri,Amount
+2644,2225.00 THB,krungsri,Amount
+2645,3485.00 THB,krungsri,Amount
+2646,2035.00 THB,krungsri,Amount
+2647,1745.00 THB,krungsri,Amount
+2648,6609.00 THB,krungsri,Amount
+2649,1990.00 THB,krungsri,Amount
+2650,8878.00 THB,krungsri,Amount
+2651,2620.00 THB,krungsri,Amount
+2652,3489.00 THB,krungsri,Amount
+2653,1938.00 THB,krungsri,Amount
+2654,7399.00 THB,krungsri,Amount
+2655,8884.00 THB,krungsri,Amount
+2656,1318.00 THB,krungsri,Amount
+2657,5258.00 THB,krungsri,Amount
+2658,3756.00 THB,krungsri,Amount
+2659,6474.00 THB,krungsri,Amount
+2660,9484.00 THB,krungsri,Amount
+2661,9148.00 THB,krungsri,Amount
+2662,4776.00 THB,krungsri,Amount
+2663,7410.00 THB,krungsri,Amount
+2664,8687.00 THB,krungsri,Amount
+2665,1768.00 THB,krungsri,Amount
+2666,6067.00 THB,krungsri,Amount
+2667,9198.00 THB,krungsri,Amount
+2668,2511.00 THB,krungsri,Amount
+2669,4946.00 THB,krungsri,Amount
+2670,6268.00 THB,krungsri,Amount
+2671,6180.00 THB,krungsri,Amount
+2672,1263.00 THB,krungsri,Amount
+2673,3400.00 THB,krungsri,Amount
+2674,6494.00 THB,krungsri,Amount
+2675,4714.00 THB,krungsri,Amount
+2676,2194.00 THB,krungsri,Amount
+2677,8608.00 THB,krungsri,Amount
+2678,6322.00 THB,krungsri,Amount
+2679,3450.00 THB,krungsri,Amount
+2680,6447.00 THB,krungsri,Amount
+2681,7449.00 THB,krungsri,Amount
+2682,5991.00 THB,krungsri,Amount
+2683,6455.00 THB,krungsri,Amount
+2684,3321.00 THB,krungsri,Amount
+2685,8951.00 THB,krungsri,Amount
+2686,8232.00 THB,krungsri,Amount
+2687,2227.00 THB,krungsri,Amount
+2688,6960.00 THB,krungsri,Amount
+2689,6547.00 THB,krungsri,Amount
+2690,5010.00 THB,krungsri,Amount
+2691,3591.00 THB,krungsri,Amount
+2692,4604.00 THB,krungsri,Amount
+2693,6910.00 THB,krungsri,Amount
+2694,6550.00 THB,krungsri,Amount
+2695,5844.00 THB,krungsri,Amount
+2696,4440.00 THB,krungsri,Amount
+2697,3004.00 THB,krungsri,Amount
+2698,8866.00 THB,krungsri,Amount
+2699,1801.00 THB,krungsri,Amount
+2700,7526.00 THB,krungsri,Amount
+2701,8928.00 THB,krungsri,Amount
+2702,2322.00 THB,krungsri,Amount
+2703,3134.00 THB,krungsri,Amount
+2704,6205.00 THB,krungsri,Amount
+2705,7187.00 THB,krungsri,Amount
+2706,9037.00 THB,krungsri,Amount
+2707,8729.00 THB,krungsri,Amount
+2708,2367.00 THB,krungsri,Amount
+2709,1510.00 THB,krungsri,Amount
+2710,2071.00 THB,krungsri,Amount
+2711,5766.00 THB,krungsri,Amount
+2712,8119.00 THB,krungsri,Amount
+2713,3757.00 THB,krungsri,Amount
+2714,5997.00 THB,krungsri,Amount
+2715,7444.00 THB,krungsri,Amount
+2716,1278.00 THB,krungsri,Amount
+2717,6574.00 THB,krungsri,Amount
+2718,9385.00 THB,krungsri,Amount
+2719,3642.00 THB,krungsri,Amount
+2720,2723.00 THB,krungsri,Amount
+2721,4538.00 THB,krungsri,Amount
+2722,1675.00 THB,krungsri,Amount
+2723,9053.00 THB,krungsri,Amount
+2724,4496.00 THB,krungsri,Amount
+2725,8112.00 THB,krungsri,Amount
+2726,9668.00 THB,krungsri,Amount
+2727,3283.00 THB,krungsri,Amount
+2728,2293.00 THB,krungsri,Amount
+2729,9783.00 THB,krungsri,Amount
+2730,9294.00 THB,krungsri,Amount
+2731,3104.00 THB,krungsri,Amount
+2732,2845.00 THB,krungsri,Amount
+2733,8728.00 THB,krungsri,Amount
+2734,3662.00 THB,krungsri,Amount
+2735,8569.00 THB,krungsri,Amount
+2736,5120.00 THB,krungsri,Amount
+2737,3444.00 THB,krungsri,Amount
+2738,9593.00 THB,krungsri,Amount
+2739,9236.00 THB,krungsri,Amount
+2740,8322.00 THB,krungsri,Amount
+2741,1602.00 THB,krungsri,Amount
+2742,5201.00 THB,krungsri,Amount
+2743,4197.00 THB,krungsri,Amount
+2744,9872.00 THB,krungsri,Amount
+2745,5152.00 THB,krungsri,Amount
+2746,5967.00 THB,krungsri,Amount
+2747,9582.00 THB,krungsri,Amount
+2748,2924.00 THB,krungsri,Amount
+2749,8519.00 THB,krungsri,Amount
+2750,3974.00 THB,krungsri,Amount
+2751,8836.00 THB,krungsri,Amount
+2752,9286.00 THB,krungsri,Amount
+2753,1526.00 THB,krungsri,Amount
+2754,9615.00 THB,krungsri,Amount
+2755,4824.00 THB,krungsri,Amount
+2756,4090.00 THB,krungsri,Amount
+2757,6499.00 THB,krungsri,Amount
+2758,5616.00 THB,krungsri,Amount
+2759,3082.00 THB,krungsri,Amount
+2760,7668.00 THB,krungsri,Amount
+2761,9812.00 THB,krungsri,Amount
+2762,8204.00 THB,krungsri,Amount
+2763,4701.00 THB,krungsri,Amount
+2764,1431.00 THB,krungsri,Amount
+2765,8358.00 THB,krungsri,Amount
+2766,9850.00 THB,krungsri,Amount
+2767,1078.00 THB,krungsri,Amount
+2768,2427.00 THB,krungsri,Amount
+2769,1401.00 THB,krungsri,Amount
+2770,9525.00 THB,krungsri,Amount
+2771,7413.00 THB,krungsri,Amount
+2772,4442.00 THB,krungsri,Amount
+2773,6701.00 THB,krungsri,Amount
+2774,8457.00 THB,krungsri,Amount
+2775,3875.00 THB,krungsri,Amount
+2776,1686.00 THB,krungsri,Amount
+2777,9415.00 THB,krungsri,Amount
+2778,6655.00 THB,krungsri,Amount
+2779,6600.00 THB,krungsri,Amount
+2780,3087.00 THB,krungsri,Amount
+2781,6319.00 THB,krungsri,Amount
+2782,1598.00 THB,krungsri,Amount
+2783,3628.00 THB,krungsri,Amount
+2784,5205.00 THB,krungsri,Amount
+2785,4110.00 THB,krungsri,Amount
+2786,8511.00 THB,krungsri,Amount
+2787,4931.00 THB,krungsri,Amount
+2788,7573.00 THB,krungsri,Amount
+2789,5237.00 THB,krungsri,Amount
+2790,6045.00 THB,krungsri,Amount
+2791,9456.00 THB,krungsri,Amount
+2792,5588.00 THB,krungsri,Amount
+2793,2331.00 THB,krungsri,Amount
+2794,3371.00 THB,krungsri,Amount
+2795,6514.00 THB,krungsri,Amount
+2796,8357.00 THB,krungsri,Amount
+2797,5712.00 THB,krungsri,Amount
+2798,6834.00 THB,krungsri,Amount
+2799,8856.00 THB,krungsri,Amount
+2800,5455.00 THB,krungsri,Amount
+2801,8891.00 THB,krungsri,Amount
+2802,4015.00 THB,krungsri,Amount
+2803,9845.00 THB,krungsri,Amount
+2804,6101.00 THB,krungsri,Amount
+2805,5579.00 THB,krungsri,Amount
+2806,9070.00 THB,krungsri,Amount
+2807,2943.00 THB,krungsri,Amount
+2808,6020.00 THB,krungsri,Amount
+2809,5407.00 THB,krungsri,Amount
+2810,8346.00 THB,krungsri,Amount
+2811,5326.00 THB,krungsri,Amount
+2812,7970.00 THB,krungsri,Amount
+2813,7421.00 THB,krungsri,Amount
+2814,5233.00 THB,krungsri,Amount
+2815,6925.00 THB,krungsri,Amount
+2816,6048.00 THB,krungsri,Amount
+2817,3063.00 THB,krungsri,Amount
+2818,7445.00 THB,krungsri,Amount
+2819,5774.00 THB,krungsri,Amount
+2820,9614.00 THB,krungsri,Amount
+2821,6684.00 THB,krungsri,Amount
+2822,8747.00 THB,krungsri,Amount
+2823,6670.00 THB,krungsri,Amount
+2824,1587.00 THB,krungsri,Amount
+2825,5878.00 THB,krungsri,Amount
+2826,3938.00 THB,krungsri,Amount
+2827,4575.00 THB,krungsri,Amount
+2828,4418.00 THB,krungsri,Amount
+2829,3124.00 THB,krungsri,Amount
+2830,1542.00 THB,krungsri,Amount
+2831,6363.00 THB,krungsri,Amount
+2832,5946.00 THB,krungsri,Amount
+2833,1312.00 THB,krungsri,Amount
+2834,2372.00 THB,krungsri,Amount
+2835,4485.00 THB,krungsri,Amount
+2836,1574.00 THB,krungsri,Amount
+2837,8825.00 THB,krungsri,Amount
+2838,2509.00 THB,krungsri,Amount
+2839,8291.00 THB,krungsri,Amount
+2840,2642.00 THB,krungsri,Amount
+2841,1740.00 THB,krungsri,Amount
+2842,7708.00 THB,krungsri,Amount
+2843,2285.00 THB,krungsri,Amount
+2844,9682.00 THB,krungsri,Amount
+2845,6454.00 THB,krungsri,Amount
+2846,1043.00 THB,krungsri,Amount
+2847,8441.00 THB,krungsri,Amount
+2848,9164.00 THB,krungsri,Amount
+2849,1901.00 THB,krungsri,Amount
+2850,9190.00 THB,krungsri,Amount
+2851,2690.00 THB,krungsri,Amount
+2852,1437.00 THB,krungsri,Amount
+2853,3976.00 THB,krungsri,Amount
+2854,3933.00 THB,krungsri,Amount
+2855,4800.00 THB,krungsri,Amount
+2856,9256.00 THB,krungsri,Amount
+2857,9589.00 THB,krungsri,Amount
+2858,7918.00 THB,krungsri,Amount
+2859,3517.00 THB,krungsri,Amount
+2860,5645.00 THB,krungsri,Amount
+2861,5114.00 THB,krungsri,Amount
+2862,8408.00 THB,krungsri,Amount
+2863,3367.00 THB,krungsri,Amount
+2864,8434.00 THB,krungsri,Amount
+2865,8637.00 THB,krungsri,Amount
+2866,4224.00 THB,krungsri,Amount
+2867,5613.00 THB,krungsri,Amount
+2868,5741.00 THB,krungsri,Amount
+2869,2018.00 THB,krungsri,Amount
+2870,8000.00 THB,krungsri,Amount
+2871,1612.00 THB,krungsri,Amount
+2872,5791.00 THB,krungsri,Amount
+2873,8175.00 THB,krungsri,Amount
+2874,1594.00 THB,krungsri,Amount
+2875,2287.00 THB,krungsri,Amount
+2876,9419.00 THB,krungsri,Amount
+2877,2908.00 THB,krungsri,Amount
+2878,1761.00 THB,krungsri,Amount
+2879,3644.00 THB,krungsri,Amount
+2880,8430.00 THB,krungsri,Amount
+2881,6064.00 THB,krungsri,Amount
+2882,5027.00 THB,krungsri,Amount
+2883,8576.00 THB,krungsri,Amount
+2884,8184.00 THB,krungsri,Amount
+2885,4868.00 THB,krungsri,Amount
+2886,6332.00 THB,krungsri,Amount
+2887,3025.00 THB,krungsri,Amount
+2888,9688.00 THB,krungsri,Amount
+2889,5574.00 THB,krungsri,Amount
+2890,1428.00 THB,krungsri,Amount
+2891,6501.00 THB,krungsri,Amount
+2892,7396.00 THB,krungsri,Amount
+2893,3408.00 THB,krungsri,Amount
+2894,5026.00 THB,krungsri,Amount
+2895,3976.00 THB,krungsri,Amount
+2896,5805.00 THB,krungsri,Amount
+2897,3578.00 THB,krungsri,Amount
+2898,5224.00 THB,krungsri,Amount
+2899,2444.00 THB,krungsri,Amount
+2900,"27,039.00 THB",krungsri,Amount
+2901,"47,136.00 THB",krungsri,Amount
+2902,"55,746.00 THB",krungsri,Amount
+2903,"12,025.00 THB",krungsri,Amount
+2904,"87,739.00 THB",krungsri,Amount
+2905,"55,884.00 THB",krungsri,Amount
+2906,"77,676.00 THB",krungsri,Amount
+2907,"63,475.00 THB",krungsri,Amount
+2908,"36,969.00 THB",krungsri,Amount
+2909,"22,537.00 THB",krungsri,Amount
+2910,"11,296.00 THB",krungsri,Amount
+2911,"51,023.00 THB",krungsri,Amount
+2912,"19,737.00 THB",krungsri,Amount
+2913,"48,111.00 THB",krungsri,Amount
+2914,"21,080.00 THB",krungsri,Amount
+2915,"46,998.00 THB",krungsri,Amount
+2916,"13,901.00 THB",krungsri,Amount
+2917,"43,083.00 THB",krungsri,Amount
+2918,"43,204.00 THB",krungsri,Amount
+2919,"90,722.00 THB",krungsri,Amount
+2920,"56,714.00 THB",krungsri,Amount
+2921,"74,867.00 THB",krungsri,Amount
+2922,"81,146.00 THB",krungsri,Amount
+2923,"93,835.00 THB",krungsri,Amount
+2924,"86,738.00 THB",krungsri,Amount
+2925,"10,513.00 THB",krungsri,Amount
+2926,"31,894.00 THB",krungsri,Amount
+2927,"21,394.00 THB",krungsri,Amount
+2928,"92,467.00 THB",krungsri,Amount
+2929,"54,411.00 THB",krungsri,Amount
+2930,"64,915.00 THB",krungsri,Amount
+2931,"35,784.00 THB",krungsri,Amount
+2932,"13,461.00 THB",krungsri,Amount
+2933,"99,855.00 THB",krungsri,Amount
+2934,"16,904.00 THB",krungsri,Amount
+2935,"85,538.00 THB",krungsri,Amount
+2936,"49,847.00 THB",krungsri,Amount
+2937,"27,795.00 THB",krungsri,Amount
+2938,"77,564.00 THB",krungsri,Amount
+2939,"98,638.00 THB",krungsri,Amount
+2940,"47,342.00 THB",krungsri,Amount
+2941,"75,097.00 THB",krungsri,Amount
+2942,"94,125.00 THB",krungsri,Amount
+2943,"18,094.00 THB",krungsri,Amount
+2944,"79,587.00 THB",krungsri,Amount
+2945,"84,579.00 THB",krungsri,Amount
+2946,"61,688.00 THB",krungsri,Amount
+2947,"53,741.00 THB",krungsri,Amount
+2948,"34,543.00 THB",krungsri,Amount
+2949,"64,377.00 THB",krungsri,Amount
+2950,"59,853.00 THB",krungsri,Amount
+2951,"71,884.00 THB",krungsri,Amount
+2952,"15,815.00 THB",krungsri,Amount
+2953,"64,887.00 THB",krungsri,Amount
+2954,"37,071.00 THB",krungsri,Amount
+2955,"20,299.00 THB",krungsri,Amount
+2956,"65,095.00 THB",krungsri,Amount
+2957,"86,688.00 THB",krungsri,Amount
+2958,"19,033.00 THB",krungsri,Amount
+2959,"44,647.00 THB",krungsri,Amount
+2960,"77,318.00 THB",krungsri,Amount
+2961,"59,876.00 THB",krungsri,Amount
+2962,"86,866.00 THB",krungsri,Amount
+2963,"36,669.00 THB",krungsri,Amount
+2964,"56,816.00 THB",krungsri,Amount
+2965,"99,619.00 THB",krungsri,Amount
+2966,"55,911.00 THB",krungsri,Amount
+2967,"56,343.00 THB",krungsri,Amount
+2968,"48,288.00 THB",krungsri,Amount
+2969,"67,865.00 THB",krungsri,Amount
+2970,"59,370.00 THB",krungsri,Amount
+2971,"86,410.00 THB",krungsri,Amount
+2972,"42,084.00 THB",krungsri,Amount
+2973,"24,949.00 THB",krungsri,Amount
+2974,"69,398.00 THB",krungsri,Amount
+2975,"62,323.00 THB",krungsri,Amount
+2976,"84,797.00 THB",krungsri,Amount
+2977,"39,960.00 THB",krungsri,Amount
+2978,"62,594.00 THB",krungsri,Amount
+2979,"18,476.00 THB",krungsri,Amount
+2980,"72,412.00 THB",krungsri,Amount
+2981,"16,758.00 THB",krungsri,Amount
+2982,"13,403.00 THB",krungsri,Amount
+2983,"28,315.00 THB",krungsri,Amount
+2984,"32,499.00 THB",krungsri,Amount
+2985,"18,900.00 THB",krungsri,Amount
+2986,"48,413.00 THB",krungsri,Amount
+2987,"65,514.00 THB",krungsri,Amount
+2988,"62,242.00 THB",krungsri,Amount
+2989,"89,617.00 THB",krungsri,Amount
+2990,"99,783.00 THB",krungsri,Amount
+2991,"79,768.00 THB",krungsri,Amount
+2992,"66,460.00 THB",krungsri,Amount
+2993,"48,333.00 THB",krungsri,Amount
+2994,"12,379.00 THB",krungsri,Amount
+2995,"16,785.00 THB",krungsri,Amount
+2996,"34,363.00 THB",krungsri,Amount
+2997,"46,759.00 THB",krungsri,Amount
+2998,"27,731.00 THB",krungsri,Amount
+2999,"75,460.00 THB",krungsri,Amount
+3000,"58,416.00 THB",krungsri,Amount
+3001,"32,637.00 THB",krungsri,Amount
+3002,"43,574.00 THB",krungsri,Amount
+3003,"86,186.00 THB",krungsri,Amount
+3004,"80,606.00 THB",krungsri,Amount
+3005,"71,075.00 THB",krungsri,Amount
+3006,"81,142.00 THB",krungsri,Amount
+3007,"74,987.00 THB",krungsri,Amount
+3008,"47,686.00 THB",krungsri,Amount
+3009,"12,210.00 THB",krungsri,Amount
+3010,"96,522.00 THB",krungsri,Amount
+3011,"92,086.00 THB",krungsri,Amount
+3012,"12,888.00 THB",krungsri,Amount
+3013,"49,072.00 THB",krungsri,Amount
+3014,"47,676.00 THB",krungsri,Amount
+3015,"68,311.00 THB",krungsri,Amount
+3016,"66,698.00 THB",krungsri,Amount
+3017,"34,557.00 THB",krungsri,Amount
+3018,"17,024.00 THB",krungsri,Amount
+3019,"68,230.00 THB",krungsri,Amount
+3020,"14,349.00 THB",krungsri,Amount
+3021,"66,385.00 THB",krungsri,Amount
+3022,"90,250.00 THB",krungsri,Amount
+3023,"11,516.00 THB",krungsri,Amount
+3024,"98,400.00 THB",krungsri,Amount
+3025,"31,958.00 THB",krungsri,Amount
+3026,"99,851.00 THB",krungsri,Amount
+3027,"59,147.00 THB",krungsri,Amount
+3028,"55,396.00 THB",krungsri,Amount
+3029,"60,473.00 THB",krungsri,Amount
+3030,"74,873.00 THB",krungsri,Amount
+3031,"26,356.00 THB",krungsri,Amount
+3032,"99,517.00 THB",krungsri,Amount
+3033,"21,187.00 THB",krungsri,Amount
+3034,"69,275.00 THB",krungsri,Amount
+3035,"38,474.00 THB",krungsri,Amount
+3036,"57,310.00 THB",krungsri,Amount
+3037,"60,926.00 THB",krungsri,Amount
+3038,"20,335.00 THB",krungsri,Amount
+3039,"69,655.00 THB",krungsri,Amount
+3040,"76,045.00 THB",krungsri,Amount
+3041,"79,794.00 THB",krungsri,Amount
+3042,"98,730.00 THB",krungsri,Amount
+3043,"94,602.00 THB",krungsri,Amount
+3044,"42,361.00 THB",krungsri,Amount
+3045,"46,508.00 THB",krungsri,Amount
+3046,"97,629.00 THB",krungsri,Amount
+3047,"59,895.00 THB",krungsri,Amount
+3048,"88,902.00 THB",krungsri,Amount
+3049,"42,957.00 THB",krungsri,Amount
+3050,"54,667.00 THB",krungsri,Amount
+3051,"97,579.00 THB",krungsri,Amount
+3052,"36,807.00 THB",krungsri,Amount
+3053,"32,385.00 THB",krungsri,Amount
+3054,"17,317.00 THB",krungsri,Amount
+3055,"40,701.00 THB",krungsri,Amount
+3056,"45,562.00 THB",krungsri,Amount
+3057,"72,913.00 THB",krungsri,Amount
+3058,"96,973.00 THB",krungsri,Amount
+3059,"38,027.00 THB",krungsri,Amount
+3060,"13,399.00 THB",krungsri,Amount
+3061,"60,890.00 THB",krungsri,Amount
+3062,"39,893.00 THB",krungsri,Amount
+3063,"50,242.00 THB",krungsri,Amount
+3064,"14,588.00 THB",krungsri,Amount
+3065,"99,116.00 THB",krungsri,Amount
+3066,"83,915.00 THB",krungsri,Amount
+3067,"94,580.00 THB",krungsri,Amount
+3068,"28,739.00 THB",krungsri,Amount
+3069,"69,798.00 THB",krungsri,Amount
+3070,"53,974.00 THB",krungsri,Amount
+3071,"34,295.00 THB",krungsri,Amount
+3072,"39,043.00 THB",krungsri,Amount
+3073,"42,198.00 THB",krungsri,Amount
+3074,"22,181.00 THB",krungsri,Amount
+3075,"68,705.00 THB",krungsri,Amount
+3076,"24,777.00 THB",krungsri,Amount
+3077,"38,302.00 THB",krungsri,Amount
+3078,"76,759.00 THB",krungsri,Amount
+3079,"60,154.00 THB",krungsri,Amount
+3080,"44,535.00 THB",krungsri,Amount
+3081,"39,923.00 THB",krungsri,Amount
+3082,"92,029.00 THB",krungsri,Amount
+3083,"36,773.00 THB",krungsri,Amount
+3084,"31,109.00 THB",krungsri,Amount
+3085,"40,484.00 THB",krungsri,Amount
+3086,"82,907.00 THB",krungsri,Amount
+3087,"62,112.00 THB",krungsri,Amount
+3088,"61,218.00 THB",krungsri,Amount
+3089,"58,852.00 THB",krungsri,Amount
+3090,"42,973.00 THB",krungsri,Amount
+3091,"20,597.00 THB",krungsri,Amount
+3092,"61,184.00 THB",krungsri,Amount
+3093,"74,635.00 THB",krungsri,Amount
+3094,"99,217.00 THB",krungsri,Amount
+3095,"94,458.00 THB",krungsri,Amount
+3096,"67,364.00 THB",krungsri,Amount
+3097,"32,949.00 THB",krungsri,Amount
+3098,"54,680.00 THB",krungsri,Amount
+3099,"69,387.00 THB",krungsri,Amount
+3100,"30,854.00 THB",krungsri,Amount
+3101,"89,381.00 THB",krungsri,Amount
+3102,"39,363.00 THB",krungsri,Amount
+3103,"55,723.00 THB",krungsri,Amount
+3104,"63,936.00 THB",krungsri,Amount
+3105,"71,813.00 THB",krungsri,Amount
+3106,"23,284.00 THB",krungsri,Amount
+3107,"46,139.00 THB",krungsri,Amount
+3108,"48,100.00 THB",krungsri,Amount
+3109,"34,866.00 THB",krungsri,Amount
+3110,"24,700.00 THB",krungsri,Amount
+3111,"92,474.00 THB",krungsri,Amount
+3112,"46,098.00 THB",krungsri,Amount
+3113,"48,901.00 THB",krungsri,Amount
+3114,"30,102.00 THB",krungsri,Amount
+3115,"78,961.00 THB",krungsri,Amount
+3116,"73,283.00 THB",krungsri,Amount
+3117,"62,812.00 THB",krungsri,Amount
+3118,"18,058.00 THB",krungsri,Amount
+3119,"83,495.00 THB",krungsri,Amount
+3120,"88,492.00 THB",krungsri,Amount
+3121,"83,718.00 THB",krungsri,Amount
+3122,"87,295.00 THB",krungsri,Amount
+3123,"89,738.00 THB",krungsri,Amount
+3124,"29,664.00 THB",krungsri,Amount
+3125,"60,600.00 THB",krungsri,Amount
+3126,"12,187.00 THB",krungsri,Amount
+3127,"49,945.00 THB",krungsri,Amount
+3128,"38,233.00 THB",krungsri,Amount
+3129,"64,569.00 THB",krungsri,Amount
+3130,"87,012.00 THB",krungsri,Amount
+3131,"50,901.00 THB",krungsri,Amount
+3132,"25,101.00 THB",krungsri,Amount
+3133,"63,457.00 THB",krungsri,Amount
+3134,"58,730.00 THB",krungsri,Amount
+3135,"63,983.00 THB",krungsri,Amount
+3136,"26,124.00 THB",krungsri,Amount
+3137,"44,680.00 THB",krungsri,Amount
+3138,"20,340.00 THB",krungsri,Amount
+3139,"79,752.00 THB",krungsri,Amount
+3140,"47,020.00 THB",krungsri,Amount
+3141,"37,912.00 THB",krungsri,Amount
+3142,"89,328.00 THB",krungsri,Amount
+3143,"17,812.00 THB",krungsri,Amount
+3144,"78,531.00 THB",krungsri,Amount
+3145,"11,440.00 THB",krungsri,Amount
+3146,"70,441.00 THB",krungsri,Amount
+3147,"68,175.00 THB",krungsri,Amount
+3148,"87,099.00 THB",krungsri,Amount
+3149,"36,585.00 THB",krungsri,Amount
+3150,"51,505.00 THB",krungsri,Amount
+3151,"61,894.00 THB",krungsri,Amount
+3152,"40,907.00 THB",krungsri,Amount
+3153,"13,897.00 THB",krungsri,Amount
+3154,"51,168.00 THB",krungsri,Amount
+3155,"48,681.00 THB",krungsri,Amount
+3156,"12,198.00 THB",krungsri,Amount
+3157,"88,194.00 THB",krungsri,Amount
+3158,"12,846.00 THB",krungsri,Amount
+3159,"75,826.00 THB",krungsri,Amount
+3160,"68,789.00 THB",krungsri,Amount
+3161,"97,532.00 THB",krungsri,Amount
+3162,"28,739.00 THB",krungsri,Amount
+3163,"80,077.00 THB",krungsri,Amount
+3164,"47,899.00 THB",krungsri,Amount
+3165,"56,354.00 THB",krungsri,Amount
+3166,"48,107.00 THB",krungsri,Amount
+3167,"88,860.00 THB",krungsri,Amount
+3168,"92,092.00 THB",krungsri,Amount
+3169,"42,531.00 THB",krungsri,Amount
+3170,"31,354.00 THB",krungsri,Amount
+3171,"46,640.00 THB",krungsri,Amount
+3172,"97,356.00 THB",krungsri,Amount
+3173,"32,454.00 THB",krungsri,Amount
+3174,"35,058.00 THB",krungsri,Amount
+3175,"34,290.00 THB",krungsri,Amount
+3176,"93,505.00 THB",krungsri,Amount
+3177,"15,504.00 THB",krungsri,Amount
+3178,"29,608.00 THB",krungsri,Amount
+3179,"55,772.00 THB",krungsri,Amount
+3180,"86,646.00 THB",krungsri,Amount
+3181,"47,994.00 THB",krungsri,Amount
+3182,"56,644.00 THB",krungsri,Amount
+3183,"82,593.00 THB",krungsri,Amount
+3184,"39,644.00 THB",krungsri,Amount
+3185,"41,497.00 THB",krungsri,Amount
+3186,"48,366.00 THB",krungsri,Amount
+3187,"81,944.00 THB",krungsri,Amount
+3188,"75,801.00 THB",krungsri,Amount
+3189,"61,186.00 THB",krungsri,Amount
+3190,"71,927.00 THB",krungsri,Amount
+3191,"72,904.00 THB",krungsri,Amount
+3192,"67,545.00 THB",krungsri,Amount
+3193,"17,304.00 THB",krungsri,Amount
+3194,"35,604.00 THB",krungsri,Amount
+3195,"39,181.00 THB",krungsri,Amount
+3196,"82,654.00 THB",krungsri,Amount
+3197,"19,079.00 THB",krungsri,Amount
+3198,"82,449.00 THB",krungsri,Amount
+3199,"68,961.00 THB",krungsri,Amount
+3200,"80,273.00 THB",krungsri,Amount
+3201,"89,528.00 THB",krungsri,Amount
+3202,"76,135.00 THB",krungsri,Amount
+3203,"87,087.00 THB",krungsri,Amount
+3204,"10,010.00 THB",krungsri,Amount
+3205,"61,803.00 THB",krungsri,Amount
+3206,"29,995.00 THB",krungsri,Amount
+3207,"45,266.00 THB",krungsri,Amount
+3208,"99,310.00 THB",krungsri,Amount
+3209,"13,694.00 THB",krungsri,Amount
+3210,"56,426.00 THB",krungsri,Amount
+3211,"61,828.00 THB",krungsri,Amount
+3212,"13,466.00 THB",krungsri,Amount
+3213,"45,800.00 THB",krungsri,Amount
+3214,"27,856.00 THB",krungsri,Amount
+3215,"20,341.00 THB",krungsri,Amount
+3216,"61,401.00 THB",krungsri,Amount
+3217,"86,853.00 THB",krungsri,Amount
+3218,"49,370.00 THB",krungsri,Amount
+3219,"38,810.00 THB",krungsri,Amount
+3220,"71,092.00 THB",krungsri,Amount
+3221,"71,134.00 THB",krungsri,Amount
+3222,"10,160.00 THB",krungsri,Amount
+3223,"51,898.00 THB",krungsri,Amount
+3224,"15,796.00 THB",krungsri,Amount
+3225,"85,665.00 THB",krungsri,Amount
+3226,"31,946.00 THB",krungsri,Amount
+3227,"37,379.00 THB",krungsri,Amount
+3228,"30,968.00 THB",krungsri,Amount
+3229,"40,786.00 THB",krungsri,Amount
+3230,"44,152.00 THB",krungsri,Amount
+3231,"35,568.00 THB",krungsri,Amount
+3232,"25,317.00 THB",krungsri,Amount
+3233,"23,963.00 THB",krungsri,Amount
+3234,"72,906.00 THB",krungsri,Amount
+3235,"14,547.00 THB",krungsri,Amount
+3236,"86,505.00 THB",krungsri,Amount
+3237,"63,422.00 THB",krungsri,Amount
+3238,"30,762.00 THB",krungsri,Amount
+3239,"24,266.00 THB",krungsri,Amount
+3240,"30,286.00 THB",krungsri,Amount
+3241,"38,525.00 THB",krungsri,Amount
+3242,"82,279.00 THB",krungsri,Amount
+3243,"99,780.00 THB",krungsri,Amount
+3244,"64,661.00 THB",krungsri,Amount
+3245,"94,270.00 THB",krungsri,Amount
+3246,"26,973.00 THB",krungsri,Amount
+3247,"85,773.00 THB",krungsri,Amount
+3248,"41,986.00 THB",krungsri,Amount
+3249,"29,852.00 THB",krungsri,Amount
+3250,"10,458.00 THB",krungsri,Amount
+3251,"79,770.00 THB",krungsri,Amount
+3252,"60,289.00 THB",krungsri,Amount
+3253,"28,543.00 THB",krungsri,Amount
+3254,"21,850.00 THB",krungsri,Amount
+3255,"89,168.00 THB",krungsri,Amount
+3256,"81,462.00 THB",krungsri,Amount
+3257,"26,004.00 THB",krungsri,Amount
+3258,"47,832.00 THB",krungsri,Amount
+3259,"83,654.00 THB",krungsri,Amount
+3260,"60,840.00 THB",krungsri,Amount
+3261,"28,466.00 THB",krungsri,Amount
+3262,"54,267.00 THB",krungsri,Amount
+3263,"73,426.00 THB",krungsri,Amount
+3264,"65,753.00 THB",krungsri,Amount
+3265,"35,676.00 THB",krungsri,Amount
+3266,"56,054.00 THB",krungsri,Amount
+3267,"50,807.00 THB",krungsri,Amount
+3268,"98,371.00 THB",krungsri,Amount
+3269,"53,970.00 THB",krungsri,Amount
+3270,"37,591.00 THB",krungsri,Amount
+3271,"68,733.00 THB",krungsri,Amount
+3272,"33,725.00 THB",krungsri,Amount
+3273,"15,285.00 THB",krungsri,Amount
+3274,"77,179.00 THB",krungsri,Amount
+3275,"81,308.00 THB",krungsri,Amount
+3276,"34,892.00 THB",krungsri,Amount
+3277,"53,112.00 THB",krungsri,Amount
+3278,"91,000.00 THB",krungsri,Amount
+3279,"64,430.00 THB",krungsri,Amount
+3280,"56,548.00 THB",krungsri,Amount
+3281,"97,854.00 THB",krungsri,Amount
+3282,"92,673.00 THB",krungsri,Amount
+3283,"81,482.00 THB",krungsri,Amount
+3284,"86,117.00 THB",krungsri,Amount
+3285,"81,621.00 THB",krungsri,Amount
+3286,"31,011.00 THB",krungsri,Amount
+3287,"53,024.00 THB",krungsri,Amount
+3288,"45,814.00 THB",krungsri,Amount
+3289,"35,936.00 THB",krungsri,Amount
+3290,"17,472.00 THB",krungsri,Amount
+3291,"44,249.00 THB",krungsri,Amount
+3292,"32,200.00 THB",krungsri,Amount
+3293,"69,185.00 THB",krungsri,Amount
+3294,"45,377.00 THB",krungsri,Amount
+3295,"36,507.00 THB",krungsri,Amount
+3296,"73,068.00 THB",krungsri,Amount
+3297,"88,486.00 THB",krungsri,Amount
+3298,"91,110.00 THB",krungsri,Amount
+3299,"84,014.00 THB",krungsri,Amount
+3300,4.00 บาท,kbank,Amount
+3301,5.00 บาท,kbank,Amount
+3302,5.00 บาท,kbank,Amount
+3303,4.00 บาท,kbank,Amount
+3304,3.00 บาท,kbank,Amount
+3305,2.00 บาท,kbank,Amount
+3306,7.00 บาท,kbank,Amount
+3307,1.00 บาท,kbank,Amount
+3308,2.00 บาท,kbank,Amount
+3309,2.00 บาท,kbank,Amount
+3310,5.00 บาท,kbank,Amount
+3311,1.00 บาท,kbank,Amount
+3312,7.00 บาท,kbank,Amount
+3313,9.00 บาท,kbank,Amount
+3314,4.00 บาท,kbank,Amount
+3315,6.00 บาท,kbank,Amount
+3316,1.00 บาท,kbank,Amount
+3317,6.00 บาท,kbank,Amount
+3318,9.00 บาท,kbank,Amount
+3319,5.00 บาท,kbank,Amount
+3320,5.00 บาท,kbank,Amount
+3321,7.00 บาท,kbank,Amount
+3322,7.00 บาท,kbank,Amount
+3323,9.00 บาท,kbank,Amount
+3324,3.00 บาท,kbank,Amount
+3325,4.00 บาท,kbank,Amount
+3326,8.00 บาท,kbank,Amount
+3327,9.00 บาท,kbank,Amount
+3328,2.00 บาท,kbank,Amount
+3329,5.00 บาท,kbank,Amount
+3330,1.00 บาท,kbank,Amount
+3331,3.00 บาท,kbank,Amount
+3332,5.00 บาท,kbank,Amount
+3333,8.00 บาท,kbank,Amount
+3334,6.00 บาท,kbank,Amount
+3335,4.00 บาท,kbank,Amount
+3336,4.00 บาท,kbank,Amount
+3337,9.00 บาท,kbank,Amount
+3338,2.00 บาท,kbank,Amount
+3339,8.00 บาท,kbank,Amount
+3340,8.00 บาท,kbank,Amount
+3341,2.00 บาท,kbank,Amount
+3342,6.00 บาท,kbank,Amount
+3343,4.00 บาท,kbank,Amount
+3344,9.00 บาท,kbank,Amount
+3345,8.00 บาท,kbank,Amount
+3346,1.00 บาท,kbank,Amount
+3347,4.00 บาท,kbank,Amount
+3348,4.00 บาท,kbank,Amount
+3349,9.00 บาท,kbank,Amount
+3350,6.00 บาท,kbank,Amount
+3351,1.00 บาท,kbank,Amount
+3352,8.00 บาท,kbank,Amount
+3353,1.00 บาท,kbank,Amount
+3354,6.00 บาท,kbank,Amount
+3355,7.00 บาท,kbank,Amount
+3356,6.00 บาท,kbank,Amount
+3357,2.00 บาท,kbank,Amount
+3358,9.00 บาท,kbank,Amount
+3359,4.00 บาท,kbank,Amount
+3360,6.00 บาท,kbank,Amount
+3361,6.00 บาท,kbank,Amount
+3362,7.00 บาท,kbank,Amount
+3363,7.00 บาท,kbank,Amount
+3364,7.00 บาท,kbank,Amount
+3365,9.00 บาท,kbank,Amount
+3366,3.00 บาท,kbank,Amount
+3367,9.00 บาท,kbank,Amount
+3368,6.00 บาท,kbank,Amount
+3369,7.00 บาท,kbank,Amount
+3370,6.00 บาท,kbank,Amount
+3371,7.00 บาท,kbank,Amount
+3372,2.00 บาท,kbank,Amount
+3373,6.00 บาท,kbank,Amount
+3374,9.00 บาท,kbank,Amount
+3375,3.00 บาท,kbank,Amount
+3376,9.00 บาท,kbank,Amount
+3377,3.00 บาท,kbank,Amount
+3378,6.00 บาท,kbank,Amount
+3379,2.00 บาท,kbank,Amount
+3380,2.00 บาท,kbank,Amount
+3381,9.00 บาท,kbank,Amount
+3382,1.00 บาท,kbank,Amount
+3383,7.00 บาท,kbank,Amount
+3384,1.00 บาท,kbank,Amount
+3385,3.00 บาท,kbank,Amount
+3386,7.00 บาท,kbank,Amount
+3387,9.00 บาท,kbank,Amount
+3388,8.00 บาท,kbank,Amount
+3389,1.00 บาท,kbank,Amount
+3390,5.00 บาท,kbank,Amount
+3391,4.00 บาท,kbank,Amount
+3392,1.00 บาท,kbank,Amount
+3393,8.00 บาท,kbank,Amount
+3394,5.00 บาท,kbank,Amount
+3395,1.00 บาท,kbank,Amount
+3396,6.00 บาท,kbank,Amount
+3397,4.00 บาท,kbank,Amount
+3398,4.00 บาท,kbank,Amount
+3399,6.00 บาท,kbank,Amount
+3400,45.00 บาท,kbank,Amount
+3401,49.00 บาท,kbank,Amount
+3402,76.00 บาท,kbank,Amount
+3403,20.00 บาท,kbank,Amount
+3404,71.00 บาท,kbank,Amount
+3405,76.00 บาท,kbank,Amount
+3406,69.00 บาท,kbank,Amount
+3407,46.00 บาท,kbank,Amount
+3408,42.00 บาท,kbank,Amount
+3409,61.00 บาท,kbank,Amount
+3410,78.00 บาท,kbank,Amount
+3411,89.00 บาท,kbank,Amount
+3412,48.00 บาท,kbank,Amount
+3413,97.00 บาท,kbank,Amount
+3414,11.00 บาท,kbank,Amount
+3415,36.00 บาท,kbank,Amount
+3416,10.00 บาท,kbank,Amount
+3417,83.00 บาท,kbank,Amount
+3418,23.00 บาท,kbank,Amount
+3419,66.00 บาท,kbank,Amount
+3420,96.00 บาท,kbank,Amount
+3421,47.00 บาท,kbank,Amount
+3422,49.00 บาท,kbank,Amount
+3423,92.00 บาท,kbank,Amount
+3424,97.00 บาท,kbank,Amount
+3425,43.00 บาท,kbank,Amount
+3426,61.00 บาท,kbank,Amount
+3427,52.00 บาท,kbank,Amount
+3428,40.00 บาท,kbank,Amount
+3429,43.00 บาท,kbank,Amount
+3430,19.00 บาท,kbank,Amount
+3431,85.00 บาท,kbank,Amount
+3432,68.00 บาท,kbank,Amount
+3433,51.00 บาท,kbank,Amount
+3434,53.00 บาท,kbank,Amount
+3435,41.00 บาท,kbank,Amount
+3436,65.00 บาท,kbank,Amount
+3437,24.00 บาท,kbank,Amount
+3438,73.00 บาท,kbank,Amount
+3439,16.00 บาท,kbank,Amount
+3440,17.00 บาท,kbank,Amount
+3441,16.00 บาท,kbank,Amount
+3442,82.00 บาท,kbank,Amount
+3443,15.00 บาท,kbank,Amount
+3444,76.00 บาท,kbank,Amount
+3445,87.00 บาท,kbank,Amount
+3446,73.00 บาท,kbank,Amount
+3447,47.00 บาท,kbank,Amount
+3448,88.00 บาท,kbank,Amount
+3449,52.00 บาท,kbank,Amount
+3450,93.00 บาท,kbank,Amount
+3451,84.00 บาท,kbank,Amount
+3452,86.00 บาท,kbank,Amount
+3453,88.00 บาท,kbank,Amount
+3454,17.00 บาท,kbank,Amount
+3455,99.00 บาท,kbank,Amount
+3456,15.00 บาท,kbank,Amount
+3457,85.00 บาท,kbank,Amount
+3458,24.00 บาท,kbank,Amount
+3459,39.00 บาท,kbank,Amount
+3460,57.00 บาท,kbank,Amount
+3461,64.00 บาท,kbank,Amount
+3462,23.00 บาท,kbank,Amount
+3463,14.00 บาท,kbank,Amount
+3464,58.00 บาท,kbank,Amount
+3465,29.00 บาท,kbank,Amount
+3466,37.00 บาท,kbank,Amount
+3467,74.00 บาท,kbank,Amount
+3468,69.00 บาท,kbank,Amount
+3469,45.00 บาท,kbank,Amount
+3470,93.00 บาท,kbank,Amount
+3471,51.00 บาท,kbank,Amount
+3472,25.00 บาท,kbank,Amount
+3473,53.00 บาท,kbank,Amount
+3474,15.00 บาท,kbank,Amount
+3475,22.00 บาท,kbank,Amount
+3476,34.00 บาท,kbank,Amount
+3477,62.00 บาท,kbank,Amount
+3478,73.00 บาท,kbank,Amount
+3479,48.00 บาท,kbank,Amount
+3480,59.00 บาท,kbank,Amount
+3481,89.00 บาท,kbank,Amount
+3482,40.00 บาท,kbank,Amount
+3483,12.00 บาท,kbank,Amount
+3484,87.00 บาท,kbank,Amount
+3485,73.00 บาท,kbank,Amount
+3486,33.00 บาท,kbank,Amount
+3487,19.00 บาท,kbank,Amount
+3488,13.00 บาท,kbank,Amount
+3489,75.00 บาท,kbank,Amount
+3490,46.00 บาท,kbank,Amount
+3491,78.00 บาท,kbank,Amount
+3492,47.00 บาท,kbank,Amount
+3493,93.00 บาท,kbank,Amount
+3494,34.00 บาท,kbank,Amount
+3495,91.00 บาท,kbank,Amount
+3496,44.00 บาท,kbank,Amount
+3497,37.00 บาท,kbank,Amount
+3498,98.00 บาท,kbank,Amount
+3499,77.00 บาท,kbank,Amount
+3500,14.00 บาท,kbank,Amount
+3501,35.00 บาท,kbank,Amount
+3502,41.00 บาท,kbank,Amount
+3503,37.00 บาท,kbank,Amount
+3504,28.00 บาท,kbank,Amount
+3505,69.00 บาท,kbank,Amount
+3506,69.00 บาท,kbank,Amount
+3507,55.00 บาท,kbank,Amount
+3508,48.00 บาท,kbank,Amount
+3509,23.00 บาท,kbank,Amount
+3510,65.00 บาท,kbank,Amount
+3511,47.00 บาท,kbank,Amount
+3512,99.00 บาท,kbank,Amount
+3513,83.00 บาท,kbank,Amount
+3514,74.00 บาท,kbank,Amount
+3515,74.00 บาท,kbank,Amount
+3516,34.00 บาท,kbank,Amount
+3517,25.00 บาท,kbank,Amount
+3518,76.00 บาท,kbank,Amount
+3519,32.00 บาท,kbank,Amount
+3520,87.00 บาท,kbank,Amount
+3521,49.00 บาท,kbank,Amount
+3522,86.00 บาท,kbank,Amount
+3523,86.00 บาท,kbank,Amount
+3524,49.00 บาท,kbank,Amount
+3525,34.00 บาท,kbank,Amount
+3526,25.00 บาท,kbank,Amount
+3527,63.00 บาท,kbank,Amount
+3528,86.00 บาท,kbank,Amount
+3529,97.00 บาท,kbank,Amount
+3530,65.00 บาท,kbank,Amount
+3531,67.00 บาท,kbank,Amount
+3532,29.00 บาท,kbank,Amount
+3533,67.00 บาท,kbank,Amount
+3534,50.00 บาท,kbank,Amount
+3535,55.00 บาท,kbank,Amount
+3536,37.00 บาท,kbank,Amount
+3537,97.00 บาท,kbank,Amount
+3538,69.00 บาท,kbank,Amount
+3539,34.00 บาท,kbank,Amount
+3540,81.00 บาท,kbank,Amount
+3541,64.00 บาท,kbank,Amount
+3542,58.00 บาท,kbank,Amount
+3543,92.00 บาท,kbank,Amount
+3544,26.00 บาท,kbank,Amount
+3545,30.00 บาท,kbank,Amount
+3546,78.00 บาท,kbank,Amount
+3547,98.00 บาท,kbank,Amount
+3548,49.00 บาท,kbank,Amount
+3549,96.00 บาท,kbank,Amount
+3550,79.00 บาท,kbank,Amount
+3551,20.00 บาท,kbank,Amount
+3552,48.00 บาท,kbank,Amount
+3553,13.00 บาท,kbank,Amount
+3554,44.00 บาท,kbank,Amount
+3555,43.00 บาท,kbank,Amount
+3556,65.00 บาท,kbank,Amount
+3557,71.00 บาท,kbank,Amount
+3558,49.00 บาท,kbank,Amount
+3559,47.00 บาท,kbank,Amount
+3560,56.00 บาท,kbank,Amount
+3561,57.00 บาท,kbank,Amount
+3562,97.00 บาท,kbank,Amount
+3563,11.00 บาท,kbank,Amount
+3564,25.00 บาท,kbank,Amount
+3565,61.00 บาท,kbank,Amount
+3566,11.00 บาท,kbank,Amount
+3567,12.00 บาท,kbank,Amount
+3568,78.00 บาท,kbank,Amount
+3569,45.00 บาท,kbank,Amount
+3570,93.00 บาท,kbank,Amount
+3571,85.00 บาท,kbank,Amount
+3572,81.00 บาท,kbank,Amount
+3573,73.00 บาท,kbank,Amount
+3574,85.00 บาท,kbank,Amount
+3575,73.00 บาท,kbank,Amount
+3576,17.00 บาท,kbank,Amount
+3577,93.00 บาท,kbank,Amount
+3578,49.00 บาท,kbank,Amount
+3579,52.00 บาท,kbank,Amount
+3580,16.00 บาท,kbank,Amount
+3581,79.00 บาท,kbank,Amount
+3582,30.00 บาท,kbank,Amount
+3583,55.00 บาท,kbank,Amount
+3584,72.00 บาท,kbank,Amount
+3585,25.00 บาท,kbank,Amount
+3586,90.00 บาท,kbank,Amount
+3587,25.00 บาท,kbank,Amount
+3588,82.00 บาท,kbank,Amount
+3589,41.00 บาท,kbank,Amount
+3590,48.00 บาท,kbank,Amount
+3591,76.00 บาท,kbank,Amount
+3592,72.00 บาท,kbank,Amount
+3593,45.00 บาท,kbank,Amount
+3594,28.00 บาท,kbank,Amount
+3595,56.00 บาท,kbank,Amount
+3596,50.00 บาท,kbank,Amount
+3597,20.00 บาท,kbank,Amount
+3598,36.00 บาท,kbank,Amount
+3599,81.00 บาท,kbank,Amount
+3600,37.00 บาท,kbank,Amount
+3601,12.00 บาท,kbank,Amount
+3602,26.00 บาท,kbank,Amount
+3603,34.00 บาท,kbank,Amount
+3604,48.00 บาท,kbank,Amount
+3605,16.00 บาท,kbank,Amount
+3606,58.00 บาท,kbank,Amount
+3607,36.00 บาท,kbank,Amount
+3608,16.00 บาท,kbank,Amount
+3609,55.00 บาท,kbank,Amount
+3610,67.00 บาท,kbank,Amount
+3611,25.00 บาท,kbank,Amount
+3612,89.00 บาท,kbank,Amount
+3613,49.00 บาท,kbank,Amount
+3614,97.00 บาท,kbank,Amount
+3615,42.00 บาท,kbank,Amount
+3616,72.00 บาท,kbank,Amount
+3617,56.00 บาท,kbank,Amount
+3618,38.00 บาท,kbank,Amount
+3619,22.00 บาท,kbank,Amount
+3620,79.00 บาท,kbank,Amount
+3621,74.00 บาท,kbank,Amount
+3622,19.00 บาท,kbank,Amount
+3623,37.00 บาท,kbank,Amount
+3624,18.00 บาท,kbank,Amount
+3625,10.00 บาท,kbank,Amount
+3626,20.00 บาท,kbank,Amount
+3627,11.00 บาท,kbank,Amount
+3628,44.00 บาท,kbank,Amount
+3629,17.00 บาท,kbank,Amount
+3630,79.00 บาท,kbank,Amount
+3631,10.00 บาท,kbank,Amount
+3632,56.00 บาท,kbank,Amount
+3633,86.00 บาท,kbank,Amount
+3634,36.00 บาท,kbank,Amount
+3635,32.00 บาท,kbank,Amount
+3636,99.00 บาท,kbank,Amount
+3637,61.00 บาท,kbank,Amount
+3638,87.00 บาท,kbank,Amount
+3639,13.00 บาท,kbank,Amount
+3640,32.00 บาท,kbank,Amount
+3641,85.00 บาท,kbank,Amount
+3642,19.00 บาท,kbank,Amount
+3643,95.00 บาท,kbank,Amount
+3644,48.00 บาท,kbank,Amount
+3645,54.00 บาท,kbank,Amount
+3646,71.00 บาท,kbank,Amount
+3647,31.00 บาท,kbank,Amount
+3648,95.00 บาท,kbank,Amount
+3649,56.00 บาท,kbank,Amount
+3650,30.00 บาท,kbank,Amount
+3651,93.00 บาท,kbank,Amount
+3652,77.00 บาท,kbank,Amount
+3653,55.00 บาท,kbank,Amount
+3654,72.00 บาท,kbank,Amount
+3655,62.00 บาท,kbank,Amount
+3656,25.00 บาท,kbank,Amount
+3657,18.00 บาท,kbank,Amount
+3658,81.00 บาท,kbank,Amount
+3659,54.00 บาท,kbank,Amount
+3660,36.00 บาท,kbank,Amount
+3661,39.00 บาท,kbank,Amount
+3662,39.00 บาท,kbank,Amount
+3663,21.00 บาท,kbank,Amount
+3664,30.00 บาท,kbank,Amount
+3665,93.00 บาท,kbank,Amount
+3666,98.00 บาท,kbank,Amount
+3667,52.00 บาท,kbank,Amount
+3668,83.00 บาท,kbank,Amount
+3669,32.00 บาท,kbank,Amount
+3670,38.00 บาท,kbank,Amount
+3671,69.00 บาท,kbank,Amount
+3672,52.00 บาท,kbank,Amount
+3673,25.00 บาท,kbank,Amount
+3674,36.00 บาท,kbank,Amount
+3675,11.00 บาท,kbank,Amount
+3676,92.00 บาท,kbank,Amount
+3677,14.00 บาท,kbank,Amount
+3678,38.00 บาท,kbank,Amount
+3679,78.00 บาท,kbank,Amount
+3680,10.00 บาท,kbank,Amount
+3681,12.00 บาท,kbank,Amount
+3682,52.00 บาท,kbank,Amount
+3683,34.00 บาท,kbank,Amount
+3684,73.00 บาท,kbank,Amount
+3685,40.00 บาท,kbank,Amount
+3686,77.00 บาท,kbank,Amount
+3687,88.00 บาท,kbank,Amount
+3688,56.00 บาท,kbank,Amount
+3689,12.00 บาท,kbank,Amount
+3690,54.00 บาท,kbank,Amount
+3691,79.00 บาท,kbank,Amount
+3692,23.00 บาท,kbank,Amount
+3693,10.00 บาท,kbank,Amount
+3694,41.00 บาท,kbank,Amount
+3695,83.00 บาท,kbank,Amount
+3696,68.00 บาท,kbank,Amount
+3697,35.00 บาท,kbank,Amount
+3698,28.00 บาท,kbank,Amount
+3699,17.00 บาท,kbank,Amount
+3700,906.00 บาท,kbank,Amount
+3701,631.00 บาท,kbank,Amount
+3702,423.00 บาท,kbank,Amount
+3703,418.00 บาท,kbank,Amount
+3704,514.00 บาท,kbank,Amount
+3705,441.00 บาท,kbank,Amount
+3706,116.00 บาท,kbank,Amount
+3707,805.00 บาท,kbank,Amount
+3708,485.00 บาท,kbank,Amount
+3709,348.00 บาท,kbank,Amount
+3710,977.00 บาท,kbank,Amount
+3711,767.00 บาท,kbank,Amount
+3712,839.00 บาท,kbank,Amount
+3713,613.00 บาท,kbank,Amount
+3714,832.00 บาท,kbank,Amount
+3715,946.00 บาท,kbank,Amount
+3716,501.00 บาท,kbank,Amount
+3717,989.00 บาท,kbank,Amount
+3718,940.00 บาท,kbank,Amount
+3719,457.00 บาท,kbank,Amount
+3720,581.00 บาท,kbank,Amount
+3721,131.00 บาท,kbank,Amount
+3722,947.00 บาท,kbank,Amount
+3723,490.00 บาท,kbank,Amount
+3724,780.00 บาท,kbank,Amount
+3725,920.00 บาท,kbank,Amount
+3726,596.00 บาท,kbank,Amount
+3727,712.00 บาท,kbank,Amount
+3728,452.00 บาท,kbank,Amount
+3729,551.00 บาท,kbank,Amount
+3730,474.00 บาท,kbank,Amount
+3731,879.00 บาท,kbank,Amount
+3732,446.00 บาท,kbank,Amount
+3733,282.00 บาท,kbank,Amount
+3734,660.00 บาท,kbank,Amount
+3735,172.00 บาท,kbank,Amount
+3736,262.00 บาท,kbank,Amount
+3737,879.00 บาท,kbank,Amount
+3738,578.00 บาท,kbank,Amount
+3739,830.00 บาท,kbank,Amount
+3740,195.00 บาท,kbank,Amount
+3741,255.00 บาท,kbank,Amount
+3742,938.00 บาท,kbank,Amount
+3743,202.00 บาท,kbank,Amount
+3744,739.00 บาท,kbank,Amount
+3745,397.00 บาท,kbank,Amount
+3746,577.00 บาท,kbank,Amount
+3747,769.00 บาท,kbank,Amount
+3748,425.00 บาท,kbank,Amount
+3749,203.00 บาท,kbank,Amount
+3750,256.00 บาท,kbank,Amount
+3751,948.00 บาท,kbank,Amount
+3752,366.00 บาท,kbank,Amount
+3753,319.00 บาท,kbank,Amount
+3754,516.00 บาท,kbank,Amount
+3755,876.00 บาท,kbank,Amount
+3756,312.00 บาท,kbank,Amount
+3757,715.00 บาท,kbank,Amount
+3758,151.00 บาท,kbank,Amount
+3759,942.00 บาท,kbank,Amount
+3760,951.00 บาท,kbank,Amount
+3761,546.00 บาท,kbank,Amount
+3762,460.00 บาท,kbank,Amount
+3763,879.00 บาท,kbank,Amount
+3764,343.00 บาท,kbank,Amount
+3765,261.00 บาท,kbank,Amount
+3766,322.00 บาท,kbank,Amount
+3767,793.00 บาท,kbank,Amount
+3768,192.00 บาท,kbank,Amount
+3769,808.00 บาท,kbank,Amount
+3770,531.00 บาท,kbank,Amount
+3771,651.00 บาท,kbank,Amount
+3772,889.00 บาท,kbank,Amount
+3773,862.00 บาท,kbank,Amount
+3774,614.00 บาท,kbank,Amount
+3775,774.00 บาท,kbank,Amount
+3776,175.00 บาท,kbank,Amount
+3777,805.00 บาท,kbank,Amount
+3778,172.00 บาท,kbank,Amount
+3779,350.00 บาท,kbank,Amount
+3780,102.00 บาท,kbank,Amount
+3781,503.00 บาท,kbank,Amount
+3782,677.00 บาท,kbank,Amount
+3783,401.00 บาท,kbank,Amount
+3784,993.00 บาท,kbank,Amount
+3785,906.00 บาท,kbank,Amount
+3786,963.00 บาท,kbank,Amount
+3787,744.00 บาท,kbank,Amount
+3788,951.00 บาท,kbank,Amount
+3789,814.00 บาท,kbank,Amount
+3790,956.00 บาท,kbank,Amount
+3791,929.00 บาท,kbank,Amount
+3792,755.00 บาท,kbank,Amount
+3793,116.00 บาท,kbank,Amount
+3794,567.00 บาท,kbank,Amount
+3795,603.00 บาท,kbank,Amount
+3796,805.00 บาท,kbank,Amount
+3797,694.00 บาท,kbank,Amount
+3798,788.00 บาท,kbank,Amount
+3799,637.00 บาท,kbank,Amount
+3800,761.00 บาท,kbank,Amount
+3801,653.00 บาท,kbank,Amount
+3802,828.00 บาท,kbank,Amount
+3803,190.00 บาท,kbank,Amount
+3804,162.00 บาท,kbank,Amount
+3805,736.00 บาท,kbank,Amount
+3806,193.00 บาท,kbank,Amount
+3807,213.00 บาท,kbank,Amount
+3808,844.00 บาท,kbank,Amount
+3809,526.00 บาท,kbank,Amount
+3810,997.00 บาท,kbank,Amount
+3811,359.00 บาท,kbank,Amount
+3812,876.00 บาท,kbank,Amount
+3813,842.00 บาท,kbank,Amount
+3814,851.00 บาท,kbank,Amount
+3815,496.00 บาท,kbank,Amount
+3816,179.00 บาท,kbank,Amount
+3817,780.00 บาท,kbank,Amount
+3818,498.00 บาท,kbank,Amount
+3819,478.00 บาท,kbank,Amount
+3820,769.00 บาท,kbank,Amount
+3821,848.00 บาท,kbank,Amount
+3822,404.00 บาท,kbank,Amount
+3823,369.00 บาท,kbank,Amount
+3824,432.00 บาท,kbank,Amount
+3825,954.00 บาท,kbank,Amount
+3826,653.00 บาท,kbank,Amount
+3827,972.00 บาท,kbank,Amount
+3828,899.00 บาท,kbank,Amount
+3829,915.00 บาท,kbank,Amount
+3830,846.00 บาท,kbank,Amount
+3831,345.00 บาท,kbank,Amount
+3832,127.00 บาท,kbank,Amount
+3833,864.00 บาท,kbank,Amount
+3834,300.00 บาท,kbank,Amount
+3835,508.00 บาท,kbank,Amount
+3836,602.00 บาท,kbank,Amount
+3837,343.00 บาท,kbank,Amount
+3838,197.00 บาท,kbank,Amount
+3839,618.00 บาท,kbank,Amount
+3840,832.00 บาท,kbank,Amount
+3841,871.00 บาท,kbank,Amount
+3842,534.00 บาท,kbank,Amount
+3843,537.00 บาท,kbank,Amount
+3844,201.00 บาท,kbank,Amount
+3845,724.00 บาท,kbank,Amount
+3846,729.00 บาท,kbank,Amount
+3847,556.00 บาท,kbank,Amount
+3848,668.00 บาท,kbank,Amount
+3849,607.00 บาท,kbank,Amount
+3850,840.00 บาท,kbank,Amount
+3851,984.00 บาท,kbank,Amount
+3852,139.00 บาท,kbank,Amount
+3853,152.00 บาท,kbank,Amount
+3854,162.00 บาท,kbank,Amount
+3855,207.00 บาท,kbank,Amount
+3856,205.00 บาท,kbank,Amount
+3857,671.00 บาท,kbank,Amount
+3858,753.00 บาท,kbank,Amount
+3859,893.00 บาท,kbank,Amount
+3860,703.00 บาท,kbank,Amount
+3861,606.00 บาท,kbank,Amount
+3862,246.00 บาท,kbank,Amount
+3863,174.00 บาท,kbank,Amount
+3864,365.00 บาท,kbank,Amount
+3865,249.00 บาท,kbank,Amount
+3866,640.00 บาท,kbank,Amount
+3867,308.00 บาท,kbank,Amount
+3868,329.00 บาท,kbank,Amount
+3869,512.00 บาท,kbank,Amount
+3870,462.00 บาท,kbank,Amount
+3871,707.00 บาท,kbank,Amount
+3872,488.00 บาท,kbank,Amount
+3873,973.00 บาท,kbank,Amount
+3874,383.00 บาท,kbank,Amount
+3875,773.00 บาท,kbank,Amount
+3876,151.00 บาท,kbank,Amount
+3877,757.00 บาท,kbank,Amount
+3878,851.00 บาท,kbank,Amount
+3879,181.00 บาท,kbank,Amount
+3880,790.00 บาท,kbank,Amount
+3881,112.00 บาท,kbank,Amount
+3882,943.00 บาท,kbank,Amount
+3883,755.00 บาท,kbank,Amount
+3884,304.00 บาท,kbank,Amount
+3885,456.00 บาท,kbank,Amount
+3886,449.00 บาท,kbank,Amount
+3887,375.00 บาท,kbank,Amount
+3888,493.00 บาท,kbank,Amount
+3889,609.00 บาท,kbank,Amount
+3890,332.00 บาท,kbank,Amount
+3891,500.00 บาท,kbank,Amount
+3892,396.00 บาท,kbank,Amount
+3893,889.00 บาท,kbank,Amount
+3894,365.00 บาท,kbank,Amount
+3895,221.00 บาท,kbank,Amount
+3896,230.00 บาท,kbank,Amount
+3897,236.00 บาท,kbank,Amount
+3898,203.00 บาท,kbank,Amount
+3899,863.00 บาท,kbank,Amount
+3900,164.00 บาท,kbank,Amount
+3901,748.00 บาท,kbank,Amount
+3902,332.00 บาท,kbank,Amount
+3903,655.00 บาท,kbank,Amount
+3904,166.00 บาท,kbank,Amount
+3905,679.00 บาท,kbank,Amount
+3906,495.00 บาท,kbank,Amount
+3907,908.00 บาท,kbank,Amount
+3908,705.00 บาท,kbank,Amount
+3909,586.00 บาท,kbank,Amount
+3910,846.00 บาท,kbank,Amount
+3911,233.00 บาท,kbank,Amount
+3912,511.00 บาท,kbank,Amount
+3913,189.00 บาท,kbank,Amount
+3914,809.00 บาท,kbank,Amount
+3915,538.00 บาท,kbank,Amount
+3916,891.00 บาท,kbank,Amount
+3917,796.00 บาท,kbank,Amount
+3918,310.00 บาท,kbank,Amount
+3919,297.00 บาท,kbank,Amount
+3920,795.00 บาท,kbank,Amount
+3921,346.00 บาท,kbank,Amount
+3922,366.00 บาท,kbank,Amount
+3923,251.00 บาท,kbank,Amount
+3924,557.00 บาท,kbank,Amount
+3925,311.00 บาท,kbank,Amount
+3926,764.00 บาท,kbank,Amount
+3927,183.00 บาท,kbank,Amount
+3928,516.00 บาท,kbank,Amount
+3929,870.00 บาท,kbank,Amount
+3930,568.00 บาท,kbank,Amount
+3931,483.00 บาท,kbank,Amount
+3932,733.00 บาท,kbank,Amount
+3933,916.00 บาท,kbank,Amount
+3934,580.00 บาท,kbank,Amount
+3935,960.00 บาท,kbank,Amount
+3936,687.00 บาท,kbank,Amount
+3937,361.00 บาท,kbank,Amount
+3938,182.00 บาท,kbank,Amount
+3939,975.00 บาท,kbank,Amount
+3940,909.00 บาท,kbank,Amount
+3941,595.00 บาท,kbank,Amount
+3942,429.00 บาท,kbank,Amount
+3943,416.00 บาท,kbank,Amount
+3944,608.00 บาท,kbank,Amount
+3945,412.00 บาท,kbank,Amount
+3946,894.00 บาท,kbank,Amount
+3947,963.00 บาท,kbank,Amount
+3948,235.00 บาท,kbank,Amount
+3949,896.00 บาท,kbank,Amount
+3950,402.00 บาท,kbank,Amount
+3951,697.00 บาท,kbank,Amount
+3952,743.00 บาท,kbank,Amount
+3953,911.00 บาท,kbank,Amount
+3954,270.00 บาท,kbank,Amount
+3955,147.00 บาท,kbank,Amount
+3956,310.00 บาท,kbank,Amount
+3957,820.00 บาท,kbank,Amount
+3958,690.00 บาท,kbank,Amount
+3959,768.00 บาท,kbank,Amount
+3960,127.00 บาท,kbank,Amount
+3961,105.00 บาท,kbank,Amount
+3962,657.00 บาท,kbank,Amount
+3963,934.00 บาท,kbank,Amount
+3964,348.00 บาท,kbank,Amount
+3965,390.00 บาท,kbank,Amount
+3966,701.00 บาท,kbank,Amount
+3967,579.00 บาท,kbank,Amount
+3968,861.00 บาท,kbank,Amount
+3969,222.00 บาท,kbank,Amount
+3970,573.00 บาท,kbank,Amount
+3971,357.00 บาท,kbank,Amount
+3972,133.00 บาท,kbank,Amount
+3973,511.00 บาท,kbank,Amount
+3974,221.00 บาท,kbank,Amount
+3975,797.00 บาท,kbank,Amount
+3976,597.00 บาท,kbank,Amount
+3977,470.00 บาท,kbank,Amount
+3978,319.00 บาท,kbank,Amount
+3979,180.00 บาท,kbank,Amount
+3980,740.00 บาท,kbank,Amount
+3981,781.00 บาท,kbank,Amount
+3982,852.00 บาท,kbank,Amount
+3983,321.00 บาท,kbank,Amount
+3984,800.00 บาท,kbank,Amount
+3985,748.00 บาท,kbank,Amount
+3986,154.00 บาท,kbank,Amount
+3987,413.00 บาท,kbank,Amount
+3988,675.00 บาท,kbank,Amount
+3989,715.00 บาท,kbank,Amount
+3990,394.00 บาท,kbank,Amount
+3991,108.00 บาท,kbank,Amount
+3992,822.00 บาท,kbank,Amount
+3993,684.00 บาท,kbank,Amount
+3994,399.00 บาท,kbank,Amount
+3995,532.00 บาท,kbank,Amount
+3996,234.00 บาท,kbank,Amount
+3997,366.00 บาท,kbank,Amount
+3998,817.00 บาท,kbank,Amount
+3999,656.00 บาท,kbank,Amount
+4000,364.00 บาท,kbank,Amount
+4001,442.00 บาท,kbank,Amount
+4002,542.00 บาท,kbank,Amount
+4003,361.00 บาท,kbank,Amount
+4004,751.00 บาท,kbank,Amount
+4005,180.00 บาท,kbank,Amount
+4006,542.00 บาท,kbank,Amount
+4007,726.00 บาท,kbank,Amount
+4008,556.00 บาท,kbank,Amount
+4009,220.00 บาท,kbank,Amount
+4010,935.00 บาท,kbank,Amount
+4011,207.00 บาท,kbank,Amount
+4012,200.00 บาท,kbank,Amount
+4013,461.00 บาท,kbank,Amount
+4014,189.00 บาท,kbank,Amount
+4015,720.00 บาท,kbank,Amount
+4016,588.00 บาท,kbank,Amount
+4017,386.00 บาท,kbank,Amount
+4018,408.00 บาท,kbank,Amount
+4019,427.00 บาท,kbank,Amount
+4020,276.00 บาท,kbank,Amount
+4021,857.00 บาท,kbank,Amount
+4022,224.00 บาท,kbank,Amount
+4023,976.00 บาท,kbank,Amount
+4024,302.00 บาท,kbank,Amount
+4025,682.00 บาท,kbank,Amount
+4026,523.00 บาท,kbank,Amount
+4027,779.00 บาท,kbank,Amount
+4028,444.00 บาท,kbank,Amount
+4029,776.00 บาท,kbank,Amount
+4030,352.00 บาท,kbank,Amount
+4031,930.00 บาท,kbank,Amount
+4032,301.00 บาท,kbank,Amount
+4033,862.00 บาท,kbank,Amount
+4034,128.00 บาท,kbank,Amount
+4035,839.00 บาท,kbank,Amount
+4036,258.00 บาท,kbank,Amount
+4037,153.00 บาท,kbank,Amount
+4038,114.00 บาท,kbank,Amount
+4039,202.00 บาท,kbank,Amount
+4040,639.00 บาท,kbank,Amount
+4041,720.00 บาท,kbank,Amount
+4042,523.00 บาท,kbank,Amount
+4043,925.00 บาท,kbank,Amount
+4044,619.00 บาท,kbank,Amount
+4045,991.00 บาท,kbank,Amount
+4046,271.00 บาท,kbank,Amount
+4047,971.00 บาท,kbank,Amount
+4048,378.00 บาท,kbank,Amount
+4049,886.00 บาท,kbank,Amount
+4050,342.00 บาท,kbank,Amount
+4051,885.00 บาท,kbank,Amount
+4052,945.00 บาท,kbank,Amount
+4053,111.00 บาท,kbank,Amount
+4054,887.00 บาท,kbank,Amount
+4055,267.00 บาท,kbank,Amount
+4056,128.00 บาท,kbank,Amount
+4057,160.00 บาท,kbank,Amount
+4058,311.00 บาท,kbank,Amount
+4059,550.00 บาท,kbank,Amount
+4060,546.00 บาท,kbank,Amount
+4061,692.00 บาท,kbank,Amount
+4062,616.00 บาท,kbank,Amount
+4063,519.00 บาท,kbank,Amount
+4064,277.00 บาท,kbank,Amount
+4065,954.00 บาท,kbank,Amount
+4066,920.00 บาท,kbank,Amount
+4067,170.00 บาท,kbank,Amount
+4068,238.00 บาท,kbank,Amount
+4069,830.00 บาท,kbank,Amount
+4070,279.00 บาท,kbank,Amount
+4071,331.00 บาท,kbank,Amount
+4072,278.00 บาท,kbank,Amount
+4073,396.00 บาท,kbank,Amount
+4074,246.00 บาท,kbank,Amount
+4075,227.00 บาท,kbank,Amount
+4076,407.00 บาท,kbank,Amount
+4077,493.00 บาท,kbank,Amount
+4078,872.00 บาท,kbank,Amount
+4079,779.00 บาท,kbank,Amount
+4080,584.00 บาท,kbank,Amount
+4081,295.00 บาท,kbank,Amount
+4082,562.00 บาท,kbank,Amount
+4083,160.00 บาท,kbank,Amount
+4084,677.00 บาท,kbank,Amount
+4085,862.00 บาท,kbank,Amount
+4086,186.00 บาท,kbank,Amount
+4087,728.00 บาท,kbank,Amount
+4088,304.00 บาท,kbank,Amount
+4089,650.00 บาท,kbank,Amount
+4090,437.00 บาท,kbank,Amount
+4091,129.00 บาท,kbank,Amount
+4092,279.00 บาท,kbank,Amount
+4093,506.00 บาท,kbank,Amount
+4094,354.00 บาท,kbank,Amount
+4095,175.00 บาท,kbank,Amount
+4096,479.00 บาท,kbank,Amount
+4097,633.00 บาท,kbank,Amount
+4098,404.00 บาท,kbank,Amount
+4099,137.00 บาท,kbank,Amount
+4100,585.00 บาท,kbank,Amount
+4101,899.00 บาท,kbank,Amount
+4102,623.00 บาท,kbank,Amount
+4103,230.00 บาท,kbank,Amount
+4104,828.00 บาท,kbank,Amount
+4105,115.00 บาท,kbank,Amount
+4106,110.00 บาท,kbank,Amount
+4107,108.00 บาท,kbank,Amount
+4108,175.00 บาท,kbank,Amount
+4109,476.00 บาท,kbank,Amount
+4110,213.00 บาท,kbank,Amount
+4111,836.00 บาท,kbank,Amount
+4112,611.00 บาท,kbank,Amount
+4113,236.00 บาท,kbank,Amount
+4114,614.00 บาท,kbank,Amount
+4115,569.00 บาท,kbank,Amount
+4116,116.00 บาท,kbank,Amount
+4117,459.00 บาท,kbank,Amount
+4118,789.00 บาท,kbank,Amount
+4119,203.00 บาท,kbank,Amount
+4120,517.00 บาท,kbank,Amount
+4121,723.00 บาท,kbank,Amount
+4122,755.00 บาท,kbank,Amount
+4123,676.00 บาท,kbank,Amount
+4124,233.00 บาท,kbank,Amount
+4125,179.00 บาท,kbank,Amount
+4126,269.00 บาท,kbank,Amount
+4127,912.00 บาท,kbank,Amount
+4128,833.00 บาท,kbank,Amount
+4129,486.00 บาท,kbank,Amount
+4130,651.00 บาท,kbank,Amount
+4131,595.00 บาท,kbank,Amount
+4132,837.00 บาท,kbank,Amount
+4133,509.00 บาท,kbank,Amount
+4134,407.00 บาท,kbank,Amount
+4135,104.00 บาท,kbank,Amount
+4136,356.00 บาท,kbank,Amount
+4137,317.00 บาท,kbank,Amount
+4138,700.00 บาท,kbank,Amount
+4139,555.00 บาท,kbank,Amount
+4140,679.00 บาท,kbank,Amount
+4141,351.00 บาท,kbank,Amount
+4142,535.00 บาท,kbank,Amount
+4143,480.00 บาท,kbank,Amount
+4144,199.00 บาท,kbank,Amount
+4145,902.00 บาท,kbank,Amount
+4146,342.00 บาท,kbank,Amount
+4147,798.00 บาท,kbank,Amount
+4148,445.00 บาท,kbank,Amount
+4149,224.00 บาท,kbank,Amount
+4150,2116.00 บาท,kbank,Amount
+4151,1543.00 บาท,kbank,Amount
+4152,4433.00 บาท,kbank,Amount
+4153,8501.00 บาท,kbank,Amount
+4154,4967.00 บาท,kbank,Amount
+4155,4518.00 บาท,kbank,Amount
+4156,3694.00 บาท,kbank,Amount
+4157,6757.00 บาท,kbank,Amount
+4158,7502.00 บาท,kbank,Amount
+4159,2117.00 บาท,kbank,Amount
+4160,9995.00 บาท,kbank,Amount
+4161,9086.00 บาท,kbank,Amount
+4162,5428.00 บาท,kbank,Amount
+4163,5181.00 บาท,kbank,Amount
+4164,1476.00 บาท,kbank,Amount
+4165,9203.00 บาท,kbank,Amount
+4166,5762.00 บาท,kbank,Amount
+4167,7633.00 บาท,kbank,Amount
+4168,5562.00 บาท,kbank,Amount
+4169,4775.00 บาท,kbank,Amount
+4170,6167.00 บาท,kbank,Amount
+4171,6948.00 บาท,kbank,Amount
+4172,7940.00 บาท,kbank,Amount
+4173,7560.00 บาท,kbank,Amount
+4174,5846.00 บาท,kbank,Amount
+4175,7966.00 บาท,kbank,Amount
+4176,9332.00 บาท,kbank,Amount
+4177,8337.00 บาท,kbank,Amount
+4178,8552.00 บาท,kbank,Amount
+4179,7947.00 บาท,kbank,Amount
+4180,1070.00 บาท,kbank,Amount
+4181,8522.00 บาท,kbank,Amount
+4182,8554.00 บาท,kbank,Amount
+4183,1204.00 บาท,kbank,Amount
+4184,3909.00 บาท,kbank,Amount
+4185,5496.00 บาท,kbank,Amount
+4186,4610.00 บาท,kbank,Amount
+4187,3715.00 บาท,kbank,Amount
+4188,8969.00 บาท,kbank,Amount
+4189,8499.00 บาท,kbank,Amount
+4190,6698.00 บาท,kbank,Amount
+4191,1132.00 บาท,kbank,Amount
+4192,7037.00 บาท,kbank,Amount
+4193,7387.00 บาท,kbank,Amount
+4194,8315.00 บาท,kbank,Amount
+4195,8211.00 บาท,kbank,Amount
+4196,1273.00 บาท,kbank,Amount
+4197,9920.00 บาท,kbank,Amount
+4198,7742.00 บาท,kbank,Amount
+4199,6787.00 บาท,kbank,Amount
+4200,6900.00 บาท,kbank,Amount
+4201,3681.00 บาท,kbank,Amount
+4202,9732.00 บาท,kbank,Amount
+4203,7575.00 บาท,kbank,Amount
+4204,2409.00 บาท,kbank,Amount
+4205,8645.00 บาท,kbank,Amount
+4206,5426.00 บาท,kbank,Amount
+4207,8834.00 บาท,kbank,Amount
+4208,5464.00 บาท,kbank,Amount
+4209,1996.00 บาท,kbank,Amount
+4210,3402.00 บาท,kbank,Amount
+4211,9551.00 บาท,kbank,Amount
+4212,2116.00 บาท,kbank,Amount
+4213,9558.00 บาท,kbank,Amount
+4214,9457.00 บาท,kbank,Amount
+4215,3276.00 บาท,kbank,Amount
+4216,8117.00 บาท,kbank,Amount
+4217,7770.00 บาท,kbank,Amount
+4218,2831.00 บาท,kbank,Amount
+4219,3046.00 บาท,kbank,Amount
+4220,9865.00 บาท,kbank,Amount
+4221,4054.00 บาท,kbank,Amount
+4222,5623.00 บาท,kbank,Amount
+4223,6337.00 บาท,kbank,Amount
+4224,6489.00 บาท,kbank,Amount
+4225,2659.00 บาท,kbank,Amount
+4226,9745.00 บาท,kbank,Amount
+4227,8015.00 บาท,kbank,Amount
+4228,1319.00 บาท,kbank,Amount
+4229,7155.00 บาท,kbank,Amount
+4230,9822.00 บาท,kbank,Amount
+4231,3954.00 บาท,kbank,Amount
+4232,7688.00 บาท,kbank,Amount
+4233,9895.00 บาท,kbank,Amount
+4234,2805.00 บาท,kbank,Amount
+4235,3061.00 บาท,kbank,Amount
+4236,1815.00 บาท,kbank,Amount
+4237,5658.00 บาท,kbank,Amount
+4238,9560.00 บาท,kbank,Amount
+4239,1314.00 บาท,kbank,Amount
+4240,9087.00 บาท,kbank,Amount
+4241,8006.00 บาท,kbank,Amount
+4242,9561.00 บาท,kbank,Amount
+4243,4036.00 บาท,kbank,Amount
+4244,1301.00 บาท,kbank,Amount
+4245,2418.00 บาท,kbank,Amount
+4246,3069.00 บาท,kbank,Amount
+4247,1841.00 บาท,kbank,Amount
+4248,6627.00 บาท,kbank,Amount
+4249,1366.00 บาท,kbank,Amount
+4250,3360.00 บาท,kbank,Amount
+4251,8680.00 บาท,kbank,Amount
+4252,3969.00 บาท,kbank,Amount
+4253,1709.00 บาท,kbank,Amount
+4254,1264.00 บาท,kbank,Amount
+4255,3257.00 บาท,kbank,Amount
+4256,5240.00 บาท,kbank,Amount
+4257,2654.00 บาท,kbank,Amount
+4258,9623.00 บาท,kbank,Amount
+4259,5216.00 บาท,kbank,Amount
+4260,3147.00 บาท,kbank,Amount
+4261,3571.00 บาท,kbank,Amount
+4262,2865.00 บาท,kbank,Amount
+4263,8404.00 บาท,kbank,Amount
+4264,7195.00 บาท,kbank,Amount
+4265,7122.00 บาท,kbank,Amount
+4266,4548.00 บาท,kbank,Amount
+4267,2890.00 บาท,kbank,Amount
+4268,9606.00 บาท,kbank,Amount
+4269,9607.00 บาท,kbank,Amount
+4270,1426.00 บาท,kbank,Amount
+4271,5315.00 บาท,kbank,Amount
+4272,8950.00 บาท,kbank,Amount
+4273,7298.00 บาท,kbank,Amount
+4274,1660.00 บาท,kbank,Amount
+4275,7096.00 บาท,kbank,Amount
+4276,6276.00 บาท,kbank,Amount
+4277,8683.00 บาท,kbank,Amount
+4278,5374.00 บาท,kbank,Amount
+4279,5790.00 บาท,kbank,Amount
+4280,3395.00 บาท,kbank,Amount
+4281,6411.00 บาท,kbank,Amount
+4282,6473.00 บาท,kbank,Amount
+4283,5626.00 บาท,kbank,Amount
+4284,9897.00 บาท,kbank,Amount
+4285,7670.00 บาท,kbank,Amount
+4286,8272.00 บาท,kbank,Amount
+4287,1002.00 บาท,kbank,Amount
+4288,8153.00 บาท,kbank,Amount
+4289,6843.00 บาท,kbank,Amount
+4290,1628.00 บาท,kbank,Amount
+4291,4093.00 บาท,kbank,Amount
+4292,6101.00 บาท,kbank,Amount
+4293,7689.00 บาท,kbank,Amount
+4294,6945.00 บาท,kbank,Amount
+4295,5210.00 บาท,kbank,Amount
+4296,2160.00 บาท,kbank,Amount
+4297,7272.00 บาท,kbank,Amount
+4298,9506.00 บาท,kbank,Amount
+4299,6302.00 บาท,kbank,Amount
+4300,8774.00 บาท,kbank,Amount
+4301,7629.00 บาท,kbank,Amount
+4302,6638.00 บาท,kbank,Amount
+4303,3521.00 บาท,kbank,Amount
+4304,4814.00 บาท,kbank,Amount
+4305,9092.00 บาท,kbank,Amount
+4306,3946.00 บาท,kbank,Amount
+4307,4669.00 บาท,kbank,Amount
+4308,3603.00 บาท,kbank,Amount
+4309,9572.00 บาท,kbank,Amount
+4310,8221.00 บาท,kbank,Amount
+4311,9855.00 บาท,kbank,Amount
+4312,6702.00 บาท,kbank,Amount
+4313,3025.00 บาท,kbank,Amount
+4314,4728.00 บาท,kbank,Amount
+4315,5958.00 บาท,kbank,Amount
+4316,6189.00 บาท,kbank,Amount
+4317,1047.00 บาท,kbank,Amount
+4318,9732.00 บาท,kbank,Amount
+4319,7153.00 บาท,kbank,Amount
+4320,1348.00 บาท,kbank,Amount
+4321,8389.00 บาท,kbank,Amount
+4322,8815.00 บาท,kbank,Amount
+4323,3642.00 บาท,kbank,Amount
+4324,9196.00 บาท,kbank,Amount
+4325,2281.00 บาท,kbank,Amount
+4326,6251.00 บาท,kbank,Amount
+4327,1699.00 บาท,kbank,Amount
+4328,4892.00 บาท,kbank,Amount
+4329,9473.00 บาท,kbank,Amount
+4330,7920.00 บาท,kbank,Amount
+4331,1350.00 บาท,kbank,Amount
+4332,4158.00 บาท,kbank,Amount
+4333,2991.00 บาท,kbank,Amount
+4334,6727.00 บาท,kbank,Amount
+4335,8602.00 บาท,kbank,Amount
+4336,1354.00 บาท,kbank,Amount
+4337,9749.00 บาท,kbank,Amount
+4338,9745.00 บาท,kbank,Amount
+4339,5650.00 บาท,kbank,Amount
+4340,6796.00 บาท,kbank,Amount
+4341,2725.00 บาท,kbank,Amount
+4342,9801.00 บาท,kbank,Amount
+4343,3870.00 บาท,kbank,Amount
+4344,1311.00 บาท,kbank,Amount
+4345,6186.00 บาท,kbank,Amount
+4346,3782.00 บาท,kbank,Amount
+4347,1055.00 บาท,kbank,Amount
+4348,1094.00 บาท,kbank,Amount
+4349,3978.00 บาท,kbank,Amount
+4350,9916.00 บาท,kbank,Amount
+4351,1371.00 บาท,kbank,Amount
+4352,4808.00 บาท,kbank,Amount
+4353,1488.00 บาท,kbank,Amount
+4354,7656.00 บาท,kbank,Amount
+4355,2563.00 บาท,kbank,Amount
+4356,1641.00 บาท,kbank,Amount
+4357,4943.00 บาท,kbank,Amount
+4358,2314.00 บาท,kbank,Amount
+4359,3853.00 บาท,kbank,Amount
+4360,3199.00 บาท,kbank,Amount
+4361,2368.00 บาท,kbank,Amount
+4362,2448.00 บาท,kbank,Amount
+4363,1245.00 บาท,kbank,Amount
+4364,5513.00 บาท,kbank,Amount
+4365,7431.00 บาท,kbank,Amount
+4366,1586.00 บาท,kbank,Amount
+4367,9228.00 บาท,kbank,Amount
+4368,9980.00 บาท,kbank,Amount
+4369,4097.00 บาท,kbank,Amount
+4370,2961.00 บาท,kbank,Amount
+4371,6052.00 บาท,kbank,Amount
+4372,3183.00 บาท,kbank,Amount
+4373,3953.00 บาท,kbank,Amount
+4374,3732.00 บาท,kbank,Amount
+4375,2673.00 บาท,kbank,Amount
+4376,5830.00 บาท,kbank,Amount
+4377,9636.00 บาท,kbank,Amount
+4378,3350.00 บาท,kbank,Amount
+4379,3679.00 บาท,kbank,Amount
+4380,7778.00 บาท,kbank,Amount
+4381,4760.00 บาท,kbank,Amount
+4382,4050.00 บาท,kbank,Amount
+4383,4439.00 บาท,kbank,Amount
+4384,6431.00 บาท,kbank,Amount
+4385,4371.00 บาท,kbank,Amount
+4386,5256.00 บาท,kbank,Amount
+4387,7506.00 บาท,kbank,Amount
+4388,6772.00 บาท,kbank,Amount
+4389,3575.00 บาท,kbank,Amount
+4390,7589.00 บาท,kbank,Amount
+4391,2829.00 บาท,kbank,Amount
+4392,9494.00 บาท,kbank,Amount
+4393,1504.00 บาท,kbank,Amount
+4394,4757.00 บาท,kbank,Amount
+4395,5893.00 บาท,kbank,Amount
+4396,3896.00 บาท,kbank,Amount
+4397,5942.00 บาท,kbank,Amount
+4398,1115.00 บาท,kbank,Amount
+4399,8175.00 บาท,kbank,Amount
+4400,7077.00 บาท,kbank,Amount
+4401,6585.00 บาท,kbank,Amount
+4402,3725.00 บาท,kbank,Amount
+4403,3453.00 บาท,kbank,Amount
+4404,6969.00 บาท,kbank,Amount
+4405,6913.00 บาท,kbank,Amount
+4406,3373.00 บาท,kbank,Amount
+4407,8055.00 บาท,kbank,Amount
+4408,5926.00 บาท,kbank,Amount
+4409,8284.00 บาท,kbank,Amount
+4410,3848.00 บาท,kbank,Amount
+4411,6306.00 บาท,kbank,Amount
+4412,3309.00 บาท,kbank,Amount
+4413,3156.00 บาท,kbank,Amount
+4414,9274.00 บาท,kbank,Amount
+4415,8119.00 บาท,kbank,Amount
+4416,2996.00 บาท,kbank,Amount
+4417,3648.00 บาท,kbank,Amount
+4418,6703.00 บาท,kbank,Amount
+4419,9658.00 บาท,kbank,Amount
+4420,5809.00 บาท,kbank,Amount
+4421,6376.00 บาท,kbank,Amount
+4422,2136.00 บาท,kbank,Amount
+4423,1062.00 บาท,kbank,Amount
+4424,6938.00 บาท,kbank,Amount
+4425,6111.00 บาท,kbank,Amount
+4426,4295.00 บาท,kbank,Amount
+4427,1729.00 บาท,kbank,Amount
+4428,4203.00 บาท,kbank,Amount
+4429,8709.00 บาท,kbank,Amount
+4430,3194.00 บาท,kbank,Amount
+4431,6035.00 บาท,kbank,Amount
+4432,2260.00 บาท,kbank,Amount
+4433,6464.00 บาท,kbank,Amount
+4434,4580.00 บาท,kbank,Amount
+4435,2504.00 บาท,kbank,Amount
+4436,8624.00 บาท,kbank,Amount
+4437,5061.00 บาท,kbank,Amount
+4438,2348.00 บาท,kbank,Amount
+4439,1525.00 บาท,kbank,Amount
+4440,2150.00 บาท,kbank,Amount
+4441,9922.00 บาท,kbank,Amount
+4442,1935.00 บาท,kbank,Amount
+4443,4684.00 บาท,kbank,Amount
+4444,8033.00 บาท,kbank,Amount
+4445,1675.00 บาท,kbank,Amount
+4446,8232.00 บาท,kbank,Amount
+4447,8396.00 บาท,kbank,Amount
+4448,9720.00 บาท,kbank,Amount
+4449,5856.00 บาท,kbank,Amount
+4450,9761.00 บาท,kbank,Amount
+4451,3864.00 บาท,kbank,Amount
+4452,4839.00 บาท,kbank,Amount
+4453,4797.00 บาท,kbank,Amount
+4454,2137.00 บาท,kbank,Amount
+4455,1313.00 บาท,kbank,Amount
+4456,2386.00 บาท,kbank,Amount
+4457,7204.00 บาท,kbank,Amount
+4458,6754.00 บาท,kbank,Amount
+4459,9527.00 บาท,kbank,Amount
+4460,7146.00 บาท,kbank,Amount
+4461,9689.00 บาท,kbank,Amount
+4462,5121.00 บาท,kbank,Amount
+4463,8821.00 บาท,kbank,Amount
+4464,8755.00 บาท,kbank,Amount
+4465,3867.00 บาท,kbank,Amount
+4466,5637.00 บาท,kbank,Amount
+4467,9835.00 บาท,kbank,Amount
+4468,4799.00 บาท,kbank,Amount
+4469,3351.00 บาท,kbank,Amount
+4470,3556.00 บาท,kbank,Amount
+4471,8223.00 บาท,kbank,Amount
+4472,6762.00 บาท,kbank,Amount
+4473,2868.00 บาท,kbank,Amount
+4474,2210.00 บาท,kbank,Amount
+4475,2196.00 บาท,kbank,Amount
+4476,3343.00 บาท,kbank,Amount
+4477,6904.00 บาท,kbank,Amount
+4478,4416.00 บาท,kbank,Amount
+4479,8865.00 บาท,kbank,Amount
+4480,5078.00 บาท,kbank,Amount
+4481,7897.00 บาท,kbank,Amount
+4482,4615.00 บาท,kbank,Amount
+4483,7169.00 บาท,kbank,Amount
+4484,7215.00 บาท,kbank,Amount
+4485,3913.00 บาท,kbank,Amount
+4486,2662.00 บาท,kbank,Amount
+4487,8965.00 บาท,kbank,Amount
+4488,8595.00 บาท,kbank,Amount
+4489,7584.00 บาท,kbank,Amount
+4490,1071.00 บาท,kbank,Amount
+4491,3782.00 บาท,kbank,Amount
+4492,6485.00 บาท,kbank,Amount
+4493,9182.00 บาท,kbank,Amount
+4494,1773.00 บาท,kbank,Amount
+4495,8905.00 บาท,kbank,Amount
+4496,8183.00 บาท,kbank,Amount
+4497,3541.00 บาท,kbank,Amount
+4498,6104.00 บาท,kbank,Amount
+4499,5591.00 บาท,kbank,Amount
+4500,7841.00 บาท,kbank,Amount
+4501,4397.00 บาท,kbank,Amount
+4502,4831.00 บาท,kbank,Amount
+4503,1342.00 บาท,kbank,Amount
+4504,9651.00 บาท,kbank,Amount
+4505,9190.00 บาท,kbank,Amount
+4506,8868.00 บาท,kbank,Amount
+4507,5099.00 บาท,kbank,Amount
+4508,8537.00 บาท,kbank,Amount
+4509,1997.00 บาท,kbank,Amount
+4510,4129.00 บาท,kbank,Amount
+4511,7475.00 บาท,kbank,Amount
+4512,4332.00 บาท,kbank,Amount
+4513,2660.00 บาท,kbank,Amount
+4514,3980.00 บาท,kbank,Amount
+4515,7844.00 บาท,kbank,Amount
+4516,8823.00 บาท,kbank,Amount
+4517,1808.00 บาท,kbank,Amount
+4518,2400.00 บาท,kbank,Amount
+4519,8094.00 บาท,kbank,Amount
+4520,2132.00 บาท,kbank,Amount
+4521,3304.00 บาท,kbank,Amount
+4522,4188.00 บาท,kbank,Amount
+4523,9998.00 บาท,kbank,Amount
+4524,1794.00 บาท,kbank,Amount
+4525,3569.00 บาท,kbank,Amount
+4526,7872.00 บาท,kbank,Amount
+4527,7518.00 บาท,kbank,Amount
+4528,8761.00 บาท,kbank,Amount
+4529,3813.00 บาท,kbank,Amount
+4530,6920.00 บาท,kbank,Amount
+4531,2769.00 บาท,kbank,Amount
+4532,7656.00 บาท,kbank,Amount
+4533,6784.00 บาท,kbank,Amount
+4534,2288.00 บาท,kbank,Amount
+4535,9315.00 บาท,kbank,Amount
+4536,7203.00 บาท,kbank,Amount
+4537,8327.00 บาท,kbank,Amount
+4538,4388.00 บาท,kbank,Amount
+4539,6862.00 บาท,kbank,Amount
+4540,3850.00 บาท,kbank,Amount
+4541,5888.00 บาท,kbank,Amount
+4542,2848.00 บาท,kbank,Amount
+4543,9585.00 บาท,kbank,Amount
+4544,4559.00 บาท,kbank,Amount
+4545,6868.00 บาท,kbank,Amount
+4546,2843.00 บาท,kbank,Amount
+4547,4659.00 บาท,kbank,Amount
+4548,4669.00 บาท,kbank,Amount
+4549,2312.00 บาท,kbank,Amount
+4550,"67,438.00 บาท",kbank,Amount
+4551,"47,039.00 บาท",kbank,Amount
+4552,"13,536.00 บาท",kbank,Amount
+4553,"98,795.00 บาท",kbank,Amount
+4554,"68,912.00 บาท",kbank,Amount
+4555,"44,257.00 บาท",kbank,Amount
+4556,"95,725.00 บาท",kbank,Amount
+4557,"12,679.00 บาท",kbank,Amount
+4558,"64,752.00 บาท",kbank,Amount
+4559,"48,428.00 บาท",kbank,Amount
+4560,"12,371.00 บาท",kbank,Amount
+4561,"89,971.00 บาท",kbank,Amount
+4562,"74,163.00 บาท",kbank,Amount
+4563,"73,477.00 บาท",kbank,Amount
+4564,"36,035.00 บาท",kbank,Amount
+4565,"78,686.00 บาท",kbank,Amount
+4566,"43,888.00 บาท",kbank,Amount
+4567,"26,980.00 บาท",kbank,Amount
+4568,"69,550.00 บาท",kbank,Amount
+4569,"97,856.00 บาท",kbank,Amount
+4570,"82,229.00 บาท",kbank,Amount
+4571,"51,724.00 บาท",kbank,Amount
+4572,"65,185.00 บาท",kbank,Amount
+4573,"76,562.00 บาท",kbank,Amount
+4574,"17,881.00 บาท",kbank,Amount
+4575,"40,400.00 บาท",kbank,Amount
+4576,"22,486.00 บาท",kbank,Amount
+4577,"41,228.00 บาท",kbank,Amount
+4578,"52,770.00 บาท",kbank,Amount
+4579,"92,393.00 บาท",kbank,Amount
+4580,"38,313.00 บาท",kbank,Amount
+4581,"56,600.00 บาท",kbank,Amount
+4582,"32,902.00 บาท",kbank,Amount
+4583,"74,961.00 บาท",kbank,Amount
+4584,"46,204.00 บาท",kbank,Amount
+4585,"10,803.00 บาท",kbank,Amount
+4586,"21,248.00 บาท",kbank,Amount
+4587,"59,088.00 บาท",kbank,Amount
+4588,"15,780.00 บาท",kbank,Amount
+4589,"92,456.00 บาท",kbank,Amount
+4590,"20,616.00 บาท",kbank,Amount
+4591,"72,898.00 บาท",kbank,Amount
+4592,"58,926.00 บาท",kbank,Amount
+4593,"73,149.00 บาท",kbank,Amount
+4594,"95,469.00 บาท",kbank,Amount
+4595,"50,833.00 บาท",kbank,Amount
+4596,"25,410.00 บาท",kbank,Amount
+4597,"64,539.00 บาท",kbank,Amount
+4598,"48,712.00 บาท",kbank,Amount
+4599,"38,099.00 บาท",kbank,Amount
+4600,"82,218.00 บาท",kbank,Amount
+4601,"61,513.00 บาท",kbank,Amount
+4602,"74,385.00 บาท",kbank,Amount
+4603,"25,800.00 บาท",kbank,Amount
+4604,"73,857.00 บาท",kbank,Amount
+4605,"11,105.00 บาท",kbank,Amount
+4606,"38,880.00 บาท",kbank,Amount
+4607,"19,411.00 บาท",kbank,Amount
+4608,"72,025.00 บาท",kbank,Amount
+4609,"60,461.00 บาท",kbank,Amount
+4610,"51,799.00 บาท",kbank,Amount
+4611,"91,654.00 บาท",kbank,Amount
+4612,"33,856.00 บาท",kbank,Amount
+4613,"92,334.00 บาท",kbank,Amount
+4614,"40,366.00 บาท",kbank,Amount
+4615,"71,420.00 บาท",kbank,Amount
+4616,"76,709.00 บาท",kbank,Amount
+4617,"28,870.00 บาท",kbank,Amount
+4618,"62,002.00 บาท",kbank,Amount
+4619,"96,699.00 บาท",kbank,Amount
+4620,"14,857.00 บาท",kbank,Amount
+4621,"69,100.00 บาท",kbank,Amount
+4622,"80,316.00 บาท",kbank,Amount
+4623,"18,014.00 บาท",kbank,Amount
+4624,"43,066.00 บาท",kbank,Amount
+4625,"65,595.00 บาท",kbank,Amount
+4626,"38,747.00 บาท",kbank,Amount
+4627,"30,220.00 บาท",kbank,Amount
+4628,"90,591.00 บาท",kbank,Amount
+4629,"36,338.00 บาท",kbank,Amount
+4630,"58,836.00 บาท",kbank,Amount
+4631,"11,756.00 บาท",kbank,Amount
+4632,"86,646.00 บาท",kbank,Amount
+4633,"25,905.00 บาท",kbank,Amount
+4634,"15,354.00 บาท",kbank,Amount
+4635,"77,696.00 บาท",kbank,Amount
+4636,"36,165.00 บาท",kbank,Amount
+4637,"47,002.00 บาท",kbank,Amount
+4638,"21,931.00 บาท",kbank,Amount
+4639,"99,608.00 บาท",kbank,Amount
+4640,"62,807.00 บาท",kbank,Amount
+4641,"99,388.00 บาท",kbank,Amount
+4642,"17,623.00 บาท",kbank,Amount
+4643,"54,283.00 บาท",kbank,Amount
+4644,"84,427.00 บาท",kbank,Amount
+4645,"61,423.00 บาท",kbank,Amount
+4646,"69,664.00 บาท",kbank,Amount
+4647,"59,481.00 บาท",kbank,Amount
+4648,"11,839.00 บาท",kbank,Amount
+4649,"47,887.00 บาท",kbank,Amount
+4650,"54,757.00 บาท",kbank,Amount
+4651,"48,552.00 บาท",kbank,Amount
+4652,"19,820.00 บาท",kbank,Amount
+4653,"19,016.00 บาท",kbank,Amount
+4654,"16,572.00 บาท",kbank,Amount
+4655,"32,731.00 บาท",kbank,Amount
+4656,"78,250.00 บาท",kbank,Amount
+4657,"15,587.00 บาท",kbank,Amount
+4658,"99,215.00 บาท",kbank,Amount
+4659,"44,788.00 บาท",kbank,Amount
+4660,"33,249.00 บาท",kbank,Amount
+4661,"14,500.00 บาท",kbank,Amount
+4662,"79,550.00 บาท",kbank,Amount
+4663,"82,261.00 บาท",kbank,Amount
+4664,"14,293.00 บาท",kbank,Amount
+4665,"53,500.00 บาท",kbank,Amount
+4666,"79,676.00 บาท",kbank,Amount
+4667,"18,665.00 บาท",kbank,Amount
+4668,"61,130.00 บาท",kbank,Amount
+4669,"60,666.00 บาท",kbank,Amount
+4670,"99,481.00 บาท",kbank,Amount
+4671,"45,810.00 บาท",kbank,Amount
+4672,"23,767.00 บาท",kbank,Amount
+4673,"89,729.00 บาท",kbank,Amount
+4674,"90,190.00 บาท",kbank,Amount
+4675,"46,429.00 บาท",kbank,Amount
+4676,"49,176.00 บาท",kbank,Amount
+4677,"55,345.00 บาท",kbank,Amount
+4678,"99,271.00 บาท",kbank,Amount
+4679,"17,320.00 บาท",kbank,Amount
+4680,"43,645.00 บาท",kbank,Amount
+4681,"25,371.00 บาท",kbank,Amount
+4682,"64,449.00 บาท",kbank,Amount
+4683,"49,309.00 บาท",kbank,Amount
+4684,"84,425.00 บาท",kbank,Amount
+4685,"79,235.00 บาท",kbank,Amount
+4686,"51,033.00 บาท",kbank,Amount
+4687,"88,158.00 บาท",kbank,Amount
+4688,"50,644.00 บาท",kbank,Amount
+4689,"41,741.00 บาท",kbank,Amount
+4690,"16,255.00 บาท",kbank,Amount
+4691,"16,636.00 บาท",kbank,Amount
+4692,"27,784.00 บาท",kbank,Amount
+4693,"23,365.00 บาท",kbank,Amount
+4694,"44,796.00 บาท",kbank,Amount
+4695,"69,615.00 บาท",kbank,Amount
+4696,"57,203.00 บาท",kbank,Amount
+4697,"98,979.00 บาท",kbank,Amount
+4698,"38,863.00 บาท",kbank,Amount
+4699,"59,836.00 บาท",kbank,Amount
+4700,"81,574.00 บาท",kbank,Amount
+4701,"36,268.00 บาท",kbank,Amount
+4702,"51,573.00 บาท",kbank,Amount
+4703,"51,025.00 บาท",kbank,Amount
+4704,"20,421.00 บาท",kbank,Amount
+4705,"37,691.00 บาท",kbank,Amount
+4706,"37,547.00 บาท",kbank,Amount
+4707,"89,742.00 บาท",kbank,Amount
+4708,"82,220.00 บาท",kbank,Amount
+4709,"66,470.00 บาท",kbank,Amount
+4710,"41,437.00 บาท",kbank,Amount
+4711,"70,380.00 บาท",kbank,Amount
+4712,"10,449.00 บาท",kbank,Amount
+4713,"71,450.00 บาท",kbank,Amount
+4714,"59,243.00 บาท",kbank,Amount
+4715,"84,301.00 บาท",kbank,Amount
+4716,"12,419.00 บาท",kbank,Amount
+4717,"48,887.00 บาท",kbank,Amount
+4718,"74,769.00 บาท",kbank,Amount
+4719,"78,304.00 บาท",kbank,Amount
+4720,"27,609.00 บาท",kbank,Amount
+4721,"22,146.00 บาท",kbank,Amount
+4722,"28,981.00 บาท",kbank,Amount
+4723,"83,560.00 บาท",kbank,Amount
+4724,"28,863.00 บาท",kbank,Amount
+4725,"64,917.00 บาท",kbank,Amount
+4726,"33,999.00 บาท",kbank,Amount
+4727,"46,274.00 บาท",kbank,Amount
+4728,"95,191.00 บาท",kbank,Amount
+4729,"72,717.00 บาท",kbank,Amount
+4730,"77,597.00 บาท",kbank,Amount
+4731,"23,763.00 บาท",kbank,Amount
+4732,"38,466.00 บาท",kbank,Amount
+4733,"90,597.00 บาท",kbank,Amount
+4734,"43,379.00 บาท",kbank,Amount
+4735,"33,099.00 บาท",kbank,Amount
+4736,"32,551.00 บาท",kbank,Amount
+4737,"81,351.00 บาท",kbank,Amount
+4738,"12,123.00 บาท",kbank,Amount
+4739,"79,503.00 บาท",kbank,Amount
+4740,"64,857.00 บาท",kbank,Amount
+4741,"94,731.00 บาท",kbank,Amount
+4742,"66,908.00 บาท",kbank,Amount
+4743,"76,312.00 บาท",kbank,Amount
+4744,"47,053.00 บาท",kbank,Amount
+4745,"78,604.00 บาท",kbank,Amount
+4746,"78,827.00 บาท",kbank,Amount
+4747,"22,922.00 บาท",kbank,Amount
+4748,"60,931.00 บาท",kbank,Amount
+4749,"74,855.00 บาท",kbank,Amount
+4750,"57,767.00 บาท",kbank,Amount
+4751,"79,469.00 บาท",kbank,Amount
+4752,"57,382.00 บาท",kbank,Amount
+4753,"40,585.00 บาท",kbank,Amount
+4754,"75,963.00 บาท",kbank,Amount
+4755,"27,488.00 บาท",kbank,Amount
+4756,"66,086.00 บาท",kbank,Amount
+4757,"76,562.00 บาท",kbank,Amount
+4758,"68,927.00 บาท",kbank,Amount
+4759,"94,155.00 บาท",kbank,Amount
+4760,"79,570.00 บาท",kbank,Amount
+4761,"56,860.00 บาท",kbank,Amount
+4762,"95,906.00 บาท",kbank,Amount
+4763,"48,438.00 บาท",kbank,Amount
+4764,"30,687.00 บาท",kbank,Amount
+4765,"59,676.00 บาท",kbank,Amount
+4766,"96,310.00 บาท",kbank,Amount
+4767,"31,391.00 บาท",kbank,Amount
+4768,"92,265.00 บาท",kbank,Amount
+4769,"95,145.00 บาท",kbank,Amount
+4770,"20,740.00 บาท",kbank,Amount
+4771,"74,110.00 บาท",kbank,Amount
+4772,"47,195.00 บาท",kbank,Amount
+4773,"67,713.00 บาท",kbank,Amount
+4774,"95,779.00 บาท",kbank,Amount
+4775,"70,815.00 บาท",kbank,Amount
+4776,"55,753.00 บาท",kbank,Amount
+4777,"28,908.00 บาท",kbank,Amount
+4778,"83,493.00 บาท",kbank,Amount
+4779,"89,889.00 บาท",kbank,Amount
+4780,"79,284.00 บาท",kbank,Amount
+4781,"92,829.00 บาท",kbank,Amount
+4782,"13,334.00 บาท",kbank,Amount
+4783,"99,792.00 บาท",kbank,Amount
+4784,"10,705.00 บาท",kbank,Amount
+4785,"25,493.00 บาท",kbank,Amount
+4786,"52,279.00 บาท",kbank,Amount
+4787,"35,859.00 บาท",kbank,Amount
+4788,"57,089.00 บาท",kbank,Amount
+4789,"36,794.00 บาท",kbank,Amount
+4790,"59,912.00 บาท",kbank,Amount
+4791,"32,072.00 บาท",kbank,Amount
+4792,"32,944.00 บาท",kbank,Amount
+4793,"38,045.00 บาท",kbank,Amount
+4794,"99,879.00 บาท",kbank,Amount
+4795,"15,957.00 บาท",kbank,Amount
+4796,"71,686.00 บาท",kbank,Amount
+4797,"52,249.00 บาท",kbank,Amount
+4798,"82,680.00 บาท",kbank,Amount
+4799,"30,024.00 บาท",kbank,Amount
+4800,"22,455.00 บาท",kbank,Amount
+4801,"85,713.00 บาท",kbank,Amount
+4802,"57,446.00 บาท",kbank,Amount
+4803,"95,378.00 บาท",kbank,Amount
+4804,"49,879.00 บาท",kbank,Amount
+4805,"93,177.00 บาท",kbank,Amount
+4806,"31,559.00 บาท",kbank,Amount
+4807,"99,406.00 บาท",kbank,Amount
+4808,"58,278.00 บาท",kbank,Amount
+4809,"44,461.00 บาท",kbank,Amount
+4810,"20,486.00 บาท",kbank,Amount
+4811,"97,636.00 บาท",kbank,Amount
+4812,"25,949.00 บาท",kbank,Amount
+4813,"16,267.00 บาท",kbank,Amount
+4814,"17,512.00 บาท",kbank,Amount
+4815,"40,818.00 บาท",kbank,Amount
+4816,"17,211.00 บาท",kbank,Amount
+4817,"83,706.00 บาท",kbank,Amount
+4818,"33,392.00 บาท",kbank,Amount
+4819,"24,347.00 บาท",kbank,Amount
+4820,"77,671.00 บาท",kbank,Amount
+4821,"26,570.00 บาท",kbank,Amount
+4822,"77,537.00 บาท",kbank,Amount
+4823,"64,020.00 บาท",kbank,Amount
+4824,"78,103.00 บาท",kbank,Amount
+4825,"11,097.00 บาท",kbank,Amount
+4826,"47,466.00 บาท",kbank,Amount
+4827,"35,046.00 บาท",kbank,Amount
+4828,"88,521.00 บาท",kbank,Amount
+4829,"95,112.00 บาท",kbank,Amount
+4830,"92,638.00 บาท",kbank,Amount
+4831,"82,676.00 บาท",kbank,Amount
+4832,"61,315.00 บาท",kbank,Amount
+4833,"85,414.00 บาท",kbank,Amount
+4834,"38,397.00 บาท",kbank,Amount
+4835,"81,419.00 บาท",kbank,Amount
+4836,"32,124.00 บาท",kbank,Amount
+4837,"81,683.00 บาท",kbank,Amount
+4838,"80,229.00 บาท",kbank,Amount
+4839,"79,086.00 บาท",kbank,Amount
+4840,"69,269.00 บาท",kbank,Amount
+4841,"69,551.00 บาท",kbank,Amount
+4842,"35,243.00 บาท",kbank,Amount
+4843,"85,381.00 บาท",kbank,Amount
+4844,"72,935.00 บาท",kbank,Amount
+4845,"80,551.00 บาท",kbank,Amount
+4846,"44,184.00 บาท",kbank,Amount
+4847,"51,076.00 บาท",kbank,Amount
+4848,"26,948.00 บาท",kbank,Amount
+4849,"16,509.00 บาท",kbank,Amount
+4850,"56,633.00 บาท",kbank,Amount
+4851,"19,913.00 บาท",kbank,Amount
+4852,"63,092.00 บาท",kbank,Amount
+4853,"69,234.00 บาท",kbank,Amount
+4854,"54,588.00 บาท",kbank,Amount
+4855,"89,692.00 บาท",kbank,Amount
+4856,"80,338.00 บาท",kbank,Amount
+4857,"19,617.00 บาท",kbank,Amount
+4858,"86,551.00 บาท",kbank,Amount
+4859,"18,281.00 บาท",kbank,Amount
+4860,"92,662.00 บาท",kbank,Amount
+4861,"86,936.00 บาท",kbank,Amount
+4862,"11,093.00 บาท",kbank,Amount
+4863,"65,107.00 บาท",kbank,Amount
+4864,"92,648.00 บาท",kbank,Amount
+4865,"21,011.00 บาท",kbank,Amount
+4866,"33,967.00 บาท",kbank,Amount
+4867,"75,803.00 บาท",kbank,Amount
+4868,"84,568.00 บาท",kbank,Amount
+4869,"98,017.00 บาท",kbank,Amount
+4870,"38,692.00 บาท",kbank,Amount
+4871,"66,846.00 บาท",kbank,Amount
+4872,"60,547.00 บาท",kbank,Amount
+4873,"58,899.00 บาท",kbank,Amount
+4874,"23,555.00 บาท",kbank,Amount
+4875,"18,575.00 บาท",kbank,Amount
+4876,"18,864.00 บาท",kbank,Amount
+4877,"32,651.00 บาท",kbank,Amount
+4878,"10,601.00 บาท",kbank,Amount
+4879,"32,971.00 บาท",kbank,Amount
+4880,"79,924.00 บาท",kbank,Amount
+4881,"96,960.00 บาท",kbank,Amount
+4882,"88,458.00 บาท",kbank,Amount
+4883,"18,120.00 บาท",kbank,Amount
+4884,"47,714.00 บาท",kbank,Amount
+4885,"46,347.00 บาท",kbank,Amount
+4886,"15,230.00 บาท",kbank,Amount
+4887,"48,622.00 บาท",kbank,Amount
+4888,"72,526.00 บาท",kbank,Amount
+4889,"61,443.00 บาท",kbank,Amount
+4890,"10,999.00 บาท",kbank,Amount
+4891,"52,272.00 บาท",kbank,Amount
+4892,"50,950.00 บาท",kbank,Amount
+4893,"34,850.00 บาท",kbank,Amount
+4894,"77,260.00 บาท",kbank,Amount
+4895,"23,828.00 บาท",kbank,Amount
+4896,"87,148.00 บาท",kbank,Amount
+4897,"92,925.00 บาท",kbank,Amount
+4898,"80,909.00 บาท",kbank,Amount
+4899,"92,034.00 บาท",kbank,Amount
+4900,"37,585.00 บาท",kbank,Amount
+4901,"45,846.00 บาท",kbank,Amount
+4902,"57,324.00 บาท",kbank,Amount
+4903,"21,073.00 บาท",kbank,Amount
+4904,"50,276.00 บาท",kbank,Amount
+4905,"37,048.00 บาท",kbank,Amount
+4906,"89,127.00 บาท",kbank,Amount
+4907,"86,590.00 บาท",kbank,Amount
+4908,"24,711.00 บาท",kbank,Amount
+4909,"29,904.00 บาท",kbank,Amount
+4910,"14,363.00 บาท",kbank,Amount
+4911,"87,646.00 บาท",kbank,Amount
+4912,"78,827.00 บาท",kbank,Amount
+4913,"65,493.00 บาท",kbank,Amount
+4914,"78,876.00 บาท",kbank,Amount
+4915,"83,217.00 บาท",kbank,Amount
+4916,"52,643.00 บาท",kbank,Amount
+4917,"96,856.00 บาท",kbank,Amount
+4918,"86,301.00 บาท",kbank,Amount
+4919,"39,277.00 บาท",kbank,Amount
+4920,"21,623.00 บาท",kbank,Amount
+4921,"14,222.00 บาท",kbank,Amount
+4922,"69,121.00 บาท",kbank,Amount
+4923,"71,998.00 บาท",kbank,Amount
+4924,"80,393.00 บาท",kbank,Amount
+4925,"54,801.00 บาท",kbank,Amount
+4926,"15,985.00 บาท",kbank,Amount
+4927,"91,281.00 บาท",kbank,Amount
+4928,"95,098.00 บาท",kbank,Amount
+4929,"16,065.00 บาท",kbank,Amount
+4930,"34,445.00 บาท",kbank,Amount
+4931,"17,741.00 บาท",kbank,Amount
+4932,"77,777.00 บาท",kbank,Amount
+4933,"33,923.00 บาท",kbank,Amount
+4934,"48,673.00 บาท",kbank,Amount
+4935,"29,405.00 บาท",kbank,Amount
+4936,"17,315.00 บาท",kbank,Amount
+4937,"79,482.00 บาท",kbank,Amount
+4938,"73,766.00 บาท",kbank,Amount
+4939,"44,329.00 บาท",kbank,Amount
+4940,"54,460.00 บาท",kbank,Amount
+4941,"64,240.00 บาท",kbank,Amount
+4942,"74,848.00 บาท",kbank,Amount
+4943,"27,723.00 บาท",kbank,Amount
+4944,"84,423.00 บาท",kbank,Amount
+4945,"71,254.00 บาท",kbank,Amount
+4946,"18,983.00 บาท",kbank,Amount
+4947,"69,615.00 บาท",kbank,Amount
+4948,"79,804.00 บาท",kbank,Amount
+4949,"13,624.00 บาท",kbank,Amount
